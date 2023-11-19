@@ -10,7 +10,7 @@ def read_seed_records(file_paths):
             with open(path, 'r') as file:
                 records.append(file.read())
         else:
-            print(f"ERROR: File not found: {path}")
+            print(f"[ERROR] File not found: {path}")
     return records
 
 
@@ -20,33 +20,43 @@ def save_records_to_file(records, dir):
         os.makedirs(dir)
 
     #save each record to a file
-    for i, record in enumerate(records):
-        fname = f"sr_{i}.txt"
+    record_id = 0
+    for record in records:
+        if record == "":
+            print("[WARN] empty output generated. Ommitted from results")
+            continue
+        fname = f"sr_{record_id}.txt"
         path = os.path.join(dir, fname)
 
         with open(path, 'w') as file:
             file.write(record)
+        
+        #TODO: find a better way to id records.
+        record_id += 1
 
 def synthesize_records_centor(seed_records, new_record_count, output_dir):
     #check token limits:
     if (len(seed_records) + new_record_count) > 16:
         print(len(seed_records))
         print(new_record_count)
-        print("ERROR: total token count will exceed token limit of model. Reduce number of seed records or lower number of output records.")
+        print("[ERROR] total token count will exceed token limit of model. Reduce number of seed records or lower number of output records.")
         return None
     
-    system_prompt = f"synthea creates synthetic but realistic EHR patient records. Given an example of such record create {new_record_count} other examples with different data but a similar chief complaint.\n\nMake sure to vary the following data:\n\n1. age\n2. temp\n3. tonsils condition\n4. lymph nodes condition\n5. cough presence\nSeparate records by the following string: ####"
+    system_prompt = f"synthea creates synthetic but realistic EHR patient records. Given an example of such record create {new_record_count} other examples with different data but a similar chief complaint.\n\nMake sure to vary the following data:\n\n1. age\n2. temp\n3. tonsils condition\n4. lymph nodes condition\n5. cough presence\nSeparate records by the following string:\n####"
 
     messages=[{"role": "system", "content": system_prompt}]
 
     for record in seed_records:
+        if record == "":
+            print("[WARN] empty seed record. Ommitted from input")
+            continue
         messages.append(
             {"role": "user", "content": record}
         )
 
     response = call_openai_chat(msgs=messages, mode=Mode.DEV)
+    
     output_records = response.split("####")
-
     save_records_to_file(output_records, output_dir)
 
 def main():
