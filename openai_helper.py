@@ -1,6 +1,8 @@
 from openai import OpenAI
 from log_helper import Mode, log
-client = OpenAI(api_key='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')
+import os
+API_KEY = os.environ.get('OPENAI_API_KEY_PATIENTPRO')
+client = OpenAI(api_key=API_KEY)
 
 def call_openai_chat(msgs, mode=Mode.PROD):
     log(mode, 
