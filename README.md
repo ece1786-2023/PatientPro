@@ -2,17 +2,26 @@
 
 ## Setup
 1. clone repo
-2. install requirements:
+2. setup virtual env:
+    -  create venv: 
+    ```
+    python3 -m venv patientpro
+    ```
+    - activate venv:
+    ```
+    source patientpro/bin/activate
+    ```
+3. install requirements:
 ```
 pip install -r requirements.txt
 ```
-3. configure api key from openAI:
+4. configure api key from openAI:
     - setup an API key as per openAI docs
     - export it to an env var as follows:
     ```
     export export OPENAI_API_KEY_PATIENTPRO=<INSERT API KEY HERE>
     ```
-4. (optional) you can also add the line in step 3 to your `~/.bashrc` or `~/.zshrc` to presist it.
+5. (optional) you can also add the line in step 3 to your `~/.bashrc` or `~/.zshrc` to presist it.
 
 5. you're good to go!
 
