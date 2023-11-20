@@ -1,0 +1,19 @@
+Patient: Jeniffer Jones
+Age: 13
+Date of Visit: 19/10/23
+Chief Complaint:
+Patient presents with a sore throat
+History of Present Illness
+Patient reports a sore throat that started 3 days ago as a mild irritation and has gradually progressed since then. Accompanied by intermittent coughing, mostly dry but occasionally productive. Pain does not radiate anywhere. Reports difficulty swallowing and mild discomfort while talking, as well as fevers overnight. Patient denies any chills or night sweats. Patient also denies any exposure to recent illness or family members with similar illness.
+Physical Examination:
+Vitals: HR: 102BPM, BR: 12BPM, BP: 122/82 Temp: 38.2°C (100.8°F)
+General Appearance: Well appearing patient.
+ENT (Ears, Nose, Throat): Throat erythema, tonsils swollen (Grade 2), with white-yellow visible exudate. No oral lesions noted. Nasal mucosa normal.
+Lymph Nodes: Palpable and tender cervical lymph nodes, particularly on the anterior chain.
+Respiratory: Breath sounds clear. No stridor or wheezing.
+Assessment and Plan:
+13 YOF presenting with 3 days of worsening sore throat, fevers and with tonsilar and lymphatic swelling and exudate. Likely Acute viral pharyngitis. Bacterial infection (e.g., streptococcal pharyngitis) cannot be completely ruled out without further testing.
+Plan
+•	Ibuprofen for pain and fever, as well as plenty of fluids and rest. Gargling with warm salt water may also provide some relief.
+•	Rapid strep test to rule out streptococcal infection. Will start empiric antibiotics. 
+- Patient advised to return or call if symptoms worsen significantly, if fever exceeds 38.9°C (102°F), or if symptoms do not improve in 3-4 days.

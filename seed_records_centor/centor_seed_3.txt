@@ -1,0 +1,20 @@
+Patient: Kelly Andersen
+Age: 27
+Date of Visit: 15/09/25
+Chief Complaint:
+Patient reports persistent sore throat and aches.
+History of Present Illness
+Patient experiences a sore throat for the past five days. Discomfort and pain have intensified over time. Patient presents distress with recurring coughing fits which are partly productive. Overwhelming fatigue and weakness also reported. No recent contact with ill individuals declared. 
+Physical Examination:
+Vitals: HR: 90 BPM, BR: 15 BPM, BP: 124/80 Temp: 38.6°C (101.5°F)
+General Appearance: Patient appears visibly unwell and fatigued.
+ENT (Ears, Nose, Throat): Severe tonsil inflammation observed (Grade 4). Noted yellowish exudate. Mouth and throat clear of any other noticeable issues.
+Lymph Nodes: Swollen and tender lymph nodes on the anterior chain.
+Respiratory: Clear breathing, albeit shaky due to coughing fits.
+Assessment and Plan: 
+27 YOF comes with severe sore throat with signs of tonsillitis and tenderness of lymph nodes. Fever and coughing are also significant, potentially caused by acute bacterial tonsillitis.
+Plan
+•	NSAIDs for fever and pain management.
+•	Rapid strep test for streptococci detection.
+•	If strep test comes back positive, will initiate antibiotics accordingly.
+•	Patient asked to return or reach if symptoms continue or worsen over the next few days.
