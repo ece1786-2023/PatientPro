@@ -1,0 +1,29 @@
+Patient: Harold Smith
+Age: 62
+Date of Visit: 27/03/24
+Chief Complaint:
+Patient presents with a persistent and painful sore throat
+History of Present Illness
+Patient complains of a severe sore throat for more than two days, 
+escalating in discomfort. No known cause of pain. Communication and 
+swallowing are problematic due to the pain. No coughing or productive 
+sputum, but has documented night sweats and moderate but consistent fever. 
+Physical Examination:
+Vitals: HR: 88BPM, BR: 16BPM, BP: 142/89 Temp: 37.8°C (100.1°F)
+General Appearance: Patient appears agitated and uncomfortable.
+ENT (Ears, Nose, Throat): Clear tonsillar congestion and inflammation 
+(Grade 3), milling presence of yellowish exudate. No visible oral ulcers 
+or injuries. 
+Lymph Nodes: Palpable and tender cervical lymph nodes, all sides.
+Respiratory: Clear respiratory sounds devoid of stridor or wheezing.
+Assessment and Plan:
+62 YOM appears with a severe sore throat lasting over two days, with 
+apparent tonsillitis and tenderness in cervical lymph nodes. Likely a case 
+of acute bacterial pharyngitis. Recommendations for further tests to 
+confirm.  
+Plan
+•	Paracetamol for pain control and to reduce fever. 
+•	Rapid strep test to rule out streptococcal infection.
+•	Initiation of antibiotics as a preliminary measure
+•	Patient instructed to revisit if condition does not improve within 
+a few days or if fever persists despite medication.
