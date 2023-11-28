@@ -2,6 +2,7 @@ from openai_helper import call_openai_chat
 import argparse
 import os
 from log_helper import Mode, log
+from metrics import CENTOR
 
 def read_seed_records(file_paths):
     records = []
@@ -34,7 +35,7 @@ def save_records_to_file(records, dir):
         #TODO: find a better way to id records.
         record_id += 1
 
-def synthesize_records_centor(seed_records, new_record_count, output_dir):
+def synthesize_records(metric, seed_records, new_record_count, output_dir):
     #check token limits:
     if (len(seed_records) + new_record_count) > 16:
         print(len(seed_records))
@@ -42,7 +43,9 @@ def synthesize_records_centor(seed_records, new_record_count, output_dir):
         print("[ERROR] total token count will exceed token limit of model. Reduce number of seed records or lower number of output records.")
         return None
     
-    system_prompt = f"synthea creates synthetic but realistic EHR patient records. Given an example of such record create {new_record_count} other examples with different data but a similar chief complaint.\n\nMake sure to vary the following data:\n\n1. age\n2. temp\n3. tonsils condition\n4. lymph nodes condition\n5. cough presence\nSeparate records by the following string:\n####"
+    system_prompt = f"synthea creates synthetic but realistic EHR patient records. Given an example of such record create {new_record_count} other examples. "
+    system_prompt += metric.gen_prompt    
+    
 
     messages=[{"role": "system", "content": system_prompt}]
 
@@ -61,11 +64,20 @@ def synthesize_records_centor(seed_records, new_record_count, output_dir):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('--metric', type=str, required=True, help='desired metric to create datatable')
     parser.add_argument('--n_new_records', type=int, required=True, help='Number of new records to generate')
     parser.add_argument('--output_dir', type=str, required=True, help='Name of the output directory for new synthetic records')
     parser.add_argument('--seed_records', type=str, required=True, help='Comma separated list of seed record file paths')
 
     args = parser.parse_args()
+
+    metric_str = args.metric
+    match metric_str:
+        case "CENTOR":
+            metric = CENTOR()
+        case _:
+            print("[ERROR] invalid metric")
+            return
 
     output_dir = args.output_dir
     n_new_records = args.n_new_records
@@ -73,7 +85,7 @@ def main():
     seed_records_paths = args.seed_records.split(',')
     seed_records = read_seed_records(seed_records_paths)
 
-    synthesize_records_centor(seed_records=seed_records, new_record_count=n_new_records, output_dir=output_dir)
+    synthesize_records(metric=metric, seed_records=seed_records, new_record_count=n_new_records, output_dir=output_dir)
     
 
 if __name__ == "__main__":
