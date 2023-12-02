@@ -37,7 +37,8 @@ def save_records_to_file(records, dir):
 
 def synthesize_records(metric, seed_records, new_record_count, output_dir):
     #check token limits:
-    if (len(seed_records) + new_record_count) > 16:
+    n_seed_records = len(seed_records)
+    if (n_seed_records + new_record_count) > 16:
         print(len(seed_records))
         print(new_record_count)
         print("[ERROR] total token count will exceed token limit of model. Reduce number of seed records or lower number of output records.")
@@ -57,7 +58,7 @@ def synthesize_records(metric, seed_records, new_record_count, output_dir):
             {"role": "user", "content": record}
         )
 
-    response = call_openai_chat(msgs=messages, mode=Mode.DEV)
+    response = call_openai_chat(msgs=messages, mode=Mode.DEBUG)
     output_records = response.split("####")   
     save_records_to_file(output_records, output_dir)
 
