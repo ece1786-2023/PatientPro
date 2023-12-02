@@ -29,7 +29,7 @@
 The script `run_model.py` prompts GPT-4 to extract information from a given EHR to create a corresponding datatable tailored to a specified metric, with options to few-shot the prompt and compute the metric score. 
 
 The script requires the following parameters:
-- `metric`: The desired metric for which the corresponding datatable will be tailored. Note that as of 2023-11-20, the only metric available is CENTOR score.
+- `metric`: The desired metric for which the corresponding datatable will be tailored. Note that as of 2023-11-20, the only metric available is Centor score.
 - `n_shots`: The number of training "shots" (examples) supplied in the context (currently limited to a maximum of 3).
 - `output_mode`: One of 3 output modes:
   - `'d'`: Data -- shows the extracted relevant data only
@@ -37,27 +37,26 @@ The script requires the following parameters:
   - `'ds'`: Data+Score -- shows both the extracted data and the computed score
 - `input_record`: the file path to the input EHR on which the extraction/computation will be done.
 
-example usage:
+Example usage:
 ```
-run_model.py --metric=CENTOR --n_shots 0 --output_mode d --input_record record_0.txt
+python run_model.py --metric centor --n_shots 0 --output_mode d --input_record record_0.txt
 ```
 
 
 ## Synthetic Record Generation
-in order to train and test our data extraction and score computation logic we need examples of medical records.
-considering the difficulty of accessing records that match our needed usecase we have come up with a method of synthetically creating records for a specific usecase
-the script `generate_record.py` can generate a number of synthetic records given a seed input of one or more records.
+The script `generate_record.py` prompts GPT-4 to generate a given number of synthetic EHRs given a verified seed record to reduce hallucination. As of 2023-11-28, the PatientPro team has experienced difficulty procuring a dataset of real anonymized freeform text EHRs, and has thus defaulted to synthetic generation of EHRs with medical expert-verified seed records.
 
-you can use the script by providing the following parameters:
-- `n_new_records`: the number of new records to generate
-- `output_dir`: the output directory to save the generated records to
-- `seed_records` a comma separated list of file paths to the records used as a seed for the generation
+The script requires the following parameters:
 
-example usage:
+- `metric`: The desired metric for which the generated EHRs will be tailored. As of 2023-11-28, the only metric available is Centor score.
+- `n_new_records`: The number of new records to generate.
+- `output_dir`: The output directory where generated records will be saved.
+- `seed_records`: A comma-separated list of file paths to the seed records used to assist generation.
+
+Example usage:
 ```
-python generate_record.py --n_new_records 2 --output_dir synthetic_records --seed_records=sample_1.txt
+python generate_record.py --metric centor --n_new_records 2 --output_dir synthetic_records --seed_records seed_records_centor/centor_seed_1.txt
 ```
 
-**NOTE:** the generation script is currently tailored towards records relevant to CENTOR score calculation and will be generalized in the future.
 
 
