@@ -10,7 +10,7 @@ def call_openai_chat(msgs, temp=1, mode=Mode.PROD):
         "calling openAI chat endpoint",
         f"calling openAI chat endpoint with:\n\nmessages={msgs}")
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4-1106-preview",
         messages=msgs,
         temperature=temp
     )
