@@ -4,7 +4,7 @@ from log_helper import Mode, log
 import json
 from openai_helper import call_openai_chat
 import argparse
-from metrics import Centor
+import metrics 
 
 def extract_data(metric, input_record, n_shots=0, example_records=[], example_outputs=[]):
     if n_shots != len(example_records) or n_shots != len(example_outputs):
@@ -60,7 +60,9 @@ def main():
     metric_str = args.metric
     match metric_str:
         case "centor":
-            metric = Centor()
+            metric = metrics.Centor()
+        case "qsofa":
+            metric = metrics.qSOFA()
         case _:
             print("[ERROR] invalid metric")
             return
