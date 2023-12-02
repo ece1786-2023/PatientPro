@@ -43,12 +43,12 @@ def synthesize_records(metric, seed_records, new_record_count, output_dir):
         print("[ERROR] total token count will exceed token limit of model. Reduce number of seed records or lower number of output records.")
         return None
     
-    system_prompt = f"synthea creates synthetic but realistic EHR patient records. Given an example of such record create {new_record_count} other examples. "
+    system_prompt = f"Synthea creates synthetic but realistic patient Electronic Health Records (EHRs). Given an example of an EHR, create {new_record_count} new examples. "
     system_prompt += metric.gen_prompt    
-    
+    system_prompt += f"Delimit the generated records by placing the following string between them: '####'"
 
     messages=[{"role": "system", "content": system_prompt}]
-
+    
     for record in seed_records:
         if record == "":
             print("[WARN] empty seed record. Ommitted from input")
@@ -58,8 +58,7 @@ def synthesize_records(metric, seed_records, new_record_count, output_dir):
         )
 
     response = call_openai_chat(msgs=messages, mode=Mode.DEV)
-    
-    output_records = response.split("####")
+    output_records = response.split("####")   
     save_records_to_file(output_records, output_dir)
 
 def main():

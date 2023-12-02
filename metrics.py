@@ -14,7 +14,7 @@ class CENTOR(Metric):
         self.name="CENTOR Score"
         self.schema = "{\n  \"age\": int,\n  \"tonsil_swelling\": boolean,\n  \"lymph_swelling\": boolean,\n  \"temp\": float,\n  \"cough_present\": boolean\n}"
         self.prompt = f"given a medical record of a patient, extract the following pieces of information:\n\n1. age (integer)\n2. temperature in Celsius (float)\n3. exudate or swollen tonsils (boolean True/False)\n4. tender/swollen anterior cervical lymph nodes (boolean)\n5. cough present (boolean)\n\nuse the following schema for the output:\n\n{self.schema}"
-        self.gen_prompt = f"The new generated records should have different data but a similar chief complaint.\n\nMake sure to vary the following data:\n\n1. age\n2. temp\n3. tonsils condition\n4. lymph nodes condition\n5. cough presence\nSeparate records by the following string:\n####"
+        self.gen_prompt = f"The new generated records should have different data but a similar chief complaint.\n\nMake sure to vary the following data:\n\n1. age\n2. temp\n3. tonsils condition\n4. lymph nodes condition\n5. cough presence\n\n"
 
     def compute_score(self, data):
         
