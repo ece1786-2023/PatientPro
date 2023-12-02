@@ -9,7 +9,7 @@ class Metric:
 
 
 
-class CENTOR(Metric):
+class Centor(Metric):
     def __init__(self):
         self.name="CENTOR Score"
         self.schema = "{\n  \"age\": int,\n  \"tonsil_swelling\": boolean,\n  \"lymph_swelling\": boolean,\n  \"temp\": float,\n  \"cough_present\": boolean\n}"

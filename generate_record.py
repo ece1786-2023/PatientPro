@@ -2,7 +2,7 @@ from openai_helper import call_openai_chat
 import argparse
 import os
 from log_helper import Mode, log
-from metrics import CENTOR
+from metrics import Centor
 
 def read_seed_records(file_paths):
     records = []
@@ -72,8 +72,8 @@ def main():
 
     metric_str = args.metric
     match metric_str:
-        case "CENTOR":
-            metric = CENTOR()
+        case "centor":
+            metric = Centor()
         case _:
             print("[ERROR] invalid metric")
             return

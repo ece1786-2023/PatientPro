@@ -39,7 +39,7 @@ The script requires the following parameters:
 
 Example usage:
 ```
-python run_model.py --metric CENTOR --n_shots 0 --output_mode d --input_record record_0.txt
+python run_model.py --metric centor --n_shots 0 --output_mode d --input_record record_0.txt
 ```
 
 
@@ -55,7 +55,7 @@ The script requires the following parameters:
 
 Example usage:
 ```
-python generate_record.py --metric CENTOR --n_new_records 2 --output_dir synthetic_records --seed_records seed_records_centor/centor_seed_1.txt
+python generate_record.py --metric centor --n_new_records 2 --output_dir synthetic_records --seed_records seed_records_centor/centor_seed_1.txt
 ```
 
 
