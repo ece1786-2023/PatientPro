@@ -1,6 +1,6 @@
-from openai import OpenAI
-from log_helper import Mode, log
 import os
+from openai import OpenAI
+from helper.log_helper import Mode, log
 
 API_KEY = os.environ.get('OPENAI_API_KEY_PATIENTPRO')
 client = OpenAI(api_key=API_KEY)
@@ -12,7 +12,7 @@ def call_openai_chat(msgs, temp=1, mode=Mode.PROD):
     response = client.chat.completions.create(
         model="gpt-4-1106-preview",
         messages=msgs,
-        temperature=temp
+        temperature=temp,
     )
     log(mode,
         "Successfully called OpenAI",

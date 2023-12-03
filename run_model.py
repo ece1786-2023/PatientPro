@@ -1,12 +1,11 @@
 import argparse
 import os
-from log_helper import Mode, log
 import json
-from openai_helper import call_openai_chat
-import argparse
-import metrics 
-from io_helper import read_file_list
 import sys
+import metrics 
+from helper.openai_helper import call_openai_chat
+from helper.log_helper import Mode, log
+from helper.io_helper import read_file_list
 
 def extract_data(metric, input_record, n_shots=0, example_records=[], example_outputs=[]):
     if n_shots != len(example_records) or n_shots != len(example_outputs):
@@ -29,7 +28,7 @@ def extract_data(metric, input_record, n_shots=0, example_records=[], example_ou
 
 def arg_error_check(args):
     o_modes = {'s', 'd', 'ds'}
-    metrics = {"centor", "qsofa"}
+    metric_list = [c.id for c in metrics.Metric.__subclasses__()]
     if args.n_shots < 0:
         print("[ERROR] n_shots must be positive")
         sys.exit()
@@ -39,8 +38,8 @@ def arg_error_check(args):
     elif not os.path.exists(args.input_record):
         print(f"[ERROR] File not found: {args.input_record}")
         sys.exit()
-    elif not args.metric in metrics:
-        print(f"[ERROR] invalid metric: {args.metric}. Please select one of the following: {metrics}")
+    elif not args.metric in metric_list:
+        print(f"[ERROR] invalid metric: {args.metric}. Please select one of the following: {metric_list}")
         sys.exit()
     return
 
@@ -76,9 +75,6 @@ def main():
     elif output_mode == 'ds':
         print(f"extracted data:\n{response}")
         print(f"\n{metric.name}: {score}")
-
-    
-
 
 if __name__ == "__main__":
     main()
