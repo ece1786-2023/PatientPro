@@ -29,7 +29,9 @@
 The script `run_model.py` prompts GPT-4 to extract information from a given EHR to create a corresponding datatable tailored to a specified metric, with options to few-shot the prompt and compute the metric score. 
 
 The script requires the following parameters:
-- `metric`: The desired metric for which the corresponding datatable will be tailored. Note that as of 2023-11-20, the only metric available is Centor score.
+- `metric`: The desired metric for which the corresponding datatable will be tailored. As of 2023-12-02, the available metrics are as follows:
+    - `centor`: Centor Score for Strep Pharyngitis. Used on patients with recent onsets of acute pharyngitis to estimate probabilitity that it is streptococcal.
+    - `qsofa`: qSOFA (Quick SOFA) Score for Sepsis. Identifies high-risk patients for in-hospital mortality from sepsis. 
 - `n_shots`: The number of training "shots" (examples) supplied in the context (currently limited to a maximum of 3).
 - `output_mode`: One of 3 output modes:
   - `'d'`: Data -- shows the extracted relevant data only
@@ -48,7 +50,9 @@ The script `generate_record.py` prompts GPT-4 to generate a given number of synt
 
 The script requires the following parameters:
 
-- `metric`: The desired metric for which the generated EHRs will be tailored. As of 2023-11-28, the only metric available is Centor score.
+- `metric`: The desired metric for which the generated EHRs will be tailored. As of 2023-12-02, the available metrics are as follows, as described in the previous section:
+    - `centor`: Centor Score for Strep Pharyngitis
+    - `qsofa`: qSOFA (Quick SOFA) Score for Sepsis
 - `n_new_records`: The number of new records to generate.
 - `output_dir`: The output directory where generated records will be saved.
 - `seed_records`: A comma-separated list of file paths to the seed records used to assist generation.
