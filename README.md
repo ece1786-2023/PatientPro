@@ -56,6 +56,10 @@ The script requires the following parameters:
     - `qsofa`: qSOFA (Quick SOFA) Score for Sepsis
 - `input_dir`: The input directory where the freeform text EHRs exist as separate `.txt` files with an identifying number in the file name.
 
+Example usage:
+```
+python benchmark.py --n_shots 0 --input_dir qSOFA_records/ --metric qsofa
+```
 
 ## Synthetic Record Generation
 The script `generate_record.py` prompts GPT-4 to generate a given number of synthetic EHRs given a verified seed record to reduce hallucination. As of 2023-11-28, the PatientPro team has experienced difficulty procuring a dataset of real anonymized freeform text EHRs, and has thus defaulted to synthetic generation of EHRs with medical expert-verified seed records.
