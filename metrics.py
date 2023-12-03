@@ -62,7 +62,7 @@ class qSOFA(Metric):
         )
         self.prompt = (
             "Given a medical record of a patient, extract the following pieces of information:\n\n"
-            "1. Altered mental status, possibly based on eye, verbal and motor response: (boolean)\n"
+            "1. Altered mental status, possibly based on neurologic information: (boolean)\n"
             "2. Respiratory rate (integer)\n"
             "3. Systolic blood pressure: (integer)\n\n"
             "Use the following schema for the output, and ensure that it is strictly followed:\n\n"
@@ -77,3 +77,15 @@ class qSOFA(Metric):
         if data['respiratory_rate'] >= 22:  score += 1
         if data['systolic_bp'] <= 100:      score += 1
         return score
+
+
+def get_metric(metric):
+    match metric:
+        case "centor":
+            metric = Centor()
+        case "qsofa":
+            metric = qSOFA()
+        case _:
+            print("[ERROR] invalid metric")
+            return
+    return metric
