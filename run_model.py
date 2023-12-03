@@ -5,6 +5,8 @@ import json
 from openai_helper import call_openai_chat
 import argparse
 import metrics 
+from io_helper import read_file_list
+import sys
 
 def extract_data(metric, input_record, n_shots=0, example_records=[], example_outputs=[]):
     if n_shots != len(example_records) or n_shots != len(example_outputs):
@@ -13,22 +15,34 @@ def extract_data(metric, input_record, n_shots=0, example_records=[], example_ou
     
     messages=[{"role": "system", "content": metric.prompt}]
 
-    if n_shots <= 3:
-        for i in range(n_shots):
-            messages.extend([
-                {"role": "user", "content": example_records[i]},
-                {"role": "system", "content": example_outputs[i]}
-            ])
-    else:
-        print("[ERROR] n_shots must be between 0 and 3. This program only supports up to 3-shot learning")
-        return
-    
+    for i in range(n_shots):
+        messages.extend([
+            {"role": "user", "content": example_records[i]},
+            {"role": "system", "content": example_outputs[i]}
+        ])
+     
     messages.append({"role": "user", "content": input_record})
 
     response = call_openai_chat(msgs=messages, temp=0)
 
     return response
 
+def arg_error_check(args):
+    o_modes = {'s', 'd', 'ds'}
+    metrics = {"centor", "qsofa"}
+    if args.n_shots < 0:
+        print("[ERROR] n_shots must be positive")
+        sys.exit()
+    elif not args.output_mode in o_modes:
+        print(f"[ERROR] invalid output mode: {args.output_mode}. Please select one of the follwing: {o_modes}")
+        sys.exit()
+    elif not os.path.exists(args.input_record):
+        print(f"[ERROR] File not found: {args.input_record}")
+        sys.exit()
+    elif not args.metric in metrics:
+        print(f"[ERROR] invalid metric: {args.metric}. Please select one of the following: {metrics}")
+        sys.exit()
+    return
 
 def main():
     parser = argparse.ArgumentParser()
@@ -38,37 +52,17 @@ def main():
     parser.add_argument('--metric', type=str, required=True, help='desired metric to create datatable')
 
     args = parser.parse_args()
+    arg_error_check(args)
 
-    # error check 
     n_shots = args.n_shots
-    if n_shots < 0:
-        print("[ERROR] n_shots must be positive")
-
     output_mode = args.output_mode
-    if not output_mode in {'s', 'd', 'ds'}:
-        print("[ERROR] output mode not recognized. Please select one of the follwing: d, s, or ds")
-
     input_record_path = args.input_record
-    input_record = None
-    if os.path.exists(input_record_path):
-            with open(input_record_path, 'r') as file:
-                input_record = file.read()
-    else:
-        print(f"[ERROR] File not found: {input_record_path}")
-        return
-    
+    input_record = read_file_list([input_record_path])
     metric_str = args.metric
-    match metric_str:
-        case "centor":
-            metric = metrics.Centor()
-        case "qsofa":
-            metric = metrics.qSOFA()
-        case _:
-            print("[ERROR] invalid metric")
-            return
-        
+    metric = metrics.get_metric(metric_str)
+
     # now extract data and call GPT-4
-    response = extract_data(metric=metric, input_record=input_record, n_shots=n_shots)
+    response = extract_data(metric=metric, input_record=input_record[0], n_shots=n_shots)
     if not response:
         return
     
