@@ -18,19 +18,31 @@ def create_template(metric, input_dir_str):
         writer.writerows([[file] + [""]*(len(headers)-1) for file in files])
     print('created', o_fn)
 
+def compare(df1, metric):
+    labels = 'labels/' + metric.id + "_labels.csv"
+    df2 = pd.read_csv(labels)
+    # diff = df1.compare(df2)
+    diff = df1 == df2
+    diffrows = df1.compare(df2)
+    return diff, diffrows
+
 def benchmark(metric, input_dir_str, n_shots=0):
-    files = get_dir_files(input_dir_str)[-1:]
+    files = get_dir_files(input_dir_str)
     jsons = []
     scores = []
     
-    for f in files:
-        print(f'now analyzing {f}')
+    for i in range(len(files)):
+        # print(f'now analyzing {f}')
+        bar = '#'*(i+1) + '-'*(len(files)-i-1)
+        percent_complete = (i+1)/len(files)
+        print(f"\rProgress: [{bar}] {percent_complete:.1%}", end='')
         ehr = ""
-        with open(f, 'r') as file:
+        with open(files[i], 'r') as file:
             ehr = file.read()
         jsonski = json.loads(run_model.extract_data(metric, ehr, n_shots))
         jsons.append(jsonski)
         scores.append(metric.compute_score(jsonski))
+    print()
     df = pd.DataFrame(jsons)
     df.insert(0, 'EHR', files)
     df['Score'] = scores
@@ -65,10 +77,17 @@ def main():
     input_dir_str = args.input_dir
     metric = metrics.get_metric(metric_str)
     
-    create_template(metric, input_dir_str)
+    # create_template(metric, input_dir_str)
     df = benchmark(metric, input_dir_str, n_shots)
 
-    print(df)
+    print(f'GPT-4 Results:\n{df}\n')
+    diff, diffrows = compare(df, metric)
+    # print('Difference between labels and results:\n',diff)
+    print(f'Rows different from results:\n{diffrows}\n')
+    num_samples = len(get_dir_files(input_dir_str))
+    incorr = len(diffrows)
+    acc = (num_samples - incorr) / num_samples
+    print(f'Accuracy: {acc*100:3f}%')
     # print(df.to_latex())
         
 
