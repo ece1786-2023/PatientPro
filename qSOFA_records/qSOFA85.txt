@@ -1,0 +1,184 @@
+Chief Complaint:
+   24 Hour Events:
+ MIDLINE - START [**2145-1-12**] 02:58 PM
+   Rt upper arm
+   Foley was clogged, bladder irrigation for bloody urine
+   Received cytoxan
+   Tolerated PS 8/5 all day; increased to [**7-9**] at night for borderline O2
+   sat's
+   DC'd fentanyl/versed and started propofol
+   Allergies:
+   Prednisone
+   psychosis;
+   Sulfa (Sulfonamides)
+   Rash;
+   Phenytoin Sodium
+   psychosis;
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2145-1-12**] 08:01 AM
+   Heparin Sodium (Prophylaxis) - [**2145-1-13**] 05:16 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2145-1-13**] 07:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.3
+C (99.1
+   HR: 91 (79 - 97) bpm
+   BP: 150/102(108){139/63(80) - 150/102(108)} mmHg
+   RR: 11 (9 - 22) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 129.9 kg (admission): 130.2 kg
+   Height: 67 Inch
+    CVP: 8 (8 - 14)mmHg
+   Total In:
+                                                                  5,939 mL
+                                                                    467 mL
+   PO:
+   TF:
+                                                                    203 mL
+   IVF:
+                                                                  5,939 mL
+                                                                    264 mL
+   Blood products:
+   Total out:
+                                                                  1,118 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,118 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,821 mL
+                                                                    467 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 917 (917 - 917) mL
+   PS : 8 cmH2O
+   RR (Set): 9
+   RR (Spontaneous): 8
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 15
+   PIP: 13 cmH2O
+   SpO2: 94%
+   ABG: 7.41/39/75/27/Units: mEq/L
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 150
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), tachy no m/r/g
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: b/l bases)
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   355 K/uL
+   11.7 g/dL
+   115 mg/dL
+   0.7 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   11 mg/dL
+   109 mEq/L
+   143 mEq/L
+   34.9 %
+   28.7 K/uL
+        [image002.jpg]
+                             [**2145-1-11**]  05:11 PM
+                             [**2145-1-11**]  07:59 PM
+                             [**2145-1-12**]  01:35 AM
+                             [**2145-1-12**]  05:45 AM
+                             [**2145-1-12**]  03:36 PM
+                             [**2145-1-12**]  03:50 PM
+                             [**2145-1-12**]  07:36 PM
+                             [**2145-1-12**]  11:36 PM
+                             [**2145-1-13**]  04:52 AM
+   WBC
+   25.1
+   28.7
+   Hct
+   36.1
+   39.4
+   36.6
+   34.9
+   Plt
+   [**Telephone/Fax (3) 871**]
+   Cr
+   0.7
+   0.7
+   0.8
+   0.7
+   TCO2
+   21
+   25
+   25
+   26
+   Glucose
+   134
+   93
+   144
+   115
+   Other labs: PT / PTT / INR:13.4/26.3/1.2, ALT / AST:14/18, Alk Phos / T
+   Bili:42/0.4, Differential-Neuts:90.6 %, Lymph:4.9 %, Mono:4.4 %,
+   Eos:0.1 %, Lactic Acid:2.6 mmol/L, Albumin:3.4 g/dL, LDH:236 IU/L,
+   Ca++:8.2 mg/dL, Mg++:2.3 mg/dL, PO4:2.3 mg/dL
+   Imaging: none new
+   Microbiology:
+   Toxo negative IgG, IgM
+   RPR negative
+   Lyme PND
+   Assessment and Plan
+   27 year old woman with concentric sclerosis exacerbation, now intubated
+   and sedated for AMS while receiving chemo per neurology.
+ Concentric Sclerosis
+   -          continue cyclophosphamide and mesla per neuro recs
+   -          bladder irrigation for possible cystitis
+   -          methylprednisolone q24h x 5 day course per neuro recs
+   -          ruled out for toxo, syphilis, lyme PND
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   -  RSBI 15 this AM, can extubate if secretions ok
+ DELIRIUM / CONFUSION
+   -          apparently [**1-2**] concentric sclerosis, once off vent will need
+   to manage with prn haldol, benzo
+ LEUKOCYTOSIS
+   - likely [**1-2**] steroids, monitor for localizing signs of infection and
+   fever
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2145-1-13**] 12:00 AM 40 mL/hour
+   Comments: tube feeds
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2145-1-11**] 07:00 PM
+ can d/c if stable off vent with
+   midline in place
+   Arterial Line - [**2145-1-12**] 01:23 AM
+   Midline - [**2145-1-12**] 02:58 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU

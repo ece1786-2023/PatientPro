@@ -1,0 +1,186 @@
+Chief Complaint: respiratory failure,
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ BRONCHOSCOPY - At [**2145-1-14**] 11:43 AM
+ SPUTUM CULTURE - At [**2145-1-14**] 11:45 AM
+ MAGNETIC RESONANCE IMAGING - At [**2145-1-14**] 12:00 PM
+ BLOOD CULTURED - At [**2145-1-14**] 02:00 PM
+ URINE CULTURE - At [**2145-1-14**] 02:00 PM
+   Tolerated bronchoscopy.  MRI reportedly appears improved.
+   Allergies:
+   Prednisone
+   psychosis;
+   Sulfa (Sulfonamides)
+   Rash;
+   Phenytoin Sodium
+   psychosis;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2145-1-14**] 08:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2145-1-15**] 01:40 AM
+   Vancomycin - [**2145-1-15**] 09:03 AM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Other ICU medications:
+   Fentanyl - [**2145-1-15**] 02:15 AM
+   Heparin Sodium (Prophylaxis) - [**2145-1-15**] 06:00 AM
+   Pantoprazole (Protonix) - [**2145-1-15**] 08:03 AM
+   Other medications:
+   Cytoxan, Mesna, Solumedrol, propofol.  Others per [**Month (only) **] (reviewed on
+   rounds).
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2145-1-15**] 10:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 88 (84 - 115) bpm
+   BP: 112/68(77) {100/55(65) - 137/82(95)} mmHg
+   RR: 10 (10 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 129.9 kg (admission): 130.2 kg
+   Height: 67 Inch
+             Total In:
+                                                                  6,925 mL
+                                                                  2,155 mL
+   PO:
+             TF:
+                                                                  1,423 mL
+                                                                    743 mL
+   IVF:
+                                                                  5,177 mL
+                                                                  1,293 mL
+   Blood products:
+   Total out:
+                                                                  1,595 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,595 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,330 mL
+                                                                  2,155 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 851 (753 - 851) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 9
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 18 cmH2O
+   SpO2: 98%
+   ABG: 7.46/42/85.[**Numeric Identifier 128**]/29/5
+   Ve: 8.9 L/min
+   PaO2 / FiO2: 142
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: distant breath sounds
+   Abdominal: Non-tender, Obese
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Responds to: Unresponsive, Movement: No spontaneous
+   movement, Tone: Not assessed
+   Labs / Radiology
+   11.1 g/dL
+   185 K/uL
+   124 mg/dL
+   0.6 mg/dL
+   29 mEq/L
+   3.6 mEq/L
+   14 mg/dL
+   108 mEq/L
+   142 mEq/L
+   32.5 %
+   20.4 K/uL
+        [image002.jpg]
+                             [**2145-1-12**]  07:36 PM
+                             [**2145-1-12**]  11:36 PM
+                             [**2145-1-13**]  04:52 AM
+                             [**2145-1-13**]  01:36 PM
+                             [**2145-1-13**]  04:22 PM
+                             [**2145-1-13**]  05:32 PM
+                             [**2145-1-14**]  04:44 AM
+                             [**2145-1-14**]  01:58 PM
+                             [**2145-1-15**]  12:36 AM
+                             [**2145-1-15**]  05:01 AM
+   WBC
+   20.0
+   16.8
+   26.3
+   20.4
+   Hct
+   36.6
+   34.9
+   34.5
+   38.0
+   32.5
+   Plt
+   355
+   334
+   260
+   185
+   Cr
+   0.7
+   0.7
+   0.6
+   0.6
+   TCO2
+   26
+   28
+   29
+   31
+   Glucose
+   115
+   161
+   152
+   124
+   Other labs: PT / PTT / INR:13.0/24.8/1.1, ALT / AST:14/18, Alk Phos / T
+   Bili:42/0.4, Differential-Neuts:90.6 %, Lymph:4.9 %, Mono:4.4 %,
+   Eos:0.1 %, Lactic Acid:1.9 mmol/L, Albumin:3.4 g/dL, LDH:236 IU/L,
+   Ca++:7.6 mg/dL, Mg++:2.4 mg/dL, PO4:2.1 mg/dL
+   Imaging: MRI improved per Dr. [**Last Name (STitle) **]
+   CXR shows improved RUL volume loss
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ [**Last Name 121**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Concentric Sclerosis
+ DELIRIUM / CONFUSION
+ HYPOTENSION (NOT SHOCK)
+ LEUKOCYTOSIS
+ .H/O DEPRESSION
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2145-1-15**] 04:39 AM 75 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   Midline - [**2145-1-12**] 02:58 PM
+   Pheresis Catheter - [**2145-1-13**] 03:30 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill

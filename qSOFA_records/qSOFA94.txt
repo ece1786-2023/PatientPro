@@ -1,0 +1,194 @@
+Chief Complaint: respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   afterload reduction begun
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2151-2-7**] 04:00 PM
+   Nafcillin - [**2151-2-10**] 06:30 AM
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2151-2-9**] 04:57 PM
+   Fentanyl - [**2151-2-9**] 04:57 PM
+   Other medications:
+   H2B, CHG, captopril, metoprol
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2151-2-10**] 10:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.3
+C (99.2
+   HR: 104 (84 - 119) bpm
+   BP: 115/66(84){88/53(65) - 149/93(114)} mmHg
+   RR: 20 (13 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 68 Inch
+   CVP: 8 (2 - 13)mmHg
+   Total In:
+                                                                  3,866 mL
+                                                                  1,284 mL
+   PO:
+   TF:
+                                                                  1,680 mL
+                                                                    712 mL
+   IVF:
+                                                                  1,266 mL
+                                                                    422 mL
+   Blood products:
+   Total out:
+                                                                  5,430 mL
+                                                                  1,020 mL
+   Urine:
+                                                                  5,430 mL
+                                                                  1,020 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,564 mL
+                                                                    264 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 520 (517 - 647) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 34
+   PIP: 11 cmH2O
+   SpO2: 99%
+   ABG: 7.49/39/181/27/6
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 453
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   11.0 g/dL
+   223 K/uL
+   154 mg/dL
+   0.8 mg/dL
+   27 mEq/L
+   3.6 mEq/L
+   20 mg/dL
+   107 mEq/L
+   141 mEq/L
+   30.1 %
+   7.0 K/uL
+        [image002.jpg]
+                             [**2151-2-7**]  02:32 PM
+                             [**2151-2-8**]  03:09 AM
+                             [**2151-2-8**]  03:33 AM
+                             [**2151-2-8**]  05:24 PM
+                             [**2151-2-8**]  05:53 PM
+                             [**2151-2-9**]  04:23 AM
+                             [**2151-2-9**]  04:36 AM
+                             [**2151-2-9**]  05:07 PM
+                             [**2151-2-10**]  03:22 AM
+                             [**2151-2-10**]  03:35 AM
+   WBC
+   9.4
+   7.6
+   7.0
+   Hct
+   32.9
+   33.0
+   30.1
+   Plt
+   143
+   162
+   223
+   Cr
+   0.7
+   0.7
+   0.8
+   0.9
+   0.8
+   TropT
+   0.17
+   0.20
+   TCO2
+   23
+   21
+   23
+   28
+   31
+   Glucose
+   120
+   155
+   129
+   140
+   154
+   Other labs: PT / PTT / INR:17.6/76.3/1.6, CK / CKMB /
+   Troponin-T:143/6/0.20, Differential-Neuts:91.8 %, Lymph:5.0 %, Mono:2.9
+   %, Eos:0.1 %, D-dimer:1624 ng/mL, Fibrinogen:665 mg/dL, Lactic Acid:1.2
+   mmol/L, Albumin:2.3 g/dL, Ca++:7.1 mg/dL, Mg++:2.1 mg/dL, PO4:1.9 mg/dL
+   Imaging: CXR: overall similar but unusual left basilar lucency
+   Microbiology: Sputum: MSSA
+   Influenza DFA (+)
+   Otherwise NGTD.
+   Assessment and Plan
+   79 y/o man with respiratory failure from influenza with Staphylococcal
+   superinfection.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   - improved; now on PSV 5/5
+   - will do formal SBT.  [**Month (only) 60**] be limited by mental status and secretions
+ PNEUMONIA, VIRAL
+   Influenza
+   Received treatment course with tamiflu
+ Abnormal CXR
+   Repeat CXR to see if lucency persists.  Probably artifactual but PTX
+   and cavitationin DDx.
+   If persists on CXR, consider CT.
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+   - now resolved
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+   Appears to be slowly improving, now off sedation.  Awake but not
+   following commands.  Would prefer
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+   -          latest troponin 0.13, no significant change in EKG
+   -          vs influenza myocarditis
+   -          adequately treated for NSTEMI, although doubt unstable
+   plaque
+ ATRIAL FIBRILLATION (AFIB)
+   - metoprolol for rate control
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE
+   - ?influenza myositis vs. other causes
+   - will repeat echo in about a week
+   - increase afterload reduction today
+   - if still has enough systemic BP, can attempt diuresis
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2151-2-10**] 07:31 AM 70 mL/hour
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   Multi Lumen - [**2151-2-5**] 12:21 PM
+   Arterial Line - [**2151-2-5**] 02:37 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
