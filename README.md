@@ -44,13 +44,25 @@ Example usage:
 python run_model.py --metric centor --n_shots 0 --output_mode d --input_record record_0.txt
 ```
 
+## Verifying System Accuracy
+
+The script `benchmark.py` produces datatables for all EHRs in a given directory, for a specified metric. Then, it compares them to expert-verified datatables (i.e. labels) located in the `labels` folder. Note that the labels file must be formatted as per the `create_template()` function in `benchmark.py` for the comparison to work.
+
+The script requires the following parameters:
+
+- `n_shots`: The number of training "shots" (examples) supplied in the context (currently limited to a maximum of 3).
+- `metric`: The desired metric for which the generated EHRs will be tailored. As of 2023-12-03, the available metrics are as follows, as described in the previous section:
+    - `centor`: Centor Score for Strep Pharyngitis
+    - `qsofa`: qSOFA (Quick SOFA) Score for Sepsis
+- `input_dir`: The input directory where the freeform text EHRs exist as separate `.txt` files with an identifying number in the file name.
+
 
 ## Synthetic Record Generation
 The script `generate_record.py` prompts GPT-4 to generate a given number of synthetic EHRs given a verified seed record to reduce hallucination. As of 2023-11-28, the PatientPro team has experienced difficulty procuring a dataset of real anonymized freeform text EHRs, and has thus defaulted to synthetic generation of EHRs with medical expert-verified seed records.
 
 The script requires the following parameters:
 
-- `metric`: The desired metric for which the generated EHRs will be tailored. As of 2023-12-02, the available metrics are as follows, as described in the previous section:
+- `metric`: Must be one of:
     - `centor`: Centor Score for Strep Pharyngitis
     - `qsofa`: qSOFA (Quick SOFA) Score for Sepsis
 - `n_new_records`: The number of new records to generate.
