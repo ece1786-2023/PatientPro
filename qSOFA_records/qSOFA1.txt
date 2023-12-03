@@ -1,0 +1,135 @@
+Chief Complaint:  concentric sclerosis; respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Patient admitted from: [**Hospital1 54**] [**Hospital1 55**]
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Prednisone
+   psychosis;
+   Sulfa (Sulfonamides)
+   Rash;
+   Phenytoin Sodium
+   psychosis;
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 60 mcg/Kg/min
+   Other ICU medications:
+   Lorazepam (Ativan) - [**2145-1-11**] 03:40 PM
+   Haloperidol (Haldol) - [**2145-1-11**] 03:55 PM
+   Other medications:
+   please s
+   Past medical history:
+   Family history:
+   Social History:
+   -Concentric sclerosis: dx'd at age 15; treated with good response
+   -Depression, since the onset of the above illness
+   -s/p tonsillectomy
+   No concentric sclerosis
+   Occupation: Manager at [**Company 843**]
+   Drugs: none
+   Tobacco: none
+   Alcohol: none
+   Other:
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: Tachycardia
+   Respiratory: Tachypnea
+   Genitourinary: No(t) Foley
+   Heme / Lymph: Anemia
+   Flowsheet Data as of [**2145-1-11**] 06:08 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98.1
+   HR: 138 (120 - 170) bpm
+   BP: 124/58(73){110/58(73) - 132/120(123)} mmHg
+   RR: 18 (14 - 39) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 67 Inch
+             Total In:
+             1,294 mL
+   PO:
+             TF:
+   IVF:
+   1,294 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    440 mL
+   Urine:
+   40 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    854 mL
+   Respiratory
+   O2 Delivery Device: None
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 14
+   RR (Spontaneous): 5
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 15 cmH2O
+   Plateau: Unable to obtain pt is spont breathing cmH2O
+   SpO2: 98%
+   ABG: 7.39/34/234//-3
+   Ve: 6.1 L/min
+   PaO2 / FiO2: 234
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Distant), No(t) S3, No(t) S4
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : ), anterior exam
+   Abdominal: Soft, No(t) Tender: , Obese
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: No(t) Follows simple commands, Responds to: Tactile
+   stimuli, Movement: Non -purposeful, No(t) Paralyzed, Tone: Increased
+   Labs / Radiology
+        [image002.jpg]
+                             [**2145-1-11**]  05:11 PM
+   TC02
+                                     21
+   Other labs: Lactic Acid:5.1 mmol/L
+   Assessment and Plan
+ .H/O DEPRESSION
+ [**Last Name 121**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Concentric Sclerosis
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ DELIRIUM / CONFUSION
+ LEUKOCYTOSIS
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control:
+   Lines / Intubation:
+   20 Gauge - [**2145-1-11**] 03:00 PM
+   Comments:
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 115 minutes
+   Patient is critically ill
