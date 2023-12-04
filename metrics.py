@@ -68,9 +68,12 @@ class qSOFA(Metric):
     )
     prompt = (
         "Given a medical record of a patient, extract the following pieces of information:\n\n"
-        "1. Altered mental status, possibly based on neurologic information: (boolean)\n"
-        "2. Respiratory rate (integer)\n"
-        "3. Systolic blood pressure: (integer)\n\n"
+        "1. Altered mental status (boolean).\n"
+        "2. Respiratory rate (integer).\n"
+        "3. Systolic blood pressure: (integer).\n\n"
+        "Additional notes:\n"
+        "For Altered mental status, look for neurologic assessment.\n"
+        "Do not report values from the HPI (History of Present Illness) section, only current readings.\n\n"
         "Use the following schema for the output, and ensure that it is strictly followed:\n\n"
         f"{schema}"
     )

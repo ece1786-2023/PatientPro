@@ -1,0 +1,200 @@
+Chief Complaint: Bleeding from facial mass
+   24 Hour Events:
+   - hematocrit stable at ~31
+   - Sister updated; agreed for no invasive procedure that would require
+   embolization. Sister plans to visit hospice facility on [**Hospital3 373**] this
+   Wednesday.
+   History obtained from [**Hospital 31**] Medical records
+   Allergies:
+   History obtained from [**Hospital 31**] Medical recordsMorphine
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2198-3-26**] 07:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.1
+C (97
+   HR: 75 (65 - 80) bpm
+   BP: 139/68(85) {102/56(70) - 139/72(85)} mmHg
+   RR: 22 (13 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 78 Inch
+                  Total In:
+                                                                  3,049 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                  2,063 mL
+   Blood products:
+                                                                    506 mL
+   Total out:
+                                                                  3,325 mL
+                                                                    745 mL
+   Urine:
+                                                                  3,325 mL
+                                                                    745 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -277 mL
+                                                                   -745 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Thin, malnourished
+   HEENT: Large R facial mass, bandaged with tamponade dressing in place;
+   L pupil 4mm and reactive, unable to assess R pupil [**2-19**] edema
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Responds to: Verbal stimuli, Movement: Purposeful, Tone:
+   Normal
+   Labs / Radiology
+   544 K/uL
+   10.5 g/dL
+   100 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+   3.3 mEq/L
+   8 mg/dL
+   108 mEq/L
+   140 mEq/L
+   32.0 %
+   64.6 K/uL
+        [image002.jpg]
+                             [**2198-3-18**]  04:40 PM
+                             [**2198-3-19**]  03:30 AM
+                             [**2198-3-19**]  04:32 PM
+                             [**2198-3-20**]  04:06 AM
+                             [**2198-3-24**]  05:28 PM
+                             [**2198-3-24**]  10:07 PM
+                             [**2198-3-25**]  05:57 AM
+                             [**2198-3-25**]  09:35 AM
+                             [**2198-3-25**]  05:06 PM
+                             [**2198-3-26**]  03:53 AM
+   WBC
+   43.1
+   42.7
+   60.7
+   64.6
+   Hct
+   24.4
+   23.3
+   25.5
+   26.2
+   27.2
+   25.7
+   28.9
+   30.3
+   31.0
+   32.0
+   Plt
+   394
+   398
+   535
+   544
+   Cr
+   0.7
+   0.7
+   0.9
+   0.9
+   Glucose
+   121
+   138
+   105
+   100
+   Other labs: PT / PTT / INR:15.9/28.7/1.4, Differential-Neuts:95.6 %,
+   Lymph:1.9 %, Mono:1.4 %, Eos:1.0 %, Lactic Acid:1.4 mmol/L, Albumin:2.3
+   g/dL, Ca++:11.8 mg/dL, Mg++:2.0 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   57M with squamous carcinoma involvement of right face and hostory of
+   facial bleeding, DNR/DNI, tranferred from floor with repeat bleeding,
+   now tamponaded with pressure dressing.
+   .
+   #.Facial Bleeding: From large fungating growth of squamous cell
+   carcinoma. The patient is s/p 4U transfused blood on [**2198-3-24**]. His BP and
+   HR are stable. Hct this AM 32, after no further transfusions.
+   -Wound is wrapped,
+   -follow Hct q 6 hrs, transfuse while actively bleeding.
+   -Support BP with saline and prbcs
+   -will need another discussion with family re: goals of care.  He will
+   likely bleed again regardless of whether he undergoes embolization or
+   not.  In addition, he would require intubation for embolization and he
+   has previously documented DNR/DNI.  Will need family discussion re:
+   goals of care ASAP, discussion yesterday with sister [**Name (NI) 117**] is for no
+   invasive procedures, including intubation.  Sister is screening hospice
+   facilities.
+   -Palliative care continues to follow, will discuss with them further
+   .
+   #. Wound: Cultured with acinetobacter, enterobacter cloacae, and MSSA.
+   S/P full course of vanc/zosyn for VAP, which also covers OSH
+   sensitivities.  Started on Keflex on the floor for increased WBC and
+   confusion.  Afebrile though with elevated WBC from previous.
+   - culture, hold off antibiotics unless positive culture data
+   .
+   #. AMS: waxing and [**Doctor Last Name 282**], c/w delirium, though currently he is alert.
+   ? from underlying neoplastic process, other metabolic abnormalities
+   including hypercalcemia, or underlying psych issues.  Afebrile, though
+   infection in wound is possible.   CNS infection also a possibility.
+   - hold sedating meds if possible but keep pt comfortable
+   - watch Calcium and treat for hyperCa with IVF, has already received
+   Pamidronate x 1
+   - follow
+   .
+   #. Leukocytosis- possible leukemoid rxn but infection is in
+   differential as well. Rising steadily to 64 today.
+   - Follow up cx data
+   - Currently on NO antibiotics
+   .
+   #. Hypercalcemia- likely [**2-19**] paraneoplastic process.  Received
+   pamidronate x 1.
+   - IVF
+   .
+   # hypernatremia: replace free H2O as needed.
+   .
+   # FEN: NPO for now given AMS. Start D51/2 NS at 75cc/hr.
+   .
+   # PPX- Bowel regimen. pneumoboots. PPI. Avoiding anticoagulation given
+   bleeding issues.
+   .
+   # Code- DNR/[**Name (NI) 4616**] Sister is HCP
+   .
+   # ACCESS: PIV
+   .
+   # DISPOSITION: Hoping to clarify goals of care prior to transfer to the
+   floor.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2198-3-24**] 05:10 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
