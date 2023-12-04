@@ -1,0 +1,16 @@
+EHR,altered_mental,systolic_bp,respiratory_rate,Score
+qSOFA_records/qSOFA2.txt,false,122,20,0
+qSOFA_records/qSOFA49.txt,true,124,18,1
+qSOFA_records/qSOFA54.txt,false,150,28,1
+qSOFA_records/qSOFA79.txt,false,106,19,0
+qSOFA_records/qSOFA94.txt,true,115,20,1
+qSOFA_records/qSOFA137.txt,false,86,31,2
+qSOFA_records/qSOFA174.txt,false,98,26,2
+qSOFA_records/qSOFA176.txt,false,89,30,2
+qSOFA_records/qSOFA183.txt,true,93,9,2
+qSOFA_records/qSOFA186.txt,true,112,10,1
+qSOFA_records/qSOFA24537.txt,false,131,20,0
+qSOFA_records/qSOFA24822.txt,true,92,17,2
+qSOFA_records/qSOFA64045.txt,true,143,24,2
+qSOFA_records/qSOFA80092.txt,false,139,22,1
+qSOFA_records/qSOFA140914.txt,true,140,18,1

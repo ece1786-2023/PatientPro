@@ -1,0 +1,6 @@
+dataset/*
+!dataset/README.md
+patientpro/
+helper/__pycache__/
+__pycache__/
+synthetic_records/

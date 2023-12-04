@@ -1,0 +1,194 @@
+Chief Complaint:  Syncope, hypotension
+   HPI:
+   73 y/o female with breast cancer metastatic to the liver/lung/bones/CNS
+   s/p whole brain XRT in [**6-29**] who presented to the ED with weakness and
+   lightheadedness. Of note, her last chemo was on [**2144-1-29**] and had one shot
+   of Neupogen on [**2144-1-30**] and she was to return for 2 more doses of
+   Neupogen but she did not make it ([**2144-1-31**], [**2144-2-1**]). On the day of
+   presentation to the ED, she was walking to the bathroom using her
+   walker and felt weak and lightheaded. She then had a LOC and episode of
+   syncope (witnessed by husband) for approximately 4 minutes. No
+   incontinence. No evidence of seizure activity per husband. She regained
+   consciouness and felt fine afterwards. She decided to come to the ED
+   for further evaluation. She also has a known RLE DVT and is on
+   Coumadin.
+   In the ED, initial vitals were T 97.3 HR 73 BP 110/50 RR 18 O2sat 100%
+   4L NC. She was found to be hypotensive transiently to 90/40 which
+   improved with 250 bolus of NS. She was also given Zofran for nausea x
+   1, dilaudid for pain, and vancomycin/levofloxacin/flagyl for a presumed
+   infection. Bedside TTE revealed no evidence of pericardial effusion. A
+   right IJ CVL was placed for central access. She had a CTA which was
+   negative for PE. She was c/o right LE pain and she had a CT which was
+   negative. CXR was negative. CT abdomen was negative. RLE U/S revealed
+   her known DVT.
+   Upon arrival to the ICU, she was normotensive and had an episode of
+   nausea and vomiting, 300 mL of undigested food.
+   ROS: Denies F/C. Positive for N/V x 1 episode after arrival to the ICU.
+   No diarrhea. No CP or SOB. No rash. No urinary or bowel complaints. No
+   palpitations. No orthopnea or PND. No LE edema.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Percocet 1-2 tabs Q4-6H PRN
+   Coreg 3.125 mg PO daily
+   Lasix 20 mg PO daily
+   Lisinopril 5 mg PO daily
+   Albuterol PRN
+   Folic acid 1 mg PO daily
+   Hydroxyzine PRN
+   Lipitor 20 mg PO daily
+   Megestrol 40 mg PO QID
+   Mycostatin topical
+   Nystatin
+   Warfarin 2.5 mg PO daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Cardiomyopathy [**1-25**] Adriamycin. TTE [**2142-2-16**]: Overall left ventricular
+   systolic function is severely depressed with EF 25-30%. Most recent TTE
+   [**5-/2143**] shows LVEF 50%.
+   2. OA s/p 2 knee replacements, [**2134**] and another in [**2136**]
+   3. Metastatic breast cancer to lung, liver, [**Last Name (LF) 793**], [**First Name3 (LF) **]: Her
+   oncological problem began in [**2133**] when her primary care
+   physician palpated [**Name Initial (PRE) **] mass in her right breast. She underwent a right
+   mastectomy and 2 lymph nodes were involved. The pathologic diagnosis
+   was inflammatory breast carcinoma and it was ER positive. She later
+   received cyclophosphamide, Adriamycin, and 5-FU, followed by chest
+   irradiation. She was put on Tamoxifen for 2 years, but later switched
+   to Arimidex.  In [**7-28**], she developed metastatic disease and her tumor
+   markers were rising. She was taken off hormonal therapy and put on
+   taxol and Avastin. She then received navelbine, and more recently Doxil
+   (so far, she had 2 cycles). She is currently on Doxil. She has
+   [**Month/Day (1) 793**]/liver mets and mediastinal adenopathy ([**Month/Day (1) 793**] mets to T12, iliac
+   crest, L2/L3. In [**1-29**] CT head showed multiple areas of cerebral
+   calcifications--however pt . In [**2-27**] repeat CT of torso showed
+   regression of all of her mets and she had decreased tumor markers. She
+   is s/p whole brain radiation in [**6-29**].
+   4. Lymphedema
+   Noncontributory
+   Occupation: Retired
+   Drugs: None
+   Tobacco: Never
+   Alcohol: glass of wine daily
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, Nausea, Emesis, No(t) Diarrhea,
+   No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Heme / Lymph: Anemia
+   Neurologic: No(t) Headache
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2144-2-1**] 05:28 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.2
+C (95.4
+   Tcurrent: 35.2
+C (95.4
+   HR: 77 (77 - 83) bpm
+   BP: 106/81(87){103/54(66) - 106/81(87)} mmHg
+   RR: 19 (18 - 19) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    100 mL
+   Urine:
+   NG:
+   100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -100 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 97%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   Systolic), RUSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): person, place, and time, Movement: Not
+   assessed, Tone: Normal, [**3-28**] RUE, [**4-27**] left
+   Labs / Radiology
+   281
+   10.5
+   141
+   0.7
+   16
+   25
+   106
+   3.5
+   142
+   30.2
+   19.6
+        [image002.jpg]
+   Other labs: PT / PTT / INR:30.1/67.8/3.1, CK / CKMB / Troponin-T:53/not
+   done/<0.01, Differential-Neuts:86.4%, Band:0, Lymph:10.1%, Mono:3.2%,
+   Eos:0, Lactic Acid:1.7, Ca++:9.3, Mg++:1.9, PO4:3.6
+   Imaging: CXR [**2144-1-31**]
+   No acute cardiopulmonary disease.
+   .
+   RLE U/S
+   Extensive deep vein thrombus within the right lower extremity as
+   detailed above. Intraluminal thrombus starting from the distal common
+   femoral vein extending throughout the superficial femoral vein and into
+   the popliteal vein.
+   .
+   Right hip films
+   No acute pathology, prelim read.
+   .
+   CT Abdomen and Pelvis
+   No evidence of pulmonary embolism. Stable pulmonary nodules. Improving
+   left lingular opacity representing either infectious or
+   inflammatory etiology. Non-visualized liver lesions, likely due to
+   differences in phase of contrast.
+   Microbiology: U/A pending
+   UCx pending
+   BCx pending
+   ECG:  NSR at 71, LAD, LBBB, no acute ST changes.
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2144-2-1**] 03:15 AM
+   Indwelling Port (PortaCath) - [**2144-2-1**] 03:46 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU

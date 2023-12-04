@@ -1,8 +1,8 @@
-from openai_helper import call_openai_chat
 import argparse
 import os
-from log_helper import Mode, log
 from metrics import Centor
+from helper.log_helper import Mode, log
+from helper.openai_helper import call_openai_chat
 
 def read_seed_records(file_paths):
     records = []

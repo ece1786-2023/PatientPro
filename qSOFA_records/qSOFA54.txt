@@ -1,0 +1,190 @@
+Chief Complaint: post -op hypotension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   83 yo F with CLL, HTN, high chol, PVD, and OA admitted for elective R
+   THA c/b post-op hypotension and respiratory failure
+   24 Hour Events:
+   extubated yesterday
+ stable on minimal NC o2
+   hct drop to 23 with appropraite bump post 2 unit prbc
+   transfusion--tachycardia improved
+   hypertensive
+metoprolol given
+                                      History obtained from Patient, house staff
+   Allergies:
+   Penicillins
+   Unknown;
+   Gentamicin
+   Unknown;
+   Bacitracin
+   Unknown;
+   Hydrochlorothiazide
+   Unknown;
+   Chlorothiazide
+   Unknown;
+   Last dose of Antibiotics:
+   Clindamycin - [**2143-4-9**] 01:59 AM
+   Infusions:
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**2143-4-9**] 02:00 PM
+   Morphine Sulfate - [**2143-4-9**] 03:16 PM
+   Other medications:
+   per [**Month (only) **] (reviewed)
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2143-4-10**] 12:52 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 35.9
+C (96.6
+   HR: 79 (74 - 113) bpm
+   BP: 150/53(76) {139/43(68) - 150/53(76)} mmHg
+   RR: 28 (20 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+                                                                  2,361 mL
+                                                                    902 mL
+   PO:
+                                                                    710 mL
+                                                                    300 mL
+   TF:
+   IVF:
+                                                                  1,376 mL
+                                                                    127 mL
+   Blood products:
+                                                                    275 mL
+                                                                    475 mL
+   Total out:
+                                                                    844 mL
+                                                                  1,150 mL
+   Urine:
+                                                                    844 mL
+                                                                  1,150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,517 mL
+                                                                   -249 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Extremities: Right: Trace, Left: Absent
+   Musculoskeletal: No(t) Muscle wasting
+   Skin:  Not assessed, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): X 3,
+   Labs / Radiology
+   10.4 g/dL
+   171 K/uL
+   104 mg/dL
+   0.6 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   19 mg/dL
+   109 mEq/L
+   140 mEq/L
+   28.9 %
+   53.4 K/uL
+        [image002.jpg]
+                             [**2143-4-9**]  12:55 AM
+                             [**2143-4-9**]  01:35 AM
+                             [**2143-4-9**]  05:03 AM
+                             [**2143-4-9**]  05:10 AM
+                             [**2143-4-9**]  12:25 PM
+                             [**2143-4-9**]  05:48 PM
+                             [**2143-4-10**]  05:15 AM
+                             [**2143-4-10**]  11:40 AM
+   WBC
+   81.6
+   92.4
+   42.3
+   53.4
+   Hct
+   31.5
+   29.5
+   27.4
+   23.0
+   28.4
+   28.9
+   Plt
+   199
+   209
+   155
+   171
+   Cr
+   0.8
+   1.0
+   0.6
+   TCO2
+   23
+   23
+   Glucose
+   181
+   161
+   104
+   Other labs: PT / PTT / INR:14.3/28.0/1.2, Differential-Neuts:15.0 %,
+   Band:2.0 %, Lymph:77.0 %, Mono:2.0 %, Eos:0.0 %, Albumin:2.6 g/dL,
+   Ca++:7.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   83 yo F with CLL, HTN, high chol, PVD, and OA admitted for elective R
+   THA c/b post-op hypotension and respiratory failure
+   > Tacycardia--resolved with pain control and transfusion
+   >HTN--resume home beta blocker regimen
+   > hct drop--appropriate bump post 2 units prbs, stable h/h X 2 sets,
+   keep t and c, place second peripheral iv, hold lovenox   today
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+doing well with ultram, not
+   requiring morphine
+ s/p R THA
+bandage c/d/I without evidence of hematoma, pain control,
+   lovenox , PT
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])--extubated yesterday ,
+   stable on NC o2
+ SHOCK, HYPOVOLEMIC OR HEMORRHAGIC
+resolved
+ LEUKEMIA, CHRONIC (CML, CLL, OTHER; CANCER, MALIGNANT
+   NEOPLASM)
+leukcytosis at baseline.
+ ARTHRITIS, OSTEO/osteopenia (OSTEOARTHRITIS, OA)
+continue home
+   regimen, fosamax, vit d and calcium
+   ICU Care
+   Nutrition:
+   Comments: po diet
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2143-4-9**] 12:00 AM
+   18 Gauge - [**2143-4-9**] 12:00 AM
+   20 Gauge - [**2143-4-10**] 12:05 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: LMWH Heparin)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Remove foley next 1-2 days pending pain issues
+   Communication: ICU consent signed
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35  minutes

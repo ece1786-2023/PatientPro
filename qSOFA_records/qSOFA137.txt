@@ -1,0 +1,189 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2133-1-21**] 10:04 AM
+ BLOOD CULTURED - At [**2133-1-21**] 03:06 PM
+ URINE CULTURE - At [**2133-1-21**] 03:06 PM
+ EKG - At [**2133-1-21**] 03:20 PM
+ SPUTUM CULTURE - At [**2133-1-21**] 04:32 PM
+   Tachycardic in afternoon to 140's, EKG showed sinus tachycardia. Did
+   not respond to fluids but a little better with tylenol.
+   Given 1unit PRBC ?anemia as contributor to tachycardia
+   Refusing ativan and other sedatives initially
+   Tachycardic again to 150-160's overnight very agitated and anxious,
+   given 3mg ativan and 1mg haldol with improvement
+   Urine output borderline only ~460cc for the day
+   Febrile to 100.8 -> sputum from [**1-21**] showed 2+ GPC in pairs and
+   clusters.
+   started empirically on vancomycin, zosyn, and cipro for presumed VAP
+   Spoke to case management, d/c likely to be complicated and not before
+   Monday at earliest
+   IP plans trach and PEG in AM
+   SUBJECTIVE
+   Patient states she was upset because she wasn
+t allowed to see her
+   sisters all day and she was waiting for her husband.
+   Also thinks it got too warm in the room, which made it difficult for
+   her to breathe.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2133-1-21**] 11:00 PM
+   Vancomycin - [**2133-1-22**] 12:00 AM
+   Piperacillin - [**2133-1-22**] 01:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2133-1-21**] 08:00 AM
+   Heparin Sodium - [**2133-1-21**] 08:00 AM
+   Lorazepam (Ativan) - [**2133-1-22**] 03:00 AM
+   Haloperidol (Haldol) - [**2133-1-22**] 03:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:  +thirsty
+   Flowsheet Data as of  [**2133-1-22**] 07:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 36.7
+C (98.1
+   HR: 109 (107 - 164) bpm
+   BP: 86/62(67){86/46(50) - 224/152(137)} mmHg
+   RR: 31 (16 - 37) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 97.1 kg (admission): 91.5 kg
+   Height: 65 Inch
+             Total In:
+                                                                  3,036 mL
+                                                                  1,804 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,661 mL
+                                                                  1,804 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                    477 mL
+                                                                     90 mL
+   Urine:
+                                                                    477 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,559 mL
+                                                                  1,714 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 583 (429 - 624) mL
+   PS : 18 cmH2O
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 26 cmH2O
+   SpO2: 97%
+   ABG: ///23/
+   Ve: 11.2 L/min
+   Physical Examination
+   Awake, breathing easily, appears comfortable.
+   S1, S2, tachycardic, no murmur
+   Lungs with coarse BS, diminished at bases
+   Abd non-tender, non-distended
+   Ext warm, DP +2 b/l
+   Labs / Radiology
+   54 K/uL
+   8.7 g/dL
+   126 mg/dL
+   1.0 mg/dL
+   23 mEq/L
+   3.8 mEq/L
+   18 mg/dL
+   100 mEq/L
+   133 mEq/L
+   26.7 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**2133-1-14**]  05:50 AM
+                             [**2133-1-15**]  01:30 AM
+                             [**2133-1-15**]  04:50 AM
+                             [**2133-1-15**]  08:09 PM
+                             [**2133-1-16**]  08:46 AM
+                             [**2133-1-17**]  12:00 AM
+                             [**2133-1-20**]  05:40 AM
+                             [**2133-1-20**]  09:16 AM
+                             [**2133-1-21**]  04:49 AM
+                             [**2133-1-22**]  04:44 AM
+   WBC
+   5.8
+   5.9
+   5.1
+   6.7
+   6.9
+   10.5
+   Hct
+   24.6
+   25.2
+   22.7
+   23.3
+   22.3
+   26.7
+   Plt
+   200
+   245
+   206
+   95
+   80
+   54
+   Cr
+   0.5
+   0.5
+   0.6
+   0.5
+   0.6
+   1.0
+   TCO2
+   36
+   35
+   34
+   Glucose
+   144
+   106
+   737
+   145
+   114
+   109
+   126
+   Other labs: PT / PTT / INR:14.3/35.7/1.2, Differential-Neuts:92.4 %,
+   Band:Units: %
+   Range: 0-5 %, Lymph:3.0 %, Mono:3.2 %, Eos:1.3 %, Fibrinogen:618 mg/dL,
+   Lactic Acid:1.1 mmol/L, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:2.0 mg/dL
+   Sputum Cx [**1-21**] 2+GPC in pairs and clusters; Cx pending
+   UCx and BCx [**1-21**] pending
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ CANCER (MALIGNANT NEOPLASM), GYNECOLOGICAL (OVARIAN, UTERINE,
+   CERVICAL, ENDOMETRIAL)
+ TACHYCARDIA, OTHER
+ HYPOTENSION (NOT SHOCK)
+ THROMBOCYTOPENIA, ACUTE
+ PULMONARY EMBOLISM (PE), ACUTE
+ ANEMIA, OTHER
+   ICU Care
+   Nutrition:  awaiting PEG tube placement
+   Glycemic Control:  well controlled
+   Lines:
+   PICC Line - [**2133-1-13**] 02:43 PM
+   Prophylaxis:
+   DVT: pneumoboots ordered
+   Stress ulcer: PPI
+   VAP:  mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU

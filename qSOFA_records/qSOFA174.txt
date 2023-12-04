@@ -1,0 +1,168 @@
+Chief Complaint: hemoptysis, respiratory failure
+   24 Hour Events:
+   Decreased PSV to [**9-13**] and 40% FiO2, but couldn't wean entirely
+   Per notes from respiratory, had to increase PS because of subjective
+   dyspnea with increased RR
+   Ordered labs and CXR this AM in anticipation of invasive care again
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**2133-1-17**] 10:59 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2133-1-19**] 09:21 AM
+   Lorazepam (Ativan) - [**2133-1-19**] 11:00 PM
+   Heparin Sodium (Prophylaxis) - [**2133-1-20**] 12:11 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2133-1-20**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.3
+C (99.2
+   HR: 101 (97 - 119) bpm
+   BP: 98/66(79){94/54(69) - 130/73(90)} mmHg
+   RR: 26 (23 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 97.1 kg (admission): 91.5 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,781 mL
+                                                                    581 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,781 mL
+                                                                    581 mL
+   Blood products:
+   Total out:
+                                                                  2,060 mL
+                                                                    820 mL
+   Urine:
+                                                                  2,060 mL
+                                                                    820 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -279 mL
+                                                                   -239 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 322 (322 - 409) mL
+   PS : 18 cmH2O
+   RR (Spontaneous): 41
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 16 cmH2O
+   SpO2: 99%
+   ABG: ////
+   Ve: 13.1 L/min
+   Physical Examination
+   Awake, sitting in chair, getting suctioned
+   S1, S2, tachy, regular, no murmur
+   Lungs with diminished and coarse BS throughout
+   Abd soft, NT, ND
+   Ext with trace edema
+   Labs / Radiology
+   206 K/uL
+   6.7 g/dL
+   145
+   0.6 mg/dL
+   28 mEq/L
+   3.2 mEq/L
+   8 mg/dL
+   96 mEq/L
+   128 mEq/L
+   22.7 %
+   5.1 K/uL
+        [image002.jpg]
+                             [**2133-1-13**]  05:59 AM
+                             [**2133-1-13**]  07:49 AM
+                             [**2133-1-13**]  02:27 PM
+                             [**2133-1-13**]  02:49 PM
+                             [**2133-1-14**]  05:50 AM
+                             [**2133-1-15**]  01:30 AM
+                             [**2133-1-15**]  04:50 AM
+                             [**2133-1-15**]  08:09 PM
+                             [**2133-1-16**]  08:46 AM
+                             [**2133-1-17**]  12:00 AM
+   WBC
+   7.1
+   8.1
+   5.8
+   5.9
+   5.1
+   Hct
+   25.5
+   26.6
+   24.6
+   25.2
+   22.7
+   Plt
+   172
+   206
+   200
+   245
+   206
+   Cr
+   0.5
+   0.5
+   0.5
+   0.6
+   TCO2
+   36
+   33
+   36
+   35
+   Glucose
+   129
+   144
+   106
+   737
+   145
+   Other labs: PT / PTT / INR:15.2/34.1/1.3, Differential-Neuts:92.4 %,
+   Band:Units: %
+   Range: 0-5 %, Lymph:3.0 %, Mono:3.2 %, Eos:1.3 %, Lactic Acid:1.1
+   mmol/L, Ca++:6.6 mg/dL, Mg++:1.4 mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+   57yo woman with metastatic cervical cancer and respiratory failure.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]):
+   Due to extensive pulmonary metastases with superimposed pulmonary
+   emboli and possible radiation edema.
+   -          trial of pressure support at 5/0 today to determine if
+   possible to extubate
+   -          if not possible to extubate, would consider trach
+   -          supportive care with antitussives, inhalers
+   -          s/p treatment for radiation edema with steroids
+   -          unable to treat PE given concern for tumor eroding into
+   pulmonary artery
+ CANCER (MALIGNANT NEOPLASM), GYNECOLOGICAL (OVARIAN, UTERINE,
+   CERVICAL, ENDOMETRIAL)
+   -          Family meeting today with ICU attending, Dr. [**Last Name (STitle) 604**], and
+   family to discuss goals of care
+   -          Appreciate assistance from palliative care and social work
+ PULMONARY EMBOLISM (PE), ACUTE:
+   -          no heparin gtt as above
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:  Not following sugars
+   Lines:
+   Arterial Line - [**2133-1-10**] 06:55 AM
+   PICC Line - [**2133-1-13**] 02:43 PM
+   Prophylaxis:
+   DVT: SubQ heparin
+   Stress ulcer: PPI
+   VAP:  HOB elevated, mouth care
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU

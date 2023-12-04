@@ -1,0 +1,213 @@
+TSICU
+   HPI:
+   55 yo male construction worker jerked in bucket and fell forward
+   against the edge of the side striking abdomen with force. Complains of
+   abd pain, distention, flank tenderness, and SOB. HD unstable o/s, 2
+   units of blood in ED. Active extrav from pancreas/liver on CT Torso.
+   Chief complaint:
+   PMHx:
+   Injuries:
+   - Portal vein injury
+   - SMA injury
+   - Massive mesenteric hematoma w 3L blood in abd requiring intra-op 24U
+   pRBC / 16U FFP, 6U Plt, 8L crystalloid
+   .
+   PMH: HCV Hepatitis / Autoimmune hepatitis, duodenal ulcer
+   PSH: None
+   [**Last Name (un) **]: Prednisone 20mg daily, Azathioprine 50mg daily
+   Soc: Distant EtOH abuse, cigs
+   Current medications:
+   24 Hour Events:
+   Vomitted TF, post-pyloric Dobhoff placed, CT abd/pelvis performed - no
+   evidence of SBO/LBO, bulkiness around pancreatic head, thickening of
+   3rd part of duodenum (not a hematoma)
+ FLUOROSCOPY - At [**2107-7-15**] 03:14 PM
+   post pyloric dobhoff placement
+   Post operative day:
+   POD#6 - exp laparotomy, ligation asnd oversewing of superior mesenteric
+   artery branches, repair of portal vein, resection of transverse colon
+   POD#4 - washout
+   colostomy
+   closure of abd
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2107-7-15**] 11:43 AM
+   Furosemide (Lasix) - [**2107-7-15**] 04:53 PM
+   Heparin Sodium (Prophylaxis) - [**2107-7-15**] 08:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2107-7-16**] 06:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**09**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 36.7
+C (98
+   HR: 64 (58 - 78) bpm
+   BP: 140/80(94) {134/73(87) - 163/94(111)} mmHg
+   RR: 18 (13 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.8 kg (admission): 85 kg
+                  Total In:
+                                                                  2,605 mL
+                                                                    621 mL
+   PO:
+                  Tube feeding:
+                                                                    293 mL
+                                                                     60 mL
+   IV Fluid:
+   Blood products:
+   Total out:
+                                                                  5,480 mL
+                                                                  1,125 mL
+   Urine:
+                                                                  2,880 mL
+                                                                    540 mL
+   NG:
+                                                                  1,000 mL
+                                                                    215 mL
+   Stool:
+   Drains:
+                                                                  1,100 mL
+                                                                    170 mL
+   Balance:
+                                                                 -2,875 mL
+                                                                   -504 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: No acute distress, confused
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : at bases)
+   Abdominal: Soft, Non-distended
+   Left Extremities: (Edema: Trace), (Temperature: Warm)
+   Right Extremities: (Temperature: Warm)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities, inconsistently
+   oriented, confused
+   Labs / Radiology
+   111 K/uL
+   12.1 g/dL
+   145 mg/dL
+   0.7 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   24 mg/dL
+   110 mEq/L
+   142 mEq/L
+   37.5 %
+   8.6 K/uL
+        [image002.jpg]
+                             [**2107-7-13**]  05:03 PM
+                             [**2107-7-13**]  08:00 PM
+                             [**2107-7-14**]  01:39 AM
+                             [**2107-7-14**]  01:55 AM
+                             [**2107-7-14**]  08:00 AM
+                             [**2107-7-14**]  04:00 PM
+                             [**2107-7-14**]  04:50 PM
+                             [**2107-7-14**]  08:00 PM
+                             [**2107-7-15**]  02:00 AM
+                             [**2107-7-16**]  01:40 AM
+   WBC
+   9.4
+   8.0
+   8.6
+   Hct
+   35.2
+   35.3
+   37.5
+   Plt
+   98
+   99
+   111
+   Creatinine
+   0.8
+   0.7
+   0.7
+   0.7
+   0.7
+   TCO2
+   31
+   Glucose
+   127
+   135
+   142
+   141
+   138
+   129
+   111
+   139
+   164
+   145
+   Other labs: PT / PTT / INR:15.3/29.1/1.3, ALT / AST:222/193, Alk-Phos /
+   T bili:77/2.5, Amylase / Lipase:325/262, Differential-Neuts:92.1 %,
+   Lymph:5.1 %, Mono:2.6 %, Eos:0.1 %, Fibrinogen:385 mg/dL, Lactic
+   Acid:1.9 mmol/L, Albumin:2.3 g/dL, LDH:292 IU/L, Ca:8.1 mg/dL, Mg:2.2
+   mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), DELIRIUM / CONFUSION, TRAUMA,
+   S/P
+   Assessment and Plan: 55M s/p abdominal trauma, s/p ex lap w
+   retroperitoneal hematoma, central portal vein injury, SMA injuries, s/p
+   massive rescusitation, transverse colectomy, R end colostomy, [**Doctor Last Name 1820**]
+   pouch, and abdominal closure.
+   Neurologic: - Continues to have halucinations and be disoriented to
+   place/year
+   - pain: tylenol, minimal narcotics (oxycodone, hydromorphone for
+   breakthrough)
+   Cardiovascular:
+   - hemodynamically stable
+   - HTN: PO Lopressor, prn hydralazine
+   Pulmonary: - increasing atelectasis on CT chest, needs aggressive chest
+   PT, suctioning, incentive spirometer
+   Gastrointestinal / Abdomen: - s/p transverse
+   colectomy/colostomy/hartmans pouch
+   - post-pyloric Dobhoff placed as not tolerating feeds via NGT. Will d/c
+   TPN as able to tolerate TF
+   - Hepatitis - liver biopsy consistent with HCV and toxic metabolic
+   fibrosis, grade III. No autoimmune hepatitis - pt was on
+   immunosuppresive meds as a part of a trial at [**Hospital1 1031**].
+   - Bowel regimen
+   Nutrition:
+   Renal: - UOP adequate- hypernatremia resolved
+   - TPN w/no Na
+   Hematology: - Hct stable at 35 - check daily
+   Endocrine: ISS, solumedrol taper, liver bx inconsistant w autoimmune
+   hepatitis.
+   Infectious Disease: no signs of infection, but high risk for PNA,
+   aggressive pulm toilet
+   Lines / Tubes / Drains: L SCL, L radial ALine, Foley, NG, JP x1
+   (resting on dressing).
+   Wounds:
+   Imaging: CXR today
+   Fluids: TPN
+   Consults: Trauma surgery, hepatology
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Replete with Fiber ([**2-16**]) - [**2107-7-15**] 04:44 PM 10 mL/hour
+   TPN w/ Lipids - [**2107-7-15**] 07:20 PM 83 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2107-7-9**] 09:21 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: [**Hospital 1025**] Transfer to floor
+   Total time spent: 35 minutes
+   Patient is critically ill

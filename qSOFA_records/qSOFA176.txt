@@ -1,0 +1,227 @@
+Chief Complaint: respiratory distress
+   24 Hour Events:
+ FEVER - 101.6
+F - [**2133-1-23**] 08:00 PM
+   Renal ultrasound showed mild L hydronephrosis
+   Continued to have fevers
+   SUBJECTIVE:
+   Pain with coughing
+   Allergies:
+   Heparin Agents
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin - [**2133-1-22**] 01:00 AM
+   Vancomycin - [**2133-1-23**] 08:44 PM
+   Ciprofloxacin - [**2133-1-23**] 11:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2133-1-23**] 11:48 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2133-1-23**] 09:18 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2133-1-24**] 07:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.7
+C (101.6
+   Tcurrent: 37.6
+C (99.6
+   HR: 103 (102 - 128) bpm
+   BP: 89/59(65){84/48(56) - 101/65(73)} mmHg
+   RR: 30 (0 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 97.1 kg (admission): 91.5 kg
+   Height: 65 Inch
+             Total In:
+                                                                  3,834 mL
+                                                                    999 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,834 mL
+                                                                    999 mL
+   Blood products:
+   Total out:
+                                                                    725 mL
+                                                                    260 mL
+   Urine:
+                                                                    725 mL
+                                                                    260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,109 mL
+                                                                    739 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 592 (342 - 596) mL
+   PS : 10 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 97,059
+   PIP: 16 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 100%
+   ABG: ///22/
+   Ve: 11.4 L/min
+   Physical Examination
+   Sitting up in bed, oriented, pleasant.
+   MMM
+   Trach in place
+   S1, S2, tachy, no murmur
+   Lungs with coarse BS
+   Abdomen with new PEG in place, no erythema at site
+   Ext with +1 edema, warm.
+   Labs / Radiology
+   75 K/uL
+   7.5 g/dL
+   113 mg/dL
+   1.1 mg/dL
+   22 mEq/L
+   3.9 mEq/L
+   15 mg/dL
+   102 mEq/L
+   132 mEq/L
+   22.6 %
+   4.6 K/uL
+        [image002.jpg]
+                             [**2133-1-20**]  05:40 AM
+                             [**2133-1-20**]  09:16 AM
+                             [**2133-1-21**]  04:49 AM
+                             [**2133-1-22**]  04:44 AM
+                             [**2133-1-22**]  09:34 AM
+                             [**2133-1-22**]  09:52 AM
+                             [**2133-1-22**]  11:00 AM
+                             [**2133-1-22**]  02:47 PM
+                             [**2133-1-23**]  05:35 AM
+                             [**2133-1-24**]  04:44 AM
+   WBC
+   6.7
+   6.9
+   10.5
+   9.0
+   4.9
+   4.6
+   Hct
+   23.3
+   22.3
+   26.7
+   27.5
+   23.3
+   22.6
+   Plt
+   95
+   80
+   54
+   74
+   94
+   82
+   75
+   Cr
+   0.5
+   0.6
+   1.0
+   0.9
+   0.9
+   1.1
+   1.1
+   TCO2
+   34
+   22
+   Glucose
+   114
+   109
+   126
+   748
+   148
+   126
+   149
+   113
+   Other labs: PT / PTT / INR:14.3/35.7/1.2, Differential-Neuts:93.9 %,
+   Band:3.0 %, Lymph:2.0 %, Mono:Units: %
+   Range: [**1-19**] %, Eos:Units: %
+   Range: 0-4 %, Fibrinogen:618 mg/dL, Lactic Acid:3.6 mmol/L, Ca++:7.8
+   mg/dL, Mg++:1.9 mg/dL, PO4:2.1 mg/dL
+Sputum Cx   GRAM STAIN (Final [**2133-1-21**]):
+      [**10-3**] PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+   RESPIRATORY CULTURE (Final [**2133-1-23**]):
+         MODERATE GROWTH OROPHARYNGEAL FLORA.
+   BCx [**Date range (1) 934**] NGTD
+   UCx negative
+   Renal US [**1-23**]:
+   The right kidney measures 10.5 cm in its long axis and the left
+   kidney measures 12.7 cm.  The left collecting system shows mild
+   hydronephrosis.  The ureter could not be assessed being obscured by ove
+   rlying
+   bowel gas.  Right kidney is normal.  No focal mass lesions or calculi
+   identified.  There is an indwelling Foley catheter in the urinary bladd
+   er
+   which was empty at the time of the examination.
+   Assessment and Plan
+   57yo woman with metastatic cervical carcinoma and respiratory failure.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   -          doing well s/p trach [**1-22**]
+   -          PS decreased to [**9-13**] this morning, pt doing well
+   -          Continue to progress with trach collar, passy-muir valve
+ CANCER (MALIGNANT NEOPLASM), GYNECOLOGICAL (OVARIAN, UTERINE,
+   CERVICAL, ENDOMETRIAL)
+   -          family discussing pursuing treatment in NY
+   -          will contact brother-in-law, [**Name (NI) 34**], to obtain further
+   information
+   -          appreciate assistance from Dr. [**Last Name (STitle) 604**]
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   -          continues to have fevers; most suspicious of VAP, though
+   sputum Cx only with oropharyngeal flora
+   -          f/u blood, urine, sputum Cx
+   -          DC foley
+   -          Continue vanc/zosyn/cipro (day 1 = [**1-21**]) for possible VAP
+   -          If culture data still negative tomorrow, would consider
+   stopping antibiotics
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF):
+   -          occurred in setting of new fevers, tachycardia, hypotension,
+   so most likely prerenal
+   -          urine output has improved somewhat over last 24 hours
+   -          renal US with mild L hydro despite foley in place; could
+   have obstruction from tumor, though mild u/l hydro unlikely to cause
+   significant renal impairment
+   -          monitor urine output and Cr
+ [**Last Name 121**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Heparin Induced Thrombocytopenia
+   -          no evidence of thrombosis
+   -          platelets stable after stopping heparin
+   -          not a candidate for argatroban b/c of bleeding risk from
+   pulmonary metastases
+   -          pt agrees to wear pneumoboots
+ TACHYCARDIA, OTHER
+   -          less frequent episodes of tachycardia, most likely b/c she
+   appears to be more comfortable with trach
+ PULMONARY EMBOLISM (PE), ACUTE
+   -          no anticoagulation given bleeding risk
+ ANEMIA, OTHER
+   -          Hct stable
+   ICU Care
+   Nutrition: starting tube feeds by PEG today
+   Glycemic Control:  start SSI with regular insulin to control sugars
+   while on tube feeds; if insignificant insulin requirement today, would
+   reassess and stop QID fingersticks tomorrow
+   Lines:
+   PICC Line - [**2133-1-13**] 02:43 PM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer: PPI
+   VAP:  mouth care
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition: contact brother-in-law, [**Name (NI) 34**], at [**Telephone/Fax (1) 584**] to confirm
+   name of MD [**First Name (Titles) **] [**Last Name (Titles) **] re: chemo
