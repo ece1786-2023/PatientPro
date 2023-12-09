@@ -109,14 +109,16 @@ class NEWS2(Metric):
         "4. Temperature in Celsius (float).\n"
         "5. Systolic blood pressure (integer).\n"
         "6. Heart Rate bpm (integer)\n"
-        "6. AVPU Score: (single character). One of {A, V, P, U} based on if the patient is fully Awake," 
-                        "responds to Verbal stimulation, responds to Painful stimulation, or is Unresponsive, respectively.\n\n"
+        "7. AVPU Score: (single character). One of {A, V, P, U} based on if the patient is fully Awake, " 
+                        "responds to Verbal stimulation, responds to Painful stimulation, "
+                        "or is Unresponsive, respectively.\n\n"
         "Additional notes:\n"
         "Do not report values from the HPI (History of Present Illness) section, only current readings.\n"
         "For Respiratory rate, ignore RR (spontaneous) unless it's the only one present.\n"
-        "Use the following schema for the output, and ensure that it is strictly followed:\n\n"
+        "Use only the following schema for the output, and ensure that it is strictly followed:\n\n"
         f"{schema}"
     )
+    
     def compute_score(self, data):
         score = 0
         
@@ -134,7 +136,7 @@ class NEWS2(Metric):
         elif    O2 >= 96:           score += 0
 
         SO2 = data['supplemental_o2']
-        if SO2 == True:             score += 2
+        if      SO2 == True:        score += 2
 
         T = data['temperature']
         if      T <= 35.0:          score += 3
@@ -159,8 +161,9 @@ class NEWS2(Metric):
         elif    HR  >= 131:         score += 3
 
         AVPU = data['AVPU']
-        if AVPU == 'A':             score += 0
-        elif AVPU in {'V','P','U'}: score += 3
+        VPU = {'V','P','U'}
+        if      AVPU == 'A':        score += 0
+        elif    AVPU in VPU:        score += 3
 
         return score
 
