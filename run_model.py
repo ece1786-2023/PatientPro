@@ -5,13 +5,17 @@ import sys
 import metrics 
 from helper.openai_helper import call_openai_chat
 from helper.log_helper import Mode, log
-from helper.io_helper import read_file_list
+from helper.io_helper import read_file_list, get_dir_files
 
-def extract_data(metric, input_record, n_shots=0, example_records=[], example_outputs=[]):
-    if n_shots != len(example_records) or n_shots != len(example_outputs):
-        print("[ERROR] n_shots must equal the number of training examples")
-        return
-    
+def extract_data(metric, input_record, n_shots=0):
+    example_records, example_outputs = [], []
+
+    if n_shots > 0:
+        nshot_record_names = get_dir_files("nshot_records/" + metric.id )
+        nshot_label_names = get_dir_files("nshot_labels/" + metric.id)
+        example_records = read_file_list(nshot_record_names[:n_shots])
+        example_outputs = read_file_list(nshot_label_names[:n_shots])
+
     messages=[{"role": "system", "content": metric.prompt}]
 
     for i in range(n_shots):

@@ -1,0 +1,7 @@
+{
+  "age": 62,
+  "tonsil_swelling": true,
+  "lymph_swelling": true,
+  "temp": 37.8,
+  "cough_present": false
+}
