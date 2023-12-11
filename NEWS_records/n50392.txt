@@ -1,0 +1,243 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ PERCUTANEOUS TRACHEOSTOMY - At [**2165-4-5**] 08:15 AM
+   trach placement at bedside. propofol was increased up to as high as
+   80mcg/kg/min for adequate sedation during procedure. decreased to
+   30mcg/kg/min post procedure.
+ BLOOD CULTURED - At [**2165-4-5**] 10:50 AM
+   aline
+ BLOOD CULTURED - At [**2165-4-5**] 11:00 AM
+   right sc tlcl
+ SPUTUM CULTURE - At [**2165-4-5**] 01:00 PM
+ FEVER - 101.1
+F - [**2165-4-5**] 10:00 AM
+   - Did excellently on SBT in AM post trach and was extubated. Spent most
+   of day on trach mask and was transitioned back to PSV overnight to
+   allow rest
+   - Beta-glucan positive, evaluated by ENT: sinuses look clean to them,
+   still needs to be staffed with ENT attg.
+   Allergies:
+   Penicillins
+   Rash; Anaphylax
+   Morphine
+   Nausea/Vomiting
+   Dilaudid-Hp (Injection) (Hydromorphone Hcl/Pf)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Micafungin - [**2165-4-5**] 04:00 PM
+   Infusions:
+   Heparin Sodium - 1,250 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**2165-4-6**] 02:00 AM
+   Metoprolol - [**2165-4-6**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2165-4-6**] 08:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 37.4
+C (99.3
+   HR: 90 (87 - 106) bpm
+   BP: 120/66(81) {118/66(81) - 151/90(107)} mmHg
+   RR: 13 (12 - 30) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 110 kg (admission): 132.3 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,628 mL
+                                                                     96 mL
+   PO:
+             TF:
+                                                                     74 mL
+   IVF:
+                                                                  1,435 mL
+                                                                     96 mL
+   Blood products:
+   Total out:
+                                                                  2,072 mL
+                                                                      0 mL
+   Urine:
+                                                                      5 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -444 mL
+                                                                     96 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 611 (389 - 639) mL
+   PS : 8 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   RSBI: 37
+   PIP: 13 cmH2O
+   Plateau: 14 cmH2O
+   SpO2: 99%
+   ABG: 7.40/36/151/19/-1 on 50% FiO2
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 503
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, trach in place
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Abdominal: Soft, Bowel sounds present, Obese
+   Extremities: Right: 1+, Left: 1+
+   Skin:  erythema around tunnel line unchanged
+   Neurologic: Responds to: Noxious stimuli, Movement: No spontaneous
+   movement, Tone: Not assessed
+   Labs / Radiology
+   161 K/uL
+   9.3 g/dL
+   145 mg/dL
+   3.7 mg/dL
+   19 mEq/L
+   3.9 mEq/L
+   47 mg/dL
+   95 mEq/L
+   131 mEq/L
+   26.4 %
+   12.5 K/uL
+        [image002.jpg]
+                             [**2165-4-4**]  11:52 AM
+                             [**2165-4-4**]  12:10 PM
+                             [**2165-4-4**]  11:14 PM
+                             [**2165-4-4**]  11:37 PM
+                             [**2165-4-5**]  04:47 AM
+                             [**2165-4-5**]  05:06 AM
+                             [**2165-4-5**]  11:16 AM
+                             [**2165-4-5**]  12:35 PM
+                             [**2165-4-5**]  06:42 PM
+                             [**2165-4-6**]  04:55 AM
+   WBC
+   12.5
+   Hct
+   28.8
+   26.4
+   Plt
+   148
+   161
+   Cr
+   1.4
+   3.7
+   TCO2
+   25
+   26
+   26
+   25
+   25
+   23
+   Glucose
+   185
+   177
+   135
+   145
+   Other labs: PT / PTT / INR:14.1/80.2/1.2, ALT / AST:15/24, Alk Phos / T
+   Bili:155/0.5, Amylase / Lipase:71/52, Differential-Neuts:69.0 %,
+   Band:1.0 %, Lymph:11.0 %, Mono:13.0 %, Eos:3.0 %, Lactic Acid:1.1
+   mmol/L, Albumin:3.2 g/dL, LDH:346 IU/L, Ca++:9.6 mg/dL, Mg++:2.1 mg/dL,
+   PO4:6.8 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ TACHYCARDIA, OTHER
+ ATRIAL FIBRILLATION (AFIB)
+ [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ .H/O HYPERTENSION, BENIGN
+ ALTERATION IN NUTRITION
+ .H/O DIABETES MELLITUS (DM), TYPE II
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ MULTIPLE MYELOMA  (CANCER, MALIGNANT NEOPLASM)
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 11**])
+   61 yo man s/p alogeneic SCT (day 0= [**2165-3-8**]) for multiple myeloma with
+   respiratory failure (ARDS, Paraflu, possible PE), s/p completed course
+   for E. coli bacteremia and staph epi line infxn; mental status changes
+   precluding weaning of mechanical ventilation, now s/p tracheostomy.
+   Febrile this AM post procedure and with positve beta-glucan.
+   # Respiratory failure:  Now with tracheostomy after failing multiple
+   SBTs [**12-17**] hypertension, tachypneia, tachycardia.  Initial respiratory
+   failure was secondary to ARDS (from ESBL bacterimia), Paraflu 3 PNA,
+   possible PE. Currently  much improved.    He tolerated trach collar
+   yesterday and was back on PSV overnight for rest.
+   - Continue heparin gtt although repeat echo was without impressive
+   evidence of strain
+   - Consider risk/benefits of CTA repeat to evaluate for PE; will discuss
+   with renal
+   - CT lungs (with or without contrast) to assess parenchyma
+   - continue MDIs
+   - back on trach collar as tolerated today
+   # Fevers; previous Sepsis/ E. coli Bacteremia: Completed course of
+   meropenem and vancomycin.  Off all antibiotics except Micafungin, which
+   is to be continued given positibe beta-glucan.   Pt spiked again this
+   am and was re-cultured.  No broad antibiotics restarted.  This was soon
+   after trach. Beta glucan now positive and of unclear significance
+   ID any candididal mucosal infxn could cause this. Galactomannam
+   pending.
+   -  f/u line and pending Bcx
+   -  f/u CMV VL per ID (as patient was off Valgancyclovir and on
+   Acyclovir for awhile)
+   - follow pending blood and urine Cx
+s; all currently NGTD
+   - Monitor site of previous subclavian given surrounding blanching
+   erythema
+if [**Last Name (LF) 7672**], [**First Name3 (LF) **] tx with vanco.
+   - d/w ENT re: value of dedicated sinus CT vs drirect visualization of
+   sinuses given recent head CT showing some maxially sinus wall
+   thickening and opacification of sphenoid.
+   - continue micafungin; f/u galactomannam
+   # Afib with RVR:  Improved control with Metoprolol & Digoxin
+   - f/u dig level
+   # Psych: Psych not recommending starting anti-depressant urgently given
+   patient
+s critical status.
+   - Low dose Zyprexa 2.5mg Q4 prn ok for agitation, but if higher doses
+   needed, Haldol 2.5mg PO/IV up to 20mg/day as needed for agitation.
+   # ARF: Urine output  effectively zero.  Large volume removal yesterday
+   by CVVH which is now off.
+   - start HD tomorrow, dose meds accordingly, as per renal no dose
+   adjustments currently necessary
+   # Anemia: Hct Holding after [**3-30**] transfusion
+   - monitor [**Hospital1 7**]
+   # Myeloma: Patient is s/p  SCT for multiple myeloma.
+   - daily LFTs and bili
+   - BMT Recs: Cyclosporine dose increase to 100mg [**Hospital1 **], MMF
+   # Diarrhea:  formerly Ileus, now stooling, on TPN.  C. diff negative
+   times three pending.  Consider addition of Flagyl if diarrhea worsens
+   and patient  becomes unstable.
+   # Type 2 Diabetes Mellitus: Difficult to control blood glucose in the
+   setting of infection
+   -continue humalog sliding scale with Lantus, followed FSG and adjust
+   per TPN status
+   ICU Care
+   Nutrition:  tube feeds
+   Glycemic Control:
+   Lines:
+   Midline - [**2165-3-22**] 09:00 PM
+   Dialysis Catheter - [**2165-3-29**] 02:10 PM
+   Arterial Line - [**2165-4-3**] 04:27 PM
+   Multi Lumen - [**2165-4-4**] 01:30 AM
+   Prophylaxis:
+   DVT: heparin gtt
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

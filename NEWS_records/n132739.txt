@@ -1,0 +1,264 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**2115-2-11**] 11:00 AM
+   LENI
+   - BMT recs: check CSF PEP, IgG. D/C clinda, primaquine, dex.
+   - PM lytes: K low. Repleted with IV K.
+   - Given 1u PRBC.
+   - PIV placed by IV team.
+   - Hemolysis labs negative.
+   - Renal recs: free H2O flushes D5W at 125cc/hr for hypernatremia and
+   3.5L free H2O defecit. No urgent need for HD now.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Voriconazole - [**2115-2-10**] 02:17 PM
+   Vancomycin - [**2115-2-11**] 08:00 AM
+   Acyclovir - [**2115-2-11**] 09:14 AM
+   Clindamycin - [**2115-2-11**] 12:15 PM
+   Cefipime - [**2115-2-11**] 12:36 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2115-2-11**] 08:29 PM
+   Metoprolol - [**2115-2-11**] 11:55 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2115-2-12**] 07:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**16**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.6
+C (96.1
+   HR: 103 (99 - 132) bpm
+   BP: 120/94(100) {86/61(67) - 137/94(101)} mmHg
+   RR: 25 (16 - 29) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 65 Inch
+    CVP: 6 (6 - 6)mmHg
+   Total In:
+                                                                  2,753 mL
+                                                                  1,421 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,403 mL
+                                                                  1,421 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  2,575 mL
+                                                                    370 mL
+   Urine:
+                                                                  2,575 mL
+                                                                    370 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    178 mL
+                                                                  1,051 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: 7.50/28/95.[**Numeric Identifier 253**]/22/0
+   Physical Examination
+   CV [**2-23**] SM
+   Pulm  + crackles
+   Abd soft NTND
+   Labs / Radiology
+   22 K/uL
+   8.4 g/dL
+   276 mg/dL
+   3.7 mg/dL
+   22 mEq/L
+   3.2 mEq/L
+   73 mg/dL
+   100 mEq/L
+   139 mEq/L
+   24.0 %
+   0.2 K/uL
+        [image002.jpg]
+   N:64 Band:0 L:16 M:8 E:0 Bas:0 Atyps: 12 Nrbc: 8
+   PT: 18.0
+   PTT: 32.0
+   INR: 1.6
+   Ca: 6.4 Mg: 2.2 P: 7.3
+                             [**2115-2-9**]  07:01 PM
+                             [**2115-2-9**]  07:18 PM
+                             [**2115-2-9**]  07:32 PM
+                             [**2115-2-10**]  02:50 AM
+                             [**2115-2-10**]  11:24 AM
+                             [**2115-2-11**]  06:00 AM
+                             [**2115-2-11**]  07:31 AM
+                             [**2115-2-11**]  11:29 AM
+                             [**2115-2-11**]  03:12 PM
+                             [**2115-2-12**]  04:00 AM
+   WBC
+   0.3
+   0.2
+   0.1
+   0.1
+   0.2
+   Hct
+   24.7
+   24.6
+   21.7
+   22.4
+   24.0
+   Plt
+   37
+   37
+   20
+   23
+   22
+   Cr
+   3.5
+   3.7
+   3.9
+   3.9
+   3.7
+   TropT
+   0.07
+   0.08
+   TCO2
+   19
+   20
+   23
+   23
+   Glucose
+   165
+   143
+   164
+   252
+   276
+   Other labs: PT / PTT / INR:18.0/32.0/1.6, CK / CKMB /
+   Troponin-T:62/4/0.08, Alk Phos / T Bili:/0.8, Differential-Neuts:64.0
+   %, Band:0.0 %, Lymph:16.0 %, Mono:8.0 %, Eos:0.0 %, Lactic Acid:2.2
+   mmol/L, LDH:537 IU/L, Ca++:6.4 mg/dL, Mg++:2.2 mg/dL, PO4:7.3 mg/dL
+   Imaging: LENIs:
+   No deep venous thrombosis in either lower extremity.
+   CXR:
+   As compared to the previous radiograph, the signs suggesting
+   centralized pulmonary edema have minimally increased. The size of the
+   cardiac silhouette is stable. There is no evidence of pleural
+   effusions.
+   CT Chest:
+   1. Simple cholelithiasis without acute cholecystitis.
+   2. Unchanged bilateral breast silicone granulomata.
+   3. Small bilateral pleural effusions.
+   4. Nonspecific patchy tree-in-[**Male First Name (un) 2717**] appearance in the anterior portion of
+   the upper lobe of the lungs, unchanged from ten days ago, could
+   represent inflammatory or early infection.
+   5. Multiple osteolytic lesions along the spine, left fifth rib, right
+   scapular and pelvic and acetabulum, compatible with history of multiple
+   myeloma.
+   Echo:
+   Suboptimal image quality. Left ventricular systolic function is
+   difficult to assess given fast heart rate and poor acoustic windows but
+   appears at least mildly depressed (LVEF~40%). Very small posterior
+   pericardial effusion. Resting tachycardia.
+   MRI head:
+   1. Limited evaluation without administration of intravenous gadolinium.
+   If the EGFR is greater than 60, a contrast enhanced MRI may be
+   obtained.
+   2. Stable microangiopathic ischemic white matter disease.
+   3. Heterogeneous low signal intensity within the bone marrow with
+   progression of infiltration in the C2 vertebral body, compatible with
+   the patient's history of multiple myeloma. Recommend bone scan for
+   further evaluation
+   Microbiology: CSF: No growth
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ TACHYCARDIA, OTHER
+ DYSPNEA (SHORTNESS OF BREATH)
+ MULTIPLE MYELOMA  (CANCER, MALIGNANT NEOPLASM)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ NEUTROPENIA
+ HYPOXEMIA
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   55F with multiple myeloma, undergoing active treatment, currently
+   neutropenic, now with persistent fevers of unknown source and new
+   respiratory distress.
+   # Hypoxia/dyspnea: Secondary to flash pulmonary edema in the setting of
+   extensive hydration and possible systolic heart failure (EF estimated
+   ~40% on most recent echo though this was a suboptimal study).  She has
+   improved with diuresis, though O2 requirement/tachypnea worsens with
+   agitation.
+   -- Goal is for net even
+   -- Continue to treat delirium (see below)
+   -- Given low suspicion for PCP, [**Name10 (NameIs) **] [**Name Initial (NameIs) **]/c
+d primaquine/clinda pending
+   sputum
+   -- Continue cefepime, vanc for nosocomial coverage, and
+   voriconazole/acyclovir emperically
+   # Altered mental status: Ddx includes ICU delirium, infectious process,
+   central CNS process.  CSF cx negative.  MRI head w/ low signal
+   intensity w/in bone marrow and progression of infiltration.
+   -- Pheresis today
+   -- Cont zyprexa for agitation
+   # Tachycardia: S/p 1u pRBC, but overall [**Location 11675**] 3.5L.  Likely in
+   part related to diuresis.  Also contributed by hypoxia, malignancy,
+   agitation.  Had V/Q that was low prob on [**2-8**], and LENIs negative.
+   -- Optimize environment/reduce stimuli
+   -- Holding diuresis
+   -- Cont metoprolol iv q6
+   # Pancytopenia: Stable. Hemolysis labs negative
+   -- Transfuse for hct < 24, plt <10, and if signs of bleed
+   -- Cont neupogen
+   # Hypernatremia: Resolved with correcting free water defecit.
+   -- Hold D5W, and monitor Na
+   # Acid/base: mixed disorder. Respiratory alkalosis and metabolic
+   acidosis [**1-22**] RTA and lactate.  Monitor blood gas as needed.
+   # Febrile neutropenia: Abx restarted on [**2-7**] for recurrent temps.
+   Workup extensive and neg to date including cultures, pan scans. Has not
+   been febrile in the ICU.
+   -- Continue acyclovir, cefepime, voriconazole, vancomycin
+   -- Primaquine and clinda have been d/c
+   #  Multiple myeloma:
+   -- continue treatment per oncologist.
+   -- pheresis today.
+   # Renal failure: much worse since admission, type 1 RTA likely due to
+   MM also probably worsened by diuresis.
+   -- appreciate renal recs
+   -- has access for dialysis if necessary
+   # Goals of care: Will need to have discussion with family, given
+   patient
+s extensive malignant disease and relapse
+   ICU Care
+   Nutrition: NPO,
+   Glycemic Control:
+   Lines:
+   Pheresis Catheter - [**2115-2-9**] 09:12 AM
+   20 Gauge - [**2115-2-11**] 11:00 AM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition: FULL
+   ------ Protected Section ------
+   ICU Attending Note
+   I saw and examined the patient with the [**Hospital **] medical team.  The
+   assessment and plan was discussed and is detailed in Dr. [**Last Name (STitle) 11565**]
+s note.
+   I would emphasize the following. Mental status unchanged.  On exam
+   opens eyes to voice, not responding meaningfully, moaning.  PERRL
+   Tachy, regular  Lungs with dependent crackles, occasional wheeze  no
+   edema.
+   Labs as above LENIs negative
+   Tolerating pheresis.  Discussed with renal service who also plans to
+   dialyze her given that uremia may also be contributing to altered
+   mental status.  Follow up  on MM CSF workup as above.
+   Patient is critically ill
+   Time spent: 30 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 2140**] [**Last Name (NamePattern1) 2141**], MD
+   on:[**2115-2-12**] 13:03 ------

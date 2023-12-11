@@ -1,0 +1,217 @@
+Chief Complaint: DKA and coagulopathy
+   24 Hour Events:
+ URINE CULTURE - At [**2136-5-29**] 03:36 AM
+ STOOL CULTURE - At [**2136-5-29**] 03:51 AM
+ FEVER - 101.2
+F - [**2136-5-29**] 01:30 AM
+   Subjective:
+   Patient reports that his nausea has improved substantially.  He
+   continues to have fevers and chills however.  His SOB has improved
+   substantially as well.   He reports having to loose BMs overnight.  His
+   knee pain continues to bother him and is very tender with limited
+   mobility.  Patient trying to  gradually increase PO food and water
+   intake.  ROS otherwise neg.
+   Allergies:
+   Tegaderm (Topical) (Transparent Dressing)
+   Unknown;
+   Prinivil (Oral) (Lisinopril)
+   Unknown;
+   Reglan (Oral) (Metoclopramide Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2136-5-29**] 07:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 37.4
+C (99.4
+   HR: 84 (79 - 93) bpm
+   BP: 131/60(75) {123/51(68) - 144/63(80)} mmHg
+   RR: 22 (19 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+             Total In:
+             5,102 mL
+   PO:
+             30 mL
+   TF:
+   IVF:
+   772 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,290 mL
+   Urine:
+   490 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  3,812 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///20/
+   Physical Examination
+   General: well-nourished, overweight, rigoring during exam
+   CV: RRR, s1 & s2 nl, no M/R/G.
+   Lungs: CTA anteriorly bilat
+   Abd: +BS, ND, NT, soft, no masses.
+   Ext: Left LE with area of erythema surrounding wound on heal up to mid
+   tibial with some areas.  Left knee very tender to slight motion and
+   small effusion noted.  Left knee slightly warmer than right.  No
+   cellulitis overlying knee.
+   Labs / Radiology
+   203 K/uL
+   9.3 g/dL
+   246 mg/dL
+   1.6 mg/dL
+   20 mEq/L
+   5.3 mEq/L
+   24 mg/dL
+   101 mEq/L
+   135 mEq/L
+   29.4 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**2136-5-29**]  02:14 AM
+   WBC
+   7.5
+   Hct
+   29.4
+   Plt
+   203
+   Cr
+   1.6
+   TropT
+   0.02
+   Glucose
+   246
+   Other labs: PT / PTT / INR:53.1/85.2/6.1, CK / CKMB /
+   Troponin-T:105/2/0.02, Ca++:7.4 mg/dL, Mg++:2.2 mg/dL, PO4:2.0 mg/dL
+   Wound Gram stain: Gram + cocci in clusters, and Gram neg rods seen
+   Wound cx pending and
+   Blood cx x2 pending.
+   EKG
+ no evidence of ischemia or infarct.
+   Assessment and Plan
+   Mr. [**Known lastname 68**] is a 64 yo male with a history of T1DM s/p cadoveric renal
+   transplant, chronic RLE ulcers, and IVC filter on Coumadin, who was
+   admitted with mild DKA in the setting of one week of N/V, diarrhea and
+   fevers.
+   .
+   #. DKA: likely [**12-31**] infection; sugars max ~400, but improved to mid
+   200's with IV insulin in ED; patient was not on drip.  Potassium
+   dropping with improvement in gap, which is now ~14.
+   -- will give SQ insulin SS Q2 hours --> will space out to Q4 hours once
+   FSG consistently < 200
+   -- will treat infection and evaluate for other causes as below
+   -- will volume resuscitate with bolus of NS as needed.
+   .
+   #. NAUSEA/VOMITING, DIARRHEA: IC host from IS for renal transplant.  No
+   h/o CP, but at risk for silent MI give DM status.  ? slight Q waves on
+   inferior leads.  Also had recent linezolid use for RLE ulcers.
+   -- will send urinary Legionella antigen, C. diff, stool cultures
+   -- will check cardiac enzymes with am labs, though likely to be
+   negative given time course of symptoms.
+   .
+   #. SOB: CXR clear and unlikely infectious, though with chronic
+   cryptococcal PNA; symptoms have been worsening over last couple days.
+   Patient anemic but at baseline.  Does not have an O2 requirement
+   currently.  CXR clear.   SOB most likely related to patient
+s acidosis.
+   -- will evaluate for MI, per below
+   -- t/c echo if symptoms do not improve with treatment of leg infection,
+   t/c adding levofloxacin for Legionella
+   -- cont home fluconazole 200 mg QD
+   .
+   #. RLE ULCER/CELLULITIS: was previously treated with linezolid;
+   followed by podiatry as out-patient; seen by vascular and podiatry in
+   ED, who had no acute recs
+   -- cont. vanco
+   -- wound care consult
+   # Right Knee pain -  concerning for septic joint vs. bleed into knee
+   joint given high INR vs. osteoarthritis
+   - plan to tap right knee today for fluid analysis and gram stain.
+   .
+   #. VOLUME BALANCE:  dehydrated per history, BUN/Cr
+   -- will hold home lasix
+   -- cont IV fluids w/ K+
+   -- Give 1L NS bolus now.   Follow BP and HR.
+   .
+   #. ANTICOAGULATION: INR 6 down from 20 yesterday after Vit K and FFP
+   -- will check INR in am
+   -- no evidence of bleeding currently, though will maintain active T&S
+   -- patient requires life-long anti-coagulation so no need to fully
+   correct.
+   -- Holding coumadin.
+   .
+   #. ARF: Cr 2.1 on admission; with IVF in ED, repeat Cr 1.7 with BUN
+   28.  Baseline ~0.9 - 1.0.  Likely mostly prerenal, but patient also
+   with poor PO intake and poor absorption in recent week while on
+   prednisone/prograf for renal allograft and, thus, at risk for
+   rejection.
+   -- will cont to monitor response to IVF; cont to follow UOP
+   -- f/u renal recs
+   .
+   # Renal Transplant
+ pt is s/p renal transplant with missed doses of
+   prednisone and tacrolimus and bump in Cr.  Renal team saw patient in ED
+   by report.
+   -- will touch base with pt
+s renal doctor.
+   .
+   #. PPX:
+   -- INR supratherapeutic; no need for SQH currently
+   -- cont home protonix and bowel regimen
+   .
+   # ETOH withdrawal
+ It is possible that patient underestimated current
+   EtOH usage.
+   --Watch for symptoms of EtOH withdrawal.
+   .
+   #. FEN:
+   -- diabetic diet as tolerated
+   -- will cont IVF overnight and reassess volume status in the morning
+   .
+   #. ACCESS: 2x PIV
+   .
+   #. CODE: full
+   .
+   #. DISPO: transfer to floor today.   Notify PCP (followed at [**Company 71**]) of
+   patient
+s admission
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2136-5-29**] 01:32 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Present for key portions of history and physical exam. Agree with
+   findings as above. DKA likely precipitated by cellulitis and diarrheal
+   illness. We have cultured extensively and are covering broadly with abx
+   pending cx.  C Diff pos but seems likely cellulitis is primary. Will
+   need observation for withdrawal.  DM not well controlled in past
+   would consult [**Last Name (un) 72**] while in hospital.
+   ------ Protected Section Addendum Entered By:[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **], MD
+   on:[**2136-5-29**] 18:09 ------

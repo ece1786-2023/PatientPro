@@ -87,9 +87,9 @@ class qSOFA(Metric):
         if data['systolic_bp'] <= 100:      score += 1
         return score
 
-class NEWS2(Metric):
-    name = "NEWS2 Score"
-    id = "news2"
+class NEWS(Metric):
+    name = "NEWS Score"
+    id = "news"
     schema = (
         "{\n"
         "  \"respiratory_rate\": int,\n"

@@ -1,0 +1,190 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Amiodarone dose increased to 1.25mg/min  x 10 hrs and then dropped to
+   0.5 mg until 7am Sunday. Restarted on 0.5 mg later in morning-but again
+   [**6-14**] successive episiodes   of VT shocked out from ICD- so rebolused w
+   150 mg and increased gtt to 1 mg/hr [**12-24**] Sunday.  Plan for EPS
+   Tuesday.  EP fellow was aware.
+   - valium 5mg Q12, then increased Metoprolol to 75mg TID.
+   - NPO at midnight for EP study on tuesday.
+   Allergies:
+   Erythromycin/Sulfisoxazole (Oral) (Ery E-Succ/Sulfisoxazole
+   Unknown; Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 1 mg/min
+   Other ICU medications:
+   Omeprazole (Prilosec) - [**2130-12-24**] 08:30 AM
+   Amiodarone - [**2130-12-24**] 01:27 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2130-12-25**] 06:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 70 (70 - 140) bpm
+   BP: 98/56(66) {81/47(55) - 110/71(75)} mmHg
+   RR: 19 (12 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: AV Paced
+   Wgt (current): 73.6 kg (admission): 74 kg
+   Height: 68 Inch
+             Total In:
+                                                                  2,152 mL
+                                                                    464 mL
+   PO:
+                                                                  1,310 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    842 mL
+                                                                    344 mL
+   Blood products:
+   Total out:
+                                                                  3,525 mL
+                                                                    300 mL
+   Urine:
+                                                                  3,525 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,373 mL
+                                                                    164 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///30/
+   Physical Examination
+   GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: JVP 12cm.
+   CARDIAC: PMI laterally displaced, RR, normal S1, S2. No m/r/g. No
+   thrills, lifts. No S3 or S4.
+   LUNGS: CTAB, few crackles at bases bilaterally.
+   ABDOMEN: Soft, NT. Mild abdominal distention. No HSM or tenderness.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   164 K/uL
+   12.7 g/dL
+   108 mg/dL
+   1.2 mg/dL
+   30 mEq/L
+   4.0 mEq/L
+   19 mg/dL
+   99 mEq/L
+   136 mEq/L
+   36.2 %
+   10.2 K/uL
+        [image002.jpg]
+                            [**2130-12-23**]  12:46 PM
+                            [**2130-12-23**]  09:25 PM
+                            [**2130-12-24**]  06:06 AM
+                            [**2130-12-24**]  12:25 PM
+                            [**2130-12-25**]  04:26 AM
+   WBC
+   12.2
+   9.0
+   10.2
+   Hct
+   39.5
+   37.4
+   36.2
+   Plt
+   175
+   174
+   164
+   Cr
+   1.2
+   1.1
+   1.1
+   1.2
+   Glucose
+   156
+   105
+   133
+   108
+   Other labs: PT / PTT / INR:30.1/27.2/3.0, Ca++:8.9 mg/dL, Mg++:2.3
+   mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   64 y/o M with a history Ichemic CM with a history of VTach s/p ICD
+   placement, s/p three prior ablations presented on [**12-21**] s/p ICD firing
+   x6, now transferred to CCU for recurrent VT, hypotension, and
+   amiodarone gtt.
+   .
+   # Rhythm: Patient with three failed VT ablations in past. Pt's
+   Interrogation revealed slow VT, but appropriate fire of ICD. The
+   patient has failed medical management of with Mexiletine/Tikosyn and
+   plan had been to switch to dronedarone but pt has not been able to get
+   insurance approval of dronedarone. With recurrent episode on the floor,
+   Amiodarone was added. This event is consistent with history of scar and
+   not new ischemia as discussed with EP.
+   - continue amiodarone gtt per EP recs
+   - check LFTs with amiodarone
+   - discontinued Mexiletine/Tikosyn
+   - plan for VT ablation on [**2130-12-26**]
+   - monitor [**Hospital1 **] lytes and keep Mg >2, K >4
+   - keep pads on chest
+   - will monitor BP closely
+   .
+   # Pump: Mildly volume overloaded on examination. Patient has ichemic
+   dilated CM with low EF of 15%.  Did require 1.3L NS bolus in the
+   setting of recent VT on the floor and.
+   - Continue Toresmide 60mg daily
+   - Continue BB, eplerenone, [**Last Name (un) **]
+   - strict I/Os, daily weights, goal I/O even
+   - d/c coumadin
+   - uptitrate BB, cut back on [**Last Name (un) **] if BP does not tolerate.
+   .
+   # Coronaries: Patient's CM is related to ischemia, however no cath
+   reports are avail to determine coronary anatomy. CAD s/p CABG x 5 '[**18**]
+   - Continue Statin, BB, ASA as tolerated
+   .
+   # HTN:New hypotension in setting of VT.
+   - Cont Coreg, Ramipril, Eplerenone with strict holding parameters
+   .
+   # HPL: Cont statin
+   .
+   # COPD: Continue inhalers prn
+   .
+   # FEN: heart healthy, low salt diet, NPO overnight into monday for
+   possible procedure
+   .
+   # ACCESS: PIV's
+   .
+   # PROPHYLAXIS:
+   -DVT ppx with Coumadin
+   .
+   # CODE: full
+   .
+   # CONTACT: [**Name (NI) 4198**] [**Telephone/Fax (1) 9960**]
+   .
+   # DISPO: CCU until ablation
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2130-12-24**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
