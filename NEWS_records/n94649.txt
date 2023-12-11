@@ -1,0 +1,239 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Pt received tunneled HD line,  PICC line, and PEG tube all yesterday.
+   PEG tube draining dark bilious material when set to drainage
+   ENT consulted for sinusitis seen on CT scan, nasal steroids,
+   neosynephrine spray, and ABx started.
+   Continues only on Keppra, no Dilantin
+   Afebrile through yesterday
+   RSBI 69 this am
+   Transiently hypotense when PEG tube placed, received fluid bolus, but
+   otherwise normotensive through day and Midodrine set to lower
+   parameters
+   7.38/50/70  on T piece 12L and FiO2 50%  but put back on vent overnight
+   due to sedation from procedures yesterday, but back to T piece this am
+   ENT feels that sinusitis on CT scan is due to obstruction by chronic NG
+   tube and that this will clear once NG tube is out.  They recommended
+   saline wash, nasal steroids, augmentin and re-image in 4 to 7 days.
+   Allergies:
+   Hydromorphone
+   Unknown;
+   Metoclopramide
+   Unknown;
+   Last dose of Antibiotics:
+   Cefazolin - [**2191-9-13**] 04:30 PM
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**2191-9-13**] 04:45 PM
+   Propofol - [**2191-9-13**] 05:35 PM
+   Fentanyl - [**2191-9-13**] 06:00 PM
+   Lansoprazole (Prevacid) - [**2191-9-13**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2191-9-14**] 07:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.5
+C (97.7
+   HR: 86 (74 - 93) bpm
+   BP: 172/62(81) {73/33(42) - 172/80(92)} mmHg
+   RR: 16 (10 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.1 kg (admission): 94.2 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,000 mL
+                                                                     68 mL
+   PO:
+             TF:
+   IVF:
+                                                                    790 mL
+                                                                     68 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    850 mL
+   Urine:
+   NG:
+   250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,000 mL
+                                                                   -782 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 500) mL
+   Vt (Spontaneous): 447 (367 - 447) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 69
+   PIP: 11 cmH2O
+   SpO2: 100%
+   ABG: 7.38/50/70/25/2
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 175
+   Physical Examination
+   Opens eyes to voice, squeezed hand on the L but not on the R. Doesn
+   track across room.  On T piece.
+   Rhonchorous BS
+   S1 S2 soft, difficult to hear over breath sounds
+   Abd protruberant, with new PEG tube placed
+   New PICC on L and HD line on R
+   Pneumoboots on
+   Labs / Radiology
+   373 K/uL
+   7.7 g/dL
+   116 mg/dL
+   9.0 mg/dL
+   25 mEq/L
+   4.6 mEq/L
+   50 mg/dL
+   99 mEq/L
+   141 mEq/L
+   24.9 %
+   10.9 K/uL
+        [image002.jpg]
+                            [**2191-9-8**]  02:26 AM
+                            [**2191-9-9**]  03:20 AM
+                            [**2191-9-10**]  02:30 AM
+                            [**2191-9-10**]  03:44 AM
+                            [**2191-9-10**]  05:18 PM
+                            [**2191-9-11**]  02:55 AM
+                            [**2191-9-12**]  03:36 AM
+                            [**2191-9-13**]  04:03 AM
+                            [**2191-9-13**]  10:59 AM
+                            [**2191-9-14**]  05:10 AM
+   WBC
+   8.1
+   9.4
+   16.6
+   14.9
+   13.9
+   13.8
+   10.9
+   Hct
+   28.7
+   29.2
+   28.4
+   30.0
+   28.3
+   28.6
+   24.9
+   Plt
+   [**Telephone/Fax (3) **]76
+   437
+   387
+   373
+   Cr
+   5.3
+   7.6
+   5.4
+   7.5
+   8.8
+   7.6
+   9.0
+   TCO2
+   34
+   31
+   Glucose
+   174
+   219
+   107
+   272
+   254
+   82
+   116
+   Other labs: PT / PTT / INR:11.9/22.0/1.0, CK / CKMB /
+   Troponin-T:75/2/0.28, ALT / AST:38/87, Alk Phos / T Bili:270/0.7,
+   Amylase / Lipase:41/42, Differential-Neuts:82.4 %, Band:1.0 %,
+   Lymph:6.0 %, Mono:6.5 %, Eos:4.4 %, Lactic Acid:1.2 mmol/L, Albumin:2.5
+   g/dL, LDH:266 IU/L, Ca++:8.6 mg/dL, Mg++:2.3 mg/dL, PO4:5.0 mg/dL
+   Microbiology: Aspergillus [**2191-9-9**] still pending
+   BCx x4 pending from [**9-11**] to [**9-14**]
+   Catheter tip [**2191-9-13**] still pending
+   Sputum Cx x3 with GPC coag + Staph and GNR not pseudomonas
+   Assessment and Plan
+   73yoM h/o ESRD anuric on HD, admitted for SDHs c/b seizures after a
+   fall, was ventilated, unresponsive, and having persistent fevers
+   thought to be due to drugs, but now waking up a little more, weaning
+   from vent, and hasn't now had fevers since [**2191-7-13**] 8am. Also seen to
+   have sinusitis and mucosal thickenings on CT sinuses.
+   1. Fevers--Has had negative workup for FUO and leading thought is that
+   these were drug fevers, and so all unnecessary drugs were stopped and
+   Dilantin has now been tapered. WBC's were 13-14 but going down this am.
+   Now with concerning CT scan, and we are treating presumed sinus
+   infections.
+   --F/u with ENT
+   --Continue Augmentin for bacterial sinusitis
+   --Continue nasal sprays
+   --Plan for re-imaging in a few more days
+   --Checking Cx's qod, last one collected today
+   2. ESRD--To get HD today
+   --Will try to hold Midodrine before/after HD today and watch bp.
+   --If fails that, then Midodrine before HD on Friday
+   3. Drop in Hct over last 24 hrs
+   --Will repeat Hct later this afternoon
+   --Increase Epo to 5000U with HD today per renal.
+   --Consider transfusing with HD today but can likely f/u pm Hct and
+   watch
+   --Has PICC and HD line
+   --Get new T&S this am
+   4. Seizure: Still no e/o ongoing seizure activity. Repeat EEG [**2191-9-12**]
+   still pending. Continues on Keppra 500mg in am and 250mg in pm.
+   Continue 500mg boluses after HD.
+   5. DM: On SSI + lantus 40 daily. BS's well controlled yesterday 100-140
+   --Continue insulin regimen as is
+   6. Hypotension--Not requiring pressors. Off Fluoronef and Midodrine
+   parameters now decreased to sbp >100. Poor autonomic function given
+   renal failure vs sepsis. [**Last Name (un) 1398**] stim test adequate.
+   --Watch bp's through today and if continued good pressures can d/c
+   Midodrine
+   7. Respiratory Distress: Tolerated t-piece well and had decent ABG
+   yesterday am.
+   --Continue weaning vent, currently on T piece this am
+   8. Mental Status change: Appears to be a little more responsive to
+   stimuli but still not following commands.
+   --Hold sedation
+   --Keppra for seizures
+   --Continue to treat underlying conditions--sinus infxn?
+   9. Scrotal and buttock ulcers
+ most likely dependent skin ulcers.
+   Herpes DFA - negative
+   --continue wound care
+   10. SDH
+Hold anticoagulation.
+   --Repeat EEG pending
+   11. Glaucoma /  Cataracts: continue home eye drops.
+   # Access: R sided HD line, L PICC, and PEG tube
+   # FEN: TF's through PEG
+   # PPX: pneumoboots,  PPI, bowel regimen, no subQ heparin due to SDH's
+   # Code: full (confirmed with wife on admission via phone)
+   # Dispo:  f/u with case management for transfer to rehab facility
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**2191-9-13**] 03:00 PM
+   PICC Line - [**2191-9-13**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

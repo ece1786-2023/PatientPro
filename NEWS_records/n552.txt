@@ -1,0 +1,211 @@
+Chief Complaint:  respiratory failure, severe sepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   85 y/o man discharged [**2185-3-3**] to [**Hospital3 213**] returns with acute
+   dyspnea.  By report, a CXR at [**Hospital3 213**] had shown bibasilar
+   opacities; he received quinolones, but had increased respiratory
+   distress and was transferred to the ED.
+   In the ED 95% r/a but had increased dyspnea unresponsive to nebs and
+   NIMV --> intubated.  By report, he had previously been DNR/DNI but code
+   status was reversed.  He had hypotension in the ED (70s) but was
+   fluid-responsive.
+   In review of documentation from [**Hospital3 213**], there is no clear
+   evidence of recent fevers
+   ED rx: CTX, vanco, azithro in ED.  Now on his 5th liter of fluids + one
+   unit PRBCs.  Initial CVP was 14 - 16.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from Family / [**Hospital 56**] Medical records
+   Patient unable to provide history: Sedated, intubated
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Rash;
+   Remeron (Oral) (Mirtazapine)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Propofol - 10 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   At [**Hospital3 213**]: synthroid, diltiazem, asa, nebs, statin, plavix,
+   prilosec, Ca, vit D, insulin, tylenol prn, vanco PO (last dose 2/6),
+   metoprolol, gentamicin IM (started [**3-3**] for UTI), Megace, levaquin
+   (started [**3-21**]), cipro (started [**3-21**]), bowel regimen
+   Past medical history:
+   Family history:
+   Social History:
+   Coronary artery disease
+       - s/p MI
+       - NSTEMI [**5-9**] in setting of rapid AFib
+   DM type II
+   AFib
+       - now off warfarin
+   Peripheral vascular disease
+       - s/p bypass
+   elevated lipids
+   hypothyroidism
+   C diff (recurrent)
+   congestive heart failure, diastolic
+   Post-Polio weakness/contracture
+   - polio at age 25
+   - residual bilateral leg weakness and right upper arm weakness
+   multiple prolonged recent hospitalizations (per records):
+   - [**Date range (1) 1004**]/07 - admitted for Right SFA to DP bypass for severe gangrene
+   of right foot
+   - [**Date range (1) 1005**] - atrial fibrillation, C.diff, hypotension
+   - [**Date range (1) 1006**]/07 - hypotension, UTI, afib with [**Date range (1) **], diarrhea
+   - [**Date range (1) 1007**]/07 - pulmonary edema, pneumonia, afib with [**Last Name (LF) **], [**First Name3 (LF) 1008**] tube
+   placement, CPAP, pulm edema requiring thoracentesis and bronchoscopy
+   - [**Date range (1) 1009**]/07 - [**Hospital 12**] Rehab
+   - [**Date range (1) 1010**] - [**Hospital3 1011**]
+   - [**2-5**] - [**2185-3-3**] ([**Hospital1 54**]): see d/c summary (FTT, C diff, UTI with ESBL,
+   subacute stroke, etc.)
+   Occupation:
+   Drugs: no
+   Tobacco: no
+   Alcohol: no
+   Other: Essentially in hospital or rehab for much of the last year
+   Review of systems:
+   Flowsheet Data as of [**2185-3-22**] 12:39 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.2
+C (97.2
+   HR: 87 (87 - 87) bpm
+   BP: 103/66(75) {103/66(75) - 103/66(75)} mmHg
+   RR: 22 (22 - 22) insp/min
+   SpO2: 91%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+   SvO2: 52%
+   Total In:
+                                                                  6,004 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,004 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  6,004 mL
+   Respiratory
+   SpO2: 91%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   482
+   28.9
+   220
+   1.1
+   42
+   17
+   101
+   5.6
+   134
+   5.1
+        [image002.jpg]
+   Other labs: PT / PTT / INR:21.5 / 41 / 2.0, CK / CKMB / Troponin-T:101
+   / / 0.2, Lactic Acid:4.4-->2.3 mmol/L
+   Fluid analysis / Other labs: BNP: [**Numeric Identifier 1012**]
+   UA: > 50 wbc
+   7.23 / 39 /54 venous
+   Imaging: CXR: left effusion (old), some pulmonary edema, left base
+   opacity
+   Microbiology: Current BCx pending
+   No current UCx
+   [**2185-3-3**] UCx:
+                                 SENSITIVITIES: MIC expressed in MCG/ML
+   _________________________________________________________
+                                ESCHERICHIA COLI
+                                |          KLEBSIELLA PNEUMONIAE
+                                |          |
+   AMPICILLIN------------  =>32 R
+   AMPICILLIN/SULBACTAM--     4 S       16 I
+   CEFAZOLIN-------------    32 R     =>64 R
+   CEFEPIME--------------       R          R
+   CEFTAZIDIME-----------       R     =>64 R
+   CEFTRIAXONE-----------  =>64 R          R
+   CEFUROXIME------------    32 R     =>64 R
+   CIPROFLOXACIN---------<=0.25 S      =>4 R
+   GENTAMICIN------------   <=1 S        2 S
+   MEROPENEM-------------<=0.25 S   <=0.25 S
+   NITROFURANTOIN--------  <=16 S      256 R
+   PIPERACILLIN----------    32 R
+   PIPERACILLIN/TAZO-----   <=4 S        8 S
+   TOBRAMYCIN------------   <=1 S     =>16 R
+   TRIMETHOPRIM/SULFA----   <=1 S     =>16 R
+   Assessment and Plan
+   85 year old man with respiratory failure and severe sepsis on a
+   background of multiple medical problems.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+          He likely has both pneumonia and heart failure (diastolic,
+   acute).
+          Will need arterial line, as we are unable to get a pleth
+   tracing for SaO2.
+          Ventilate at no more than 8cc/kg PBW.  After ABG, if meets
+   ARDS criteria
+ 6 cc/kg.
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+          Given his health care exposure, needs coverage for MRSA and
+   ESBL Klebs.  Cover atypicals as well.
+          Check influenza DFA.
+ SEPTIC SHOCK
+   1)       Early goal-directed therapy
+   2)       Check [**Last Name (un) 45**] stim and give hydrocortisone because he is
+   chronically on Megace and so is high risk for adrenal insufficiency.
+   3)       Doesn
+t meet criteria for drotrecogin
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+          Hemodynamic management as above
+ ATRIAL FIBRILLATION (AFIB)
+          Clarify anticoagulation status.
+ DIABETES MELLITUS (DM), TYPE II
+          Insulin sliding scale
+ URINARY TRACT INFECTION (UTI)
+          Antibiotics as above
+          Change Foley catheter
+ ACUTE RENAL FAILURE (Cr 0.7
+ 1.1)
+          Hemodynamic management as above
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control: Regular insulin sliding scale
+   Lines / Intubation:
+   Presep Catheter - [**2185-3-22**] 12:13 PM
+   18 Gauge - [**2185-3-22**] 12:[**Street Address(2) 1018**] arterial line
+   Comments:
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds
+   Family meeting held with wife, two sons, and SW.  He is DNR.  We will
+   re-assess course over the next few days ; if he worsens, will consider
+   transitioning to comfort-focused care.  If he improves, will consult
+   geriatrics for assistance with longer-term prognosis.
+    Code status: Full code
+   Disposition: ICU
+   Total time spent: 75 minutes
+   Patient is critically ill

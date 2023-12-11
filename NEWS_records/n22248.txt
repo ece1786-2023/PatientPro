@@ -1,0 +1,217 @@
+Chief Complaint:
+   24 Hour Events:
+ FLUOROSCOPY - At [**2124-5-18**] 02:44 PM
+   - passed video swallow and was started on regular diet with thin
+   liquids
+   - continued on standing haldol with significant improvement in his
+   mental status
+   - CIWA scale with ativan was discontinued
+   - Unable to obtain IR guided PICC so remains with femoral line for
+   access
+   Allergies:
+   Penicillins
+   Unknown; intra-
+   Enalapril
+   angioedema;
+   Last dose of Antibiotics:
+   Metronidazole - [**2124-5-19**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2124-5-18**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2124-5-18**] 08:00 PM
+   Hydralazine - [**2124-5-18**] 08:00 PM
+   Metoprolol - [**2124-5-18**] 08:00 PM
+   Haloperidol (Haldol) - [**2124-5-18**] 08:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2124-5-19**] 06:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.7
+C (98.1
+   HR: 91 (74 - 128) bpm
+   BP: 134/71(85) {110/51(67) - 158/115(125)} mmHg
+   RR: 25 (16 - 37) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+             Total In:
+                                                                  1,806 mL
+                                                                    100 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,806 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  1,153 mL
+                                                                    240 mL
+   Urine:
+                                                                  1,153 mL
+                                                                    240 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    653 mL
+                                                                   -140 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, no acute distress but easily
+   agitated
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: No(t) NG tube
+   Cardiovascular: Regular rate and rhythm, normal s1 and s2, no murmurs,
+   rubs, gallops
+   Respiratory / Chest: Frequent coughing, otherwise clear
+   Abdominal: Soft, Non-tender, non-distended
+   Extremities: warm and well perfused, 2+ pulses, no clubbing, cyanosis
+   or edema
+   Labs / Radiology
+   209 K/uL
+   8.0 g/dL
+   75 mg/dL
+   0.6 mg/dL
+   18 mEq/L
+   3.0 mEq/L
+   11 mg/dL
+   111 mEq/L
+   142 mEq/L
+   24.3 %
+   5.3 K/uL
+        [image002.jpg]
+                             [**2124-5-13**]  04:35 AM
+                             [**2124-5-13**]  03:55 PM
+                             [**2124-5-14**]  12:01 AM
+                             [**2124-5-15**]  04:22 AM
+                             [**2124-5-16**]  05:33 AM
+                             [**2124-5-17**]  04:27 AM
+                             [**2124-5-17**]  11:56 PM
+                             [**2124-5-18**]  02:52 AM
+                             [**2124-5-18**]  10:49 AM
+                             [**2124-5-19**]  05:00 AM
+   WBC
+   4.6
+   4.3
+   5.1
+   7.0
+   6.9
+   6.2
+   5.3
+   Hct
+   28.9
+   30.3
+   28.5
+   28.6
+   27.4
+   24.7
+   24.7
+   24.4
+   24.3
+   Plt
+   75
+   72
+   137
+   150
+   177
+   184
+   209
+   Cr
+   0.6
+   0.5
+   0.6
+   0.7
+   0.7
+   0.7
+   0.6
+   Glucose
+   88
+   92
+   90
+   90
+   81
+   79
+   75
+   Other labs: PT / PTT / INR:12.2/31.9/1.0, CK / CKMB /
+   Troponin-T:129/34/<0.01, ALT / AST:56/112, Alk Phos / T Bili:61/0.7,
+   Amylase / Lipase:/68, Differential-Neuts:58.4 %, Band:20.0 %,
+   Lymph:34.3 %, Mono:5.8 %, Eos:1.3 %, Albumin:2.5 g/dL, LDH:346 IU/L,
+   Ca++:7.9 mg/dL, Mg++:1.8 mg/dL, PO4:3.2 mg/dL
+   Imaging: None
+   Microbiology: None
+   Assessment and Plan
+ DELIRIUM / CONFUSION
+ HYPERTENSION, BENIGN
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AROUSAL, ATTENTION, AND COGNITION, IMPAIRED
+ BALANCE, IMPAIRED
+ GAIT, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ MOTOR FUNCTION, IMPAIRED
+ TRANSFERS, IMPAIRED
+ .H/O ELECTROLYTE & FLUID DISORDER, OTHER
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG,
+   AIRWAY CLEARANCE, COUGH)
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE
+ PNEUMONIA, ASPIRATION
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ALCOHOL WITHDRAWAL (INCLUDING DELIRIUM TREMENS, DTS, SEIZURES)
+   54 y.o. M w/ a h/o EtOH abuse presents after being found down, c/b DTs
+   and + C. diff infection.
+   Agitation: Initially with EtOH withdrawal which required very large
+   doses of IV valium and course complicated by intubation.  Now
+   extubated, satting well.  Likely not in EtOH withdrawal anymore
+   although was receiving frequent ativan; agitation likely with large
+   component from underlying toxic-metabolic encephalopathy.  Currently
+   quite somnolent but protecting his airway.
+   - d/c
+d ativan but will monitor for withdrawal
+   - continue scheduled haldol with prn doses of haldol, xyprexa SL for
+   agitation
+   - f/u Psych recs
+   - D/c thiamine, folate, MVI as NPO and has already received several
+   doses
+   Aspiration risk: Patient presented with aspiration pna vs. community
+   acquired Pneumonia. Per S&S, patient aspirating ->Placed NG tube but
+   patient pulled it out shortly after placement.
+   - Completed levofloxacin x 5 days on [**2124-5-13**]
+   - now off supplemental O2
+   - aspiration precautions
+   - currently NPO, plan for video swallow this afternoon
+   C. difficile infection:
+   - continue flagyl x 14 days ([**2124-5-24**])
+   ARF: resolved and diuresing well. Last dose lasix on [**5-14**].
+   - Pt has been autodiuresing
+   COPD: Off Steroids
+   Smoking:  Nicotine patch
+   NSVT: non sustained VT on tele in ER.  Has not been an issue in the
+   ICU.
+   - beta blocker, echo w/o significant structural abnormality, was in the
+   setting of electrolyte abnormalities
+   - Replete lytes aggressively
+   - will discontinue telemetry on transfer to the floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2124-5-17**] 09:02 PM
+   Prophylaxis:
+   DVT:  SQ heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU

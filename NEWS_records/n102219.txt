@@ -1,0 +1,177 @@
+Chief Complaint:  Upper airway obstruction
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Ms. [**Known lastname 11841**] is a 44 yo healthy woman who presents with sudden onset of
+   throat swelling and difficulty swallowing, starting at 9pm yesterday.
+   She was feeling well prior to the episode and denies fever, throat
+   pain, or URI symptoms. No recent medication changes, no ACE inhibitor
+   use, NSAID or ASA use, travel or new food exposures. She denies
+   abdominal pain, rash, pruritus, or hives. She ate a usual dinner of
+   chicken and rice and mango juice (which are all typical for her). She
+   works at [**Hospital1 49**] in the animal research department and directly handles
+   animals on a daily basis including mice, rats, rabbits, and monkeys.
+   In the ED, initial vs were: T 97.6  P 67  BP 131/83  R 14  O2 sat 100%
+   on RA. Patient was found to have uvular swelling without stridor and
+   was given Solumedrol 125mg IV, famotidine 20mg IV, and diphenhydramine
+   50mg IV without immediate improvement and she was admitted to the ICU
+   for close monitoring.
+   .
+   On the floor, she reports some improvement and can swallow a little bit
+   easier.
+   States that swallowing is much improved.
+   Voice stronger.
+   No stridor.
+   Patient admitted from: [**Hospital1 1**] ER
+   History obtained from [**Hospital 31**] Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2190-4-24**] 08:10 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, No(t) Foley, No(t) Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, No(t) Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2190-4-24**] 10:57 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**92**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 67 (67 - 77) bpm
+   BP: 110/82(90) {110/65(76) - 122/82(90)} mmHg
+   RR: 19 (13 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             270 mL
+   PO:
+             220 mL
+   TF:
+   IVF:
+   50 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    600 mL
+   Urine:
+   600 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -330 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, No(t) Overweight
+   / Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube, Redundant soft pallate
+   Lymphatic: Cervical WNL, No(t) Supraclavicular WNL, No(t) Cervical
+   adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)
+   Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: Clear : , Crackles : , Bronchial: , No(t) Wheezes : ,
+   No(t) Diminished: , No(t) Absent : , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , No(t) Obese
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): , Movement: Purposeful, No(t) Sedated, No(t)
+   Paralyzed, Tone: Normal
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   44 yo woman with acute onset throat swelling.
+   THROAT SWELLING -- attributable to angioedema
+   Less likely is infectious pharyngitis or peritonsilar abscess though pt
+   has no pain, no fever, no erythema on exam. She denies rash or
+   urticaria making mast-cell mediated less likely. Also, has not taken
+   ACE-inhibitor, opioids, NSAIDs, or ASA. She has other potential
+   allergic sources - mango juice, animal exposure. [**Month (only) 11**] also be acquired
+   angioedema, less likely hereditary.
+   - Tryptase level on admission labs to eval for anaphylaxis
+   - Consider C1-inhib and complement levels as outpatient
+   - Allergy testing as outpatient
+   - Prednisone taper 40/20/10
+   - Famotidine 40mg po in am
+   - Benadryl 25mg q6hr
+   .
+   # Chronic hepatitis B infection: Based on serologies [**2189**]. We will
+   communicate with PCP (unclear if patient aware of diagnosis).
+   .
+   FEN: No IVF, replete electrolytes, regular diet
+   .
+   Prophylaxis: ambulation
+   .
+   Access: peripherals
+   .
+   Code:  Full
+   .
+   Communication: Patient
+   .
+   Disposition: pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**2190-4-24**] 03:21 AM
+   Comments:
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 45 minutes
+   Patient is critically ill

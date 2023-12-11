@@ -1,0 +1,219 @@
+TSICU
+   HPI:
+   19M s/p MVA w/multiple facial trauma and traumatic ICH/[**Doctor First Name 1288**], s/p
+   PEG/trach ([**1-9**]), jaw wiring ([**1-10**]) c/b difficult to control ICP, now
+   improved and persistent low grade fevers.
+   Chief complaint:
+   MVA
+   PMHx:
+   none
+   Current medications:
+   1. Acetaminophen 2. Artificial Tear Ointment 3. Artificial Tears 4.
+   Bisacodyl 5. Calcium Gluconate 6. Chlorhexidine Gluconate 0.12% Oral
+   Rinse 7. Dextrose 50% 8. Docusate Sodium (Liquid) 9. Famotidine 10.
+   Fentanyl Citrate 11. Glucagon 12. Heparin 13. Ibuprofen Suspension 14.
+   Insulin 15. LeVETiracetam 16. Magnesium Sulfate 17. Ondansetron 18.
+   OxycoDONE Liquid 19. Phenylephrine 20. Potassium Chloride 21. Potassium
+   Phosphate 22. Senna 23. Sodium Chloride 0.9% Flush 24. Sodium Chloride
+   3% (Hypertonic) - 500 mL
+   24 Hour Events:
+ STOOL CULTURE - At [**2149-1-16**] 08:00 AM -negative for C diff
+ ICP CATHETER - STOP [**2149-1-16**] 04:00 PM
+   ventric
+   LE Doppler negative for DVT. Mannitol d/c
+d. 3% saline weaned.
+   Post operative day:
+   POD#9 - burr hole and EVD placement
+   POD#6 - closed reduction of mandible with wiring
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2149-1-16**] 12:00 PM
+   Infusions:
+   Fentanyl (Concentrate) - 200 mcg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2149-1-16**] 09:00 AM
+   Fentanyl - [**2149-1-16**] 04:00 PM
+   Heparin Sodium (Prophylaxis) - [**2149-1-16**] 09:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2149-1-17**] 05:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**51**] a.m.
+   Tmax: 38
+C (100.4
+   T current: 37.5
+C (99.5
+   HR: 96 (76 - 130) bpm
+   BP: 135/92(111) {121/73(91) - 153/107(126)} mmHg
+   RR: 14 (12 - 24) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 67.2 kg (admission): 67.9 kg
+   Height: 69 Inch
+   CVP: 4 (4 - 18) mmHg
+   ICP: 16 (12 - 34) mmHg
+   Total In:
+                                                                  3,603 mL
+                                                                    628 mL
+   PO:
+   Tube feeding:
+                                                                  1,627 mL
+                                                                    340 mL
+   IV Fluid:
+                                                                  1,777 mL
+                                                                    288 mL
+   Blood products:
+   Total out:
+                                                                  3,855 mL
+                                                                    620 mL
+   Urine:
+                                                                  3,795 mL
+                                                                    620 mL
+   NG:
+                                                                     60 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -252 mL
+                                                                      8 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 384 (384 - 426) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 31
+   PIP: 11 cmH2O
+   SPO2: 99%
+   ABG: 7.40/51/282/27/5
+   Ve: 7.3 L/min
+   PaO2 / FiO2: 705
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: L>R, both reactive
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm)
+   Right Extremities: (Edema: Trace), (Temperature: Warm)
+   Neurologic: (Responds to: Verbal stimuli), Moving UE purposefully,
+   withdraws LE to painful stimuli
+   Labs / Radiology
+   633 K/uL
+   8.4 g/dL
+   115 mg/dL
+   0.5 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   20 mg/dL
+   113 mEq/L
+   148 mEq/L
+   26.3 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2149-1-15**]  01:46 AM
+                             [**2149-1-15**]  06:01 AM
+                            [**2149-1-16**]  02:12 AM
+                            [**2149-1-16**]  02:19 AM
+                            [**2149-1-16**]  08:00 AM
+                            [**2149-1-16**]  08:43 AM
+                            [**2149-1-16**]  11:17 AM
+                            [**2149-1-16**]  02:00 PM
+                            [**2149-1-17**]  02:17 AM
+                            [**2149-1-17**]  02:33 AM
+   WBC
+   13.4
+   11.8
+   Hct
+   26.5
+   24.6
+   26.3
+   Plt
+   596
+   633
+   Creatinine
+   0.5
+   0.5
+   TCO2
+   32
+   32
+   32
+   27
+   33
+   Glucose
+   114
+   137
+   126
+   115
+   Other labs: PT / PTT / INR:13.5/25.5/1.2, ALT / AST:26/86, Alk-Phos / T
+   bili:89/0.5, Differential-Neuts:90.9 %, Lymph:6.0 %, Mono:2.7 %,
+   Eos:0.2 %, Lactic Acid:0.8 mmol/L, Albumin:3.0 g/dL, Ca:8.8 mg/dL,
+   Mg:1.8 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   ALTERATION IN NUTRITION, IMPAIRED SKIN INTEGRITY, RESPIRATORY FAILURE,
+   ACUTE (NOT ARDS/[**Doctor Last Name 2**]), TRAUMA, S/P, PAIN CONTROL (ACUTE PAIN, CHRONIC
+   PAIN)
+   Assessment and Plan: 19M s/p MVA w/multiple facial trauma and traumatic
+   ICH/[**Doctor First Name 1288**], s/p PEG/trach ([**1-9**]), jaw wiring ([**1-10**]) c/b difficult to
+   control ICP, now improved.
+   Neurologic: Trach and sedated: propofol off, now weaning fent gtt.
+   SDH/SAH/[**Doctor First Name 1288**]. Purposely moves b/l UE, opens eyes to verbal stimuli
+   (?tracking) and withdraws to pain all 4 ext L>R. + Gag and cough
+   reflex.  EVD out. Mannitol stopped [**1-16**], 3% NS @ 50mL/hr decreased to
+   25cc/hr. Motrin and Tylenol 1g Q6 PRN incr temp.
+   Mult facial fx s/p Wiring by OMFS [**1-10**]. Post-op recons appear stable
+   per OMFS. Optho eval-no entrapment, no globe injury. Maintain C-collar
+   as out of window for clearance by MRI.
+   Neuro checks Q: 4h.
+   Pain: Fentanyl gtt
+ transition to patch, use Oxycodone as needed.
+   Cardiovascular: Hemodynamically stable, neo gtt off. Unresponsive
+   tachycardia to be expected per NS.
+   Pulmonary: s/p Trach [**1-9**]. CXR w/improved LLL. On trach collar x 24h
+   now and doing well, normal ABG.
+   Gastrointestinal / Abdomen: s/p PEG [**1-9**]. Albumin 3.0 on [**1-13**]. TF
+   restarted after emesis, increase goal to 70 cc/hr (no more propofol).
+   Bowel regimen. Zofran prn vomiting.
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO
+   Hematology: Initially wanted to maintain Hct > 30 in order to keep
+   adequate oncotic pressure to decrease cerebral edema; adequate C.O. &
+   decision made not to tx [**2150-1-12**]. Cont to monitor. 31.7-> 30.2-> 27.8->
+   28.6->28.1-> 26.1 -> 26.3 RUE small cephalic DVT mid arm to AC; watch
+   for septic thrombophlebitis. LE U/S - negative for DVT.
+   Endocrine: RISS, adequate control
+   Infectious Disease: WBC spike to 18.5 ([**1-14**]), trending downward,
+   remains afebrile.  F/u Cx, including c.diff. Tylenol and Motrin prn.
+   Abx for PNA stopped [**1-12**]. Cefazolin for EVD d/c'd [**1-16**]. On CT: Low
+   density in R SCM muscle may represent evolving hematoma or abscess. WBC
+   trending down.
+   Lines / Tubes / Drains: trach ([**1-9**]), PEG ([**1-9**]), foley, axillary
+   a-line (d/c today), R SCL.
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: 3% NS @25 mL/hr, start to wean today.
+   Consults: Neuro surgery, Trauma surgery, PT/OT,
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2149-1-16**] 10:17 PM 70 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2149-1-6**] 11:00 AM
+   Arterial Line - [**2149-1-6**] 06:30 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+ Stepdown today
+   Total time spent: 32 mins

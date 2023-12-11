@@ -1,0 +1,212 @@
+Chief Complaint:
+   24 Hour Events:
+   [**2186-4-16**] Events:
+   - Pt pulled out PICC
+   - IR placed temporary dialysis line with VIP port
+   - Has a large hemorrhagic bulla at the site of new line, oozing
+   slightly --> wound consult pending.
+   - Lactulose started, having large BMs.
+   - Cultures: [**4-6**] and [**4-11**]- coag neg staph. sensitivities pending. [**4-15**]-
+   GPCs in pairs and chains, lab thinks it's strep rather than staph.
+   - EKG not done as adhesives on leads tear out pt's fragile skin. If
+   serial EKGs necessary to f/u PR intervals for ?vegetations, should get
+   TTE instead. Although, TTE may not be necessary if the most recent
+   positive blood culture does turn out to be strep rather than coag neg
+   staph as noted in previous blood cultures
+   Plan - HD tomorrow per renal recs
+   - Dose Vancomycin by level
+   - FS Q4 hrs: stable after the episode of hypoglycemia (41 at 7 am
+   [**2186-4-15**]) in 130s-170s
+ MIDLINE - STOP [**2186-4-16**] 12:35 PM
+ DIALYSIS CATHETER - START [**2186-4-16**] 04:02 PM
+   Allergies:
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Hives; Rash;
+   Ciprofloxacin
+   Rash;
+   Ertapenem
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**2186-4-16**] 07:35 AM
+   Heparin Sodium (Prophylaxis) - [**2186-4-16**] 01:59 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2186-4-17**] 06:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.9
+C (96.6
+   HR: 79 (70 - 90) bpm
+   BP: 129/66(83) {115/53(67) - 142/75(91)} mmHg
+   RR: 17 (13 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  1,190 mL
+                                                                    300 mL
+   PO:
+                                                                  1,140 mL
+                                                                    300 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    370 mL
+                                                                    565 mL
+   Urine:
+                                                                    370 mL
+                                                                     65 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    820 mL
+                                                                   -265 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///16/
+   Physical Examination
+   GENERAL: Elderly, pleasant woman in NAD
+   HEENT: Normocephalic, atraumatic. No conjunctival pallor. No scleral
+   icterus. PERRLA/EOMI. MMM. OP clear.
+   NECK: Supple, No LAD, No thyromegaly.
+   CARDIAC: Regular rhythm, normal rate. Harsh 3/6 systolic murmur. Nl S1
+   and S2
+   LUNGS: CTAB, good air movement biaterally.
+   ABDOMEN: NABS. Soft. Diffusely distended. Non-tender.
+   EXTREMITIES: 3+ edema bilaterally. Bullae on lower extremities
+   bilaterally, covered with gauze.
+   SKIN: Diffusely dry skin with multiple skin tears.
+   NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved sensation
+   throughout. 5/5 strength throughout. [**2-10**]+ reflexes, equal BL. Normal
+   coordination. Gait assessment deferred. No asterixis
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+   84 K/uL
+   7.7 g/dL
+   69 mg/dL
+   4.8 mg/dL
+   16 mEq/L
+   3.4 mEq/L
+   51 mg/dL
+   114 mEq/L
+   143 mEq/L
+   22.8 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**2186-4-16**]  06:04 AM
+                             [**2186-4-17**]  03:11 AM
+   WBC
+   14.1
+   10.5
+   Hct
+   24.8
+   22.8
+   Plt
+   95
+   84
+   Cr
+   4.2
+   4.8
+   Glucose
+   50
+   69
+   Other labs: PT / PTT / INR:23.4/70.1/2.3, ALT / AST:[**1-22**], Alk Phos / T
+   Bili:88/3.4, Lactic Acid:2.2 mmol/L, Albumin:3.9 g/dL, LDH:184 IU/L,
+   Ca++:10.1 mg/dL, Mg++:2.1 mg/dL, PO4:6.5 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN: The patient is a 60 yo woman with h/o cirrhosis
+   [**3-13**] MTX and HepC, who presents with acute on chronic renal failure now
+   with pulmonary edema in setting of oliguric renal failure.
+   .
+   # Respiratory Distress: Likely [**3-13**] to worsening volume overload after 2
+   units PRBC's in patient who is HD dependent at this time.  Unable to
+   diurese on floor likely [**3-13**] to renal disease.  Must also consider
+   transfusion reaction but timing of the onset is more c/w volume
+   overload.  No witnessed aspiration event.  Assymetric lower extremity
+   swelling appears chronic
+   - Liver recommending against further diuresis given risk to kidneys
+   - nitro gtt now
+   - oxygen
+   - morphine PRN -> but careful given mental status.
+   - consider rechallenging with lasix/acetazolamide
+   - d/w renal regarding HD, may need IR guided line placement.
+   .
+   # Hepato-renal syndrome/ARF: Renal on board.  Cr not improving
+   octreotide/midodrine/albumin.
+   - plan for initiation of HD
+   - line placement for HD
+   .
+   # Coag Neg Staph bacteremia: Pt had increasing encephalopathy on [**2186-4-11**]
+   so blood and urine cultures were drawn. Two of two culture bottles
+   drawn from her PICC line grew Coag neg staph. Pt started on vancomycin
+   IV last dosed on [**2186-4-15**].
+   - check vanco level this AM
+   - Surveillance BCx
+   - PICC is now midline, may need to be replaced.
+   .
+   #. UTI: Urine Cx from [**3-/2106**] grew ESBL Ecoli, pan-sensitive Klebsiella,
+   and MDR Pseudomonas. Had initially been treated with aztreonam but
+   changed to meropenem once cultures grew out.  Question of drug reaction
+   with eosinophilia and now held.  Repeat cultures negative.
+   - Continue to follow UA periodically
+   - UCx results pending
+   - no antibiotics right now
+   - contact precautions.
+   .
+   #. HCV and MTX Cirrhosis: Currently stable with a MELD of 24.
+   - Continue Rifaximin and Lactulose for hepatic encephalopathy
+   - Continue Bactrim SS daily for SBP prophylaxis
+   .
+   #. Psoriasis: The patient has a history of psoriasis, for which she
+   currently takes Triamcinolone [**Hospital1 7**].
+   - Continue Triamcinolone cream [**Hospital1 7**]
+   .
+   #. Bullae: The patient has two bullae on her legs, bilaterally, for
+   which she was recently hospitalized. The bullae are now much improved,
+   and she had a follow up appointment with Dermatology yesterday.
+   - Wound Care C/S
+   .
+   #. Type II Diabetes Mellitus: The patient has a history of
+   hyperglycemia, thought to be secondary to her tube feeds. Had been on
+   RISS on floor, but would change to humalog sliding scale with meals.
+   - Continue Glargine and ISS qid
+   - FSBG qid
+   .
+   # Chronic skin changes: Pt with extensive skin breakdown from edema.
+   Worsened by multiple daily injections. Also has history of psoriasis.
+   - Minimize injections.
+   - Continue management of psoriasis
+   .
+   #. Anemia: Pt with baseline H/H of [**11-4**] or so. H/H have trended down
+   this admission. No obvious source of bleeding. VSS. Likely anemia of
+   chronic disease
+   - T&S up to date
+   - Transfuse for H/H < [**8-29**]; received 2 units [**2186-4-15**]
+   .
+   # ACCESS: PICC (midline now)
+   .
+   # CODE STATUS: full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2186-4-16**] 04:02 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

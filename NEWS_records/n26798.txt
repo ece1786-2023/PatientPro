@@ -1,0 +1,204 @@
+TITLE: [**Hospital Unit Name 4944**] PROGRESS NOTE
+   Chief Complaint: respiratory distress
+   24 Hour Events:
+ ULTRASOUND - At [**2150-12-16**] 01:00 PM
+   US right upper ext looks good. No clot seen.
+ EKG - At [**2150-12-16**] 03:40 PM
+ INVASIVE VENTILATION - START [**2150-12-16**] 05:35 PM
+ ARTERIAL LINE - START [**2150-12-17**] 12:10 AM
+   Pt remains intubated, agitated, fighting vent &lines
+   Allergies: Penicillins-Rash;
+   Codeine-Rash;
+   Bactrim (Oral)Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2150-12-16**] 09:38 AM
+   Ceftazidime - [**2150-12-16**] 11:00 PM
+   Infusions:
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Midazolam (Versed) - 3 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**2150-12-16**] 03:28 PM
+   Furosemide (Lasix) - [**2150-12-16**] 03:29 PM
+   Heparin Sodium (Prophylaxis) - [**2150-12-16**] 11:52 PM
+   Midazolam (Versed) - [**2150-12-17**] 07:34 AM
+   Fentanyl - [**2150-12-17**] 07:34 AM
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2150-12-17**] 07:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 111 (71 - 140) bpm
+   BP: 132/73(98) {94/46(60) - 145/75(98)} mmHg
+   RR: 20 (12 - 25) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 81.3 kg (admission): 81.3 kg
+   Height: 60 Inch
+    CVP: 14 (7 - 14)mmHg
+   Total In:
+                                                                  1,022 mL
+                                                                    112 mL
+   PO:
+                                                                    135 mL
+   TF:
+   IVF:
+                                                                    857 mL
+                                                                    112 mL
+   Blood products:
+   Total out:
+                                                                  4,220 mL
+                                                                    345 mL
+   Urine:
+                                                                  4,220 mL
+                                                                    345 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,198 mL
+                                                                   -233 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 0 (0 - 432) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 80
+   PIP: 25 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 98%
+   ABG: 7.40/42/137/23/1
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 343
+   Physical Examination
+   General: intubated, slightly agitated, pulling at lines
+   HEENT: Sclera anicteric, dry MM, oropharynx clear
+   Neck: supple, JVP not elevated but diff to assess with central line, no
+   LAD
+   Lungs: increasingly labored breathing, with accessory muscle use, some
+   expiratory wheezing,  bilateral inspiratory crackles, diffusely
+   rhonchous upper airway sounds
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: no foley
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Neuro: AOx3, conversant, easily able to relate history, CNII-XII
+   intact, strength intact [**6-2**] bilaterally
+   Labs / Radiology
+   209 K/uL
+   9.4 g/dL
+   104 mg/dL
+   0.7 mg/dL
+   23 mEq/L
+   4.5 mEq/L
+   19 mg/dL
+   112 mEq/L
+   145 mEq/L
+   29.5 %
+   13.0 K/uL
+        [image002.jpg]
+                            [**2150-12-14**]  03:07 PM
+                            [**2150-12-14**]  11:57 PM
+                            [**2150-12-15**]  03:48 AM
+                            [**2150-12-15**]  08:22 AM
+                            [**2150-12-16**]  02:10 AM
+                            [**2150-12-16**]  10:37 AM
+                            [**2150-12-16**]  03:05 PM
+                            [**2150-12-16**]  03:29 PM
+                            [**2150-12-17**]  12:29 AM
+                            [**2150-12-17**]  03:42 AM
+   WBC
+   17.7
+   18.4
+   13.0
+   Hct
+   27.0
+   28.4
+   28.1
+   29.5
+   Plt
+   153
+   160
+   209
+   Cr
+   1.0
+   0.9
+   0.8
+   0.7
+   TCO2
+   28
+   24
+   25
+   27
+   27
+   Glucose
+   90
+   107
+   121
+   104
+   Other labs: PT / PTT / INR:16.6/57.7/1.5, Lactic Acid:1.9 mmol/L,
+   Albumin:2.9 g/dL, Ca++:7.6 mg/dL, Mg++:2.0 mg/dL, PO4:2.1 mg/dL
+   Assessment and Plan
+   83 yo F with COPD on 2L home O2, diastolic HF, PAF (not on coumadin)
+   who presents with fever, cough, AMS and hypotension, intubated for
+   respiratory distress.
+   1. Respiratory distress
+ multifactorial. [**3-2**] infection and volume
+   overload from flash pulmn edema in setting of diastolic dysfunction,
+   COPD & HTN . -3 L O/N, diuresing well
+   A) infection-
+   . hypotension has resolved, the patient has not required pressors over
+   the past 24 hours.
+   - IVF to keep MAP >65, SBP >90
+   - f/u blood cx's, sputum cx
+   - Continue vanc/Ceftaz and Levoflox as treatment for HAP
+   .- cont Oseltamivir, increase dose due to improved renal function
+   - droplet precautions
+   - continue nebs
+   - Monitor O2 requirement
+   B) volume overload/diastolic dysfunction-
+   -Repeat CXR
+   -f/u ABG
+   -hold further diuresis for now, goal euvolemia
+   -Captopril for hypertension
+   .
+   2. ARF: resolved, close to baseline, likely [**3-2**] dehydration
+   - continue IVF as above
+   - trend Cr daily and renally dose meds
+   *(increase vanc dose d/t resolved renal insufficiency)
+   .
+   3. COPD:
+   - standing albuterol and ipratropium nebs
+   - cont Flovent
+   .
+   4. Diastolic HF:
+   - start Captopril and Lasix as above
+   5. Chronic pain [**3-2**] neuropathy:
+   -continue TID neurontin
+   ICU Care
+   Nutrition: regular diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2150-12-14**] 06:46 PM
+   Arterial Line - [**2150-12-17**] 12:10 AM
+   Prophylaxis:
+   DVT: venodynes
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: [**Hospital Unit Name 44**]

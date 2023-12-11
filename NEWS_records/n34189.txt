@@ -1,0 +1,234 @@
+TITLE: PGY3 MICU Admission Note
+   Chief Complaint:  abd pain and altered mental status
+   HPI:
+   Mr. [**Known lastname 1833**] is an 80 y/o man with PMH notable for ESRD on HD and recent
+   SDH s/p Burr hole sent to the ED for altered mental status.  He was at
+   his nursing home and found to have altered mental status at 8:30 am. At
+   that time, T 96.5, P 123, BP 120/70, RR 40, 93% on NRB and 88% on NC
+   (later reported 83% on RA). He was diaphoretic at the time FSBS 145.
+   Per NH reports, he had dialysis on [**10-13**]. He was sent to the [**Hospital 358**]
+   Hospital emergency room for further evaluation. There, he was noted to
+   have a rectal temp 100.7, RR 30, P 117, and BP 112/90. His O2 sat was
+   98% on NRB. CXR showed left base atelectasis versus infiltrate; CT head
+   demonstrated SDH and he was then transferred to [**Hospital1 19**] for further
+   evaluation with neurosurgery.
+   .
+   In the ED, initial vitals BP 85/48, HR 110, RR 24, 100% on NRB. He was
+   found to be hyperkalemic and received calcium gluconate, D50/insulin.
+   Due to decreased mental status, he was intubated with 20 mg etomidate
+   and 40 mg rocuronium. He was hypotensive to the 70s/50s and started on
+   levophed gtt. Right femoral CVL was placed for IV access. He was noted
+   to have dark brown output (400 cc in total) from his NGT. He received 2
+   U FFP and vitamin K as well as profilin (activated factor 9). He
+   received vancomycin 1 g X 1 and zosyn.
+   On arrival to the ICU, the patient he was intubated and sedated with
+   markedly distended abdomen.
+   .
+   ROS: unable to obtain
+   Patient admitted from: [**Hospital1 19**] ER
+   History obtained from Family / [**Hospital 75**] Medical records
+   Patient unable to provide history: Sedated, Encephalopathy
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Norepinephrine - 0.1 mcg/Kg/min
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Other medications:
+   renagel 800 TID with meals
+   levothyroxine 50 mcg daily
+   amlodipine 5 mg daily
+   simvastatin 10 mg daily
+   omeprazole 20 mg daily
+   terazosin 2 mg QHS
+   furosemide 40 mg [**Hospital1 7**]
+   tylenol 650 mg PO q4h prn
+   ri-gel suspension 30 mL q4h prn dyspepsia
+   bisacodyl 10 mg PR prn
+   MVI daily
+   keppra 500 mg [**Hospital1 7**]
+   senna 8.6 mg [**Hospital1 **]
+   hep 5000 U SC TID
+   colace 100 mg [**Hospital1 7**]
+   oxycodone 5 mg PO prn pain
+   oxycodone 10 mg PO prn severe pain
+   zofran 4 mg PO q8h prn
+   Past medical history:
+   Family history:
+   Social History:
+   * ESRD on HD (L AVF), dialyzed MWF
+   * Left SDH s/p evacuation on [**2151-9-30**]
+   * CAD s/p MI and pacemaker placement, CABG [**53**] years ago
+   * ? AAA
+   * Hypothyroidism
+   * Hypercholesterolemia
+   * s/p left carotid endarterectomy, with right carotid stenosis and a
+   small aortic aneurysm (4.4 cm), followed by vascular surgery in
+   the past
+   non-contributory
+   Occupation: unknown
+   Drugs: unknown
+   Tobacco: unknown
+   Alcohol: unknown
+   Other: Previously lived with daughters but recently at nursing
+   facility.
+   Review of systems: unable to obtain as patient is intubated
+   Flowsheet Data as of [**2151-10-14**] 06:45 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 90 (88 - 95) bpm
+   BP: 108/24(53) {55/24(33) - 147/80(92)} mmHg
+   RR: 26 (16 - 29) insp/min
+   SpO2: 100%
+   Wgt (current): 61.3 kg (admission): 61.3 kg
+             Total In:
+             43 mL
+   PO:
+             TF:
+   IVF:
+   43 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    100 mL
+   Urine:
+   NG:
+   Stool:
+   100 mL
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -57 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 17 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 100%
+   ABG: 7.42/31/289//-2
+   Ve: 15.1 L/min
+   PaO2 / FiO2: 482
+   Physical Examination
+   General Appearance: No(t) Overweight / Obese, Thin
+   Eyes / Conjunctiva: Conjunctiva pale, Sclera edema
+   Head, Ears, Nose, Throat: Poor dentition, Endotracheal tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), Rub
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : anteriorly and laterally)
+   Abdominal: Bowel sounds present, Distended, tympanic
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Cool
+   Neurologic: Responds to: Unresponsive, Movement: No spontaneous
+   movement, Sedated, Tone: Not assessed
+   Labs / Radiology
+                                  [**2149-1-27**]
+                          2:33 A9/18/[**2151**]  06:08 PM
+                                  [**2149-1-31**]
+                                   10:20 P
+                                  [**2149-2-1**]
+                                   1:20 P
+                                  [**2149-2-2**]
+                                   11:50 P
+                                  [**2149-2-3**]
+                                   1:20 A
+                                  [**2149-2-4**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2149-2-27**]
+                                   1:20 P
+                                  [**2149-2-27**]
+                                   11:20 P
+                                  [**2149-2-27**]
+                                   4:20 P
+   TC02
+                                     21
+   Other labs: PT / PTT / INR:18.1/58.9/1.7, Lactic Acid:2.8 mmol/L
+   Fluid analysis / Other labs: lactate 8.2 --> 6.8 --> 5.2
+   WBC 22.4, diff pending
+   Hgb 12.5/Hct 41.6/MCV 107
+   Plt 323
+   Na 144, K 6.2-->5.6, Cl 103, CO2 18, BUN 72, Cr 6.3, glucose [**Age over 90 1834**]
+   M 4.1, Phos 5.4
+   CK 552, MB 8, trop 0.19
+   PT 26.5, PTT 72, INR 2.6
+   fibrinogen 781
+   Imaging: CT abdomen/pelvis: (prelim read) no secondary signs of bowel
+   ischemia. severe atherosclerosis. prox [**Female First Name (un) **] not opacified. SMA, celiac
+   patent but calcified at origin. colon with large amount of stool
+   throughout. NGT ends just distal to GE junction.
+   .
+   CT head: (prelim read) left SDH, predominantly low-density, 1.6cm in
+   transverse dimension w/ rigthward shift of 4mm.
+   .
+   CXR: ET tube 2 cm above carina, lung parenchyma grossly clear, no
+   effusions
+   Microbiology: [**2151-10-14**]: BCx x2, UCx pending
+   ECG: afib ~105. IVCD. LAD. no ischemic changes
+   Assessment and Plan
+   80 y/o man with ESRD on HD and SDH s/p recent evacuation per NSG
+   admitted with altered mental status.
+   # Shock, likely septic in etiology: Potential sources include urine
+   (though only 6-10 WBCs with culture pending) and intra-abdominal.
+   Should also consider CNS source with recent instrumentation. Of these
+   most concerning would be mesenteric ischemia secondary to atrial
+   fibrillation
+   - aggressive volume repletion to CVP 10-12
+   - continue vasopressors as necessary
+   - surgery consult for acute abdomen
+   - broad spectrum antibiotics (vanc/zosyn)
+   - echocardiogram in AM given prior MI
+   # Altered mental status: likely related to abdominal sepsis in
+   compromised host. no clear change in head imaging per Neurosurg to
+   explain.
+   - repeat head CT tomorrow AM to re-evaluate size of bleed
+   - Neurosurgery team following
+   # Respiratory failure: intubated for airway protection during altered
+   mental status. currently oxygenation well on current vent settings.
+   - continue current vent settings with wean FIO2 by sats
+   - VAP prevention bundle
+   - PPI
+   # ESRD on HD:
+   - Renal team consulted from ED
+   # Elevated INR: Unclear if drawn from heparinized line or due to
+   primary coagulopathy (i.e., DIC). Platelets normal so DIC less likely.
+   Received vitamin K and FFP in the ED with plan for reversal to < 1.4
+   per NSG.
+   - repeat coags
+   # Hepatitis: likely related to shock liver from sepsis
+   # FEN:  NPO
+   # ACCESS: Right femoral line, AV fistula.
+   # PPx: no heparin given, [**Hospital1 7**] PPI, no need for bowel meds currently
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control: Insulin infusion
+   Lines:
+   Multi Lumen - [**2151-10-14**] 04:00 PM
+   18 Gauge - [**2151-10-14**] 04:00 PM
+   Arterial Line - [**2151-10-14**] 05:21 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Need for restraints reviewed
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU

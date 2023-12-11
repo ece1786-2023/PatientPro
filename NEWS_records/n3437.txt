@@ -1,0 +1,239 @@
+Chief Complaint:
+   24 Hour Events:
+   - bradycardic to 40s - dilt d/c'd, antiHTNsive held for SBP<100
+   - vanc level 37.7 - dose held
+   - held off on ENT consult re whether or not to tap sinus, will place
+   this am
+   - transfused 1u pRBC for HCT<24
+   Pt intubated & sedated, grimaces during exam.
+   -bloody secretions present in suction basin
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Rash;
+   Remeron (Oral) (Mirtazapine)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2185-4-2**] 08:31 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2185-4-4**] 12:00 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 12.5 mcg/hour
+   Other medications:
+   Flowsheet Data as of  [**2185-4-4**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.2
+C (98.9
+   HR: 79 (53 - 100) bpm
+   BP: 77/44(56) {77/41(55) - 134/70(94)} mmHg
+   RR: 15 (15 - 23) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+             Total In:
+                                                                  2,192 mL
+                                                                    504 mL
+   PO:
+             TF:
+                                                                  1,082 mL
+                                                                    317 mL
+   IVF:
+                                                                    595 mL
+                                                                    186 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  1,060 mL
+                                                                    145 mL
+   Urine:
+                                                                  1,060 mL
+                                                                    145 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,132 mL
+                                                                    359 mL
+   Respiratory support
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 87
+   PIP: 21 cmH2O
+   Plateau: 14 cmH2O
+   SpO2: 99%
+   ABG: ///23/
+   Ve: 7.3 L/min
+   Physical Examination
+   GEN: intubated/sedated, grimacing to exam
+   CV: irreg/irreg. no m/r/g
+   RESP: CTAB, occais crackle at RLL, [**Month (only) 38**] BS at bases
+   Abd: soft/NT/ND/NABS  g-tube site NTTP
+   EXTR: no c/c/e
+   Labs / Radiology
+   [**2185-4-2**] CT head:
+   IMPRESSION: Air fluid levels in the sphenoid sinus and in the mastoid a
+   ir
+   cells.  This could be consistent with sinusitis/mastoiditis.  Clinical
+   correlation recommended.
+   [**2185-4-2**] CT Chest
+   IMPRESSION:
+   1.  Probable right lower lobe pneumonia.
+   2.  Bilateral pleural effusions, longstanding, with associated compress
+   ive
+   atelectasis.
+   CXR [**2185-4-3**]
+    A single portable image of the chest was obtained and compared to
+   the prior examination earlier today, [**2185-4-3**] at 5:29 a.m.  The radiolu
+   cencies
+   along the lateral aspect of the right hemithorax are no longer seen and
+    most
+   likely represented bedding material.  The radiolucencies now project ov
+   er the
+   left hemithorax.  No pneumothorax is seen.  Persistent bilateral pleura
+   l
+   effusions are noted, left greater than right.  There is persistent pulm
+   onary
+   edema.  A left retrocardiac opacity is again noted, likely secondary to
+   underlying atelectasis and the effusion, difficult to exclude pneumonia
+   .  The
+   supporting lines are stable.  There is persistent interstitial edema.
+   The
+   supporting lines are stable and in satisfactory positions.
+   411 K/uL
+   8.5 g/dL
+   112 mg/dL
+   0.9 mg/dL
+   23 mEq/L
+   3.8 mEq/L
+   37 mg/dL
+   103 mEq/L
+   134 mEq/L
+   25.1 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2185-3-31**]  04:54 PM
+                             [**2185-4-1**]  04:24 AM
+                             [**2185-4-1**]  07:40 AM
+                             [**2185-4-2**]  04:28 AM
+                             [**2185-4-2**]  04:55 AM
+                             [**2185-4-2**]  03:50 PM
+                             [**2185-4-2**]  04:17 PM
+                             [**2185-4-3**]  03:50 AM
+                             [**2185-4-3**]  04:50 PM
+                             [**2185-4-4**]  01:05 AM
+   WBC
+   13.9
+   12.1
+   11.1
+   10.0
+   Hct
+   29.1
+   25.8
+   24.2
+   24.2
+   23.5
+   25.1
+   Plt
+   498
+   435
+   342
+   411
+   Cr
+   0.9
+   0.9
+   0.8
+   0.9
+   TCO2
+   26
+   28
+   27
+   26
+   Glucose
+   145
+   128
+   126
+   112
+   Other labs: PT / PTT / INR:13.4/31.7/1.2, CK / CKMB /
+   Troponin-T:55/7/0.10, ALT / AST:28/48, Alk Phos / T Bili:115/0.4,
+   Differential-Neuts:86.9 %, Band:0.0 %, Lymph:9.2 %, Mono:3.9 %, Eos:0.1
+   %, D-dimer:2559 ng/mL, Fibrinogen:416 mg/dL, Lactic Acid:1.1 mmol/L,
+   Albumin:2.3 g/dL, LDH:163 IU/L, Ca++:7.8 mg/dL, Mg++:2.4 mg/dL, PO4:3.6
+   mg/dL
+   Sputum + Klebsiella sensitive to Zosyn
+   Blood & Urine Cultures NGTD
+   Assessment and Plan
+   85 y/o man admitted with respiratory failure [**3-5**] to sepsis from MRSA
+   PNA now with Klebsiella VAP.
+   .
+   # RESPIRATORY FAILURE: Etiology multifactorial, pt was admitted with
+   Influenza c/b secondary MRSA PNA.  s/p aggressive volume resuscitation
+   with depressed EF, pt continues to have moderate bilateral pleural
+   effusions. Pt with ongoing resp alkalosis and was maintained on AC
+   overnight. Increased sedation this am to [**Month (only) 38**] overbreathing vent. Pt not
+   likely to tolerate extubation (NIFF -1, last RSBI 84). Ongoing
+   discussions with family regarding trach placement.
+   - completed 10 day course of Vancomycin for MRSA PNA
+   - concern for VAP given low grade temps & elev WBC, now day [**5-9**]
+   Vanc/Zosyn
+   - supportive care, planning for possible trach placement, consulted
+   ethics
+   .
+   # ID: Low grade fevers & rising WBC count concerning for VAP in pt
+   intubated for 10 days.
+   - blood & urine Cx NGTD
+   - trach sputum cultures + Klebsiella, will continue Vanc/Zosyn
+   - hct trended down & increased bloody secretions, concern for sinus
+   infection
+   - Head CT to r/o sinus infection- c/w sinusisitis vs mastoiditis
+   - will call ENT to see if sinus worth tapping, if not, can peel off
+   vanc
+   - Chest CT possible RLL PNA
+   .
+   # Atrial Fibrillation with Labile BP: Pt with chronic A.Fib and labile
+   BPs that have been better controlled on Digoxin & Metoprolol 100mg
+   TID.  Now bradycardic, with SBPs<100.
+   - continue Metoprolol 100mg TID; d/c Diltiazem
+   - continue Digoxin 0.125mg IV daily
+   - due to hct drop & ongoing bloody secretions from oropharynx, will d/c
+   heparin today (daily risk of CVA in pt with A. Fib very low)
+   .
+   # HEART FAILURE: Pt with h/o diastolic CHF, found to have globally
+   depressed EF of 25-30% on admission, possible related to viral
+   myocarditis vs sepsis induced CMP.  No RWMA, function likely to recover
+   in 6-8wks, will need follow up echo.
+   - continue Captopril 6.25mg q6hr for afterload reduction
+   .
+   # UTI: Urine cultures form [**3-27**] + for yeast, now completed 3 days of
+   Amphotericin CBI.  Repeat UAs +leuks & >100 WBCs, no yeast.  Foley
+   changed out [**4-2**]
+   - Urine cultures NGTD
+   # DM TYPEII: continue ISS with TF
+   # ANEMIA: etiology likely [**3-5**] chronic disease, blood loss from
+   oropharynx?.  Transfused 1 upRBCs overnight & went from 23.5 to 25.
+   Will recheck pm hct
+   -stool guaiac negative
+   # Left shoulder dislocation: incidentally seen on CXR, per ortho,
+   deferring management until medically stable to tolerate MRI.
+   - fentanyl prn pain/agitation
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2185-4-3**] 11:08 PM 45 mL/hour
+   Glycemic Control:  ISS
+   Lines:
+   Arterial Line - [**2185-3-22**] 02:10 PM
+   PICC Line - [**2185-3-31**] 03:00 PM
+   Prophylaxis:
+   DVT: Heparin sc TID
+   Stress ulcer:  PPI
+   VAP:  Vanc/Zosyn
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU
