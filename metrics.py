@@ -75,7 +75,9 @@ class qSOFA(Metric):
         "For Altered mental status, look for neurologic assessment.\n"
         "Do not report values from the HPI (History of Present Illness) section, only current readings.\n\n"
         "Use the following schema for the output, and ensure that it is strictly followed:\n"
-        "for Respiratory rate, igonore RR (spontaneous) unless it's the only one present\n\n"
+        "for Respiratory rate, igonore RR (spontaneous) unless it's the only one present\n"
+        "for systolic_bp take the first 'BP: '. for example if you see `BP: 120/62(76) {115/56(71) - 180/106(112)} mmHg`, then systolic_bp = 116"
+
         f"{schema}"
     )
     # TODO: Generation prompt for qSOFA metric
@@ -102,21 +104,19 @@ class NEWS(Metric):
         "}"
     )
     prompt = (
-        "Given a medical record of a patient, extract the following pieces of information:\n\n"
+        "You are a data extraction software. Given a medical record of a patient visit, fill this template:\n\n" 
+        f"{schema}\n\n"
+        "with the following pieces of information:\n"
         "1. Respiratory rate RR (integer).\n"
         "2. Oxygen saturation percentage SpO2 (integer).\n"
         "3. If the patient is receiving supplemental oxygen (boolean).\n"
         "4. Temperature in Celsius (float).\n"
         "5. Systolic blood pressure (integer).\n"
         "6. Heart Rate bpm (integer)\n"
-        "7. AVPU Score: (single character). One of {A, V, P, U} based on if the patient is fully Awake, " 
-                        "responds to Verbal stimulation, responds to Painful stimulation, "
-                        "or is Unresponsive, respectively.\n\n"
-        "Additional notes:\n"
-        "Do not report values from the HPI (History of Present Illness) section, only current readings.\n"
-        "For Respiratory rate, ignore RR (spontaneous) unless it's the only one present.\n"
-        "Use only the following schema for the output, and ensure that it is strictly followed:\n\n"
-        f"{schema}"
+        "7. AVPU Score: (single character). One of {A, V, P, U} based on if the patient is Awake/Alert, " 
+                        "responds to Verbal stimuli only, responds to Painful stimuli only, "
+                        "or is Unresponsive entirely, respectively.\n\n"
+        "output ONLY the filled template in json format."
     )
     
     def compute_score(self, data):
