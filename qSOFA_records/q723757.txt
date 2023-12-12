@@ -1,0 +1,389 @@
+Chief Complaint:  bright red blood per colostomy
+   HPI:
+   84 y/o F with hx of COPD, HTN, hyperlipidemia and recent perforated
+   sigmoid diverticulitis on [**1-5**] s/p ex lap, sigmoid colectomy with
+   [**Doctor Last Name **] at [**Hospital1 **].  She was transferred to 
+[**Hospital1 5**] surgical service on
+   [**2135-1-17**] after her course was complicated by respiratory failure 
+with
+   persistent L lower lung collapse, acute renal failure and altered
+   mental status.  While in the surgical ICU from [**1-17**] to 
+[**2-17**], she was
+   found to have pulmonary abscesses and started on vanco, zosyn and
+   cipro.  She improved hemodynamically, but has slow recovery of mental
+   status.  She had a trach and PEG tube placed for failure to wean of
+   ventilator.  A pneumothorax occurred after CVL placement and a CT was
+   placed.  During the admission, she also had unexplained neutropenia and
+   a BM biopsy.  For diarrhea, she was empirically treated for c.diff,
+   although no cultures were positive.
+   .
+   She was recently seen in ED at OSH for possible pneumonia and treated
+   with unknown abx at that time at rehab.  Was not admitted.  Also
+   talking with rehab, she is on a course of IV flagyl for c.diff.  She in
+   on day [**12-20**] today.
+   .
+   Today she presents from rehab with bright red blood per her colostomy
+   for the last 48 hours.  Also had some blood sputum through her
+   tracheostomy per report.  Her family is with her and notes that the
+   last few days she seems more tired than usual but otherwise well.  No
+   nausea, vomiting, abdominal pain.  Stool is maroon.  No stool output
+   from her pouch.
+   .
+   In the ED, initial vs were: T98.4, 116/71, hr 110, r 12, 98% on PS 5/5
+   with 60% FiO2.  She was given cipro 400 mg IV x1 in the ED.  Her prior
+   PICC site was very erythematous.  Her PICC had been removed at rehab
+   the day prior to admission.  She had a CXR without new cardiopulmonary
+   abnormalities; her trach was in place.  An NG lavage was attempted but
+   unsuccessful via NG tube.  She had a lavage through her PEG tube which
+   was negative.  She had [**Last Name (un) 2650**]-maroon stool in her 
+bag.  Her vitals on
+   transfer were P 113, BP 108/60, R 20, 94% on above vent settings.  She
+   had 2 peripheral IVs for access.
+   .
+   On the floor, she is awake and arousable, but not able to talk because
+   of her trach.  She nods.  She nods no to having no pain.  Otherwise
+   yes/no review of systems was negative as listed below.  Her weight has
+   been stable, although she is being diuresed for fluid overload from
+   previous admission.  She does have decubitus ulcers.
+   .
+   Review of systems:
+   (+) Per HPI
+   (-) Denies fever, chills, night sweats, recent weight loss or gain.
+   Denies headache, sinus tenderness, rhinorrhea or congestion. Denies
+   cough, shortness of breath, or wheezing. Denies chest pain, chest
+   pressure, palpitations, or weakness. Denies nausea, vomiting, diarrhea,
+   constipation, abdominal pain. Denies dysuria, frequency, or urgency.
+   Denies arthralgias or myalgias.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient, Family / [**Hospital 216**] Medical 
+records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2135-3-17**] 06:53 PM
+   Cefipime - [**2135-3-17**] 06:55 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Meds on transfer from rehab:
+   # Insulin Regular Human 100 unit/mL Solution Sig: per sliding
+   scale sliding scale Injection ASDIR (AS DIRECTED).
+   # Levothyroxine 200 mcg QD
+   # Albuterol 4 puffs q6h
+   # Atrovent 4 puffs q6h
+   # Metoprolol 6.25mg q12h
+   # Lasix 20mg [**Hospital1 **]
+   # Nexium 40mg IV q12h
+   # Flagyl 500mg q8h begun [**3-5**] for 14-day course for C. diff
+   # Zinc Oxide--apply to sacral/coccygeal area q8h
+   # Tylenol 650 q4h PRN
+   Past medical history:
+   Family history:
+   Social History:
+   # Perforated Diverticulitis s/p sigmoid Colectomy with [**Doctor Last 
+Name **] pouch
+   at [**Hospital3 **] [**1-5**]
+   # Tracheostomy, ventilator dependent
+   # h/o ARDS
+   # h/o pulmonary abscess
+   # h/o encephalopathy, likely metabolic
+   # h/o neutropenia
+   # h/o C.diff
+   # Presyncopal episodes
+   # Hypertension
+   # Hyperlipidemia
+   # h/o electrolyte disorders
+   # Hypothyroidism
+   # Asthma/COPD
+   non contributory
+   Occupation: worker in food service at [**Hospital1 5**]
+   Drugs: none
+   Tobacco: none
+   Alcohol: none
+   Other: son [**Name (NI) 3275**] is HCP
+   Review of systems:
+   Constitutional: Fatigue
+   Ear, Nose, Throat: Dry mouth
+   Nutritional Support: No(t) NPO, Tube feeds
+   Respiratory: vent dependent
+   Gastrointestinal: GT in place, tolerating tube feeds prior to admission
+   Genitourinary: Foley
+   Musculoskeletal: Myalgias
+   Endocrine: History of thyroid disease
+   Psychiatric / Sleep: Daytime somnolence
+   Flowsheet Data as of [**2135-3-17**] 07:28 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 
+[**37**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 104 (104 - 117) bpm
+   BP: 98/63(72) {98/17(44) - 115/63(72)} mmHg
+   RR: 16 (16 - 23) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 66 Inch
+             Total In:
+             353 mL
+   PO:
+             TF:
+   IVF:
+   353 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     72 mL
+   Urine:
+   22 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    281 mL
+   Respiratory
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   PS : 8 cmH2O
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 13 cmH2O
+   SpO2: 98%
+   ABG: ///31/
+   Ve: 12.1 L/min
+   Physical Examination
+   General Appearance: ventilated, sedated, edematous
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: trach in place, no erythema
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present, nontender, well healed scars;
+   Gtube in place with mild surrounding erythema; colostomy bag in place
+   with maroon stool
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+
+   Musculoskeletal: Unable to stand
+   Skin:  Cool, Rash: decubitus ulcers on buttock, stage two; R
+   antecubital fossa with erythema and skin breakdown and opne PICC site
+   with serosanginous fluid
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   349 K/uL
+   9.9 g/dL
+   113 mg/dL
+   0.6 mg/dL
+   60 mg/dL
+   31 mEq/L
+   104 mEq/L
+   4.3 mEq/L
+   139 mEq/L
+   31.8 %
+   7.9 K/uL
+        [image002.jpg]
+                                  [**2131-1-8**]
+                          2:33 A3/11/[**2135**]  06:31 PM
+                                  [**2131-1-12**]
+                                   10:20 P
+                                  [**2131-1-13**]
+                                   1:20 P
+                                  [**2131-1-14**]
+                                   11:50 P
+                                  [**2131-1-15**]
+                                   1:20 A
+                                  [**2131-1-16**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2131-2-8**]
+                                   1:20 P
+                                  [**2131-2-8**]
+                                   11:20 P
+                                  [**2131-2-8**]
+                                   4:20 P
+   WBC
+                                     7.9
+   Hct
+                                    31.8
+   Plt
+                                     349
+   Cr
+                                     0.6
+   Glucose
+                                     113
+   Other labs: ALT / AST:33/84, Alk Phos / T Bili:1093/1.1, Albumin:1.7
+   g/dL, LDH:207 IU/L, Ca++:7.6 mg/dL, Mg++:1.9 mg/dL, PO4:3.5 mg/dL
+   Fluid analysis / Other labs: none
+   Imaging: CXR [**2135-3-17**] (per HO)
+   -small bilateral effusions, no obvious infiltrate, mild prominence of
+   vascularture at bases, calcified aorta, trach in place
+   .
+   [**2135-2-14**] EGD
+   Findings:
+   Esophagus: Normal esophagus.
+   Stomach:
+   -Mucosa: Diffuse erythema and friability of the mucosa with no bleeding
+   were noted in the stomach body and fundus. These findings are
+   compatible with significant gastritis.
+   -Excavated Lesions Multiple superficial ulcers ranging in size from 5
+   mm to 6 mm were found in the stomach body close to the PEG tube site.
+   The ulcers were covered by adherent clots. No visible vessels or
+   evidence of active bleeding were found. No intervention was required at
+   this moment. The lesions were likely stress ulcers.
+   -Duodenum: Normal duodenum.
+   -Impression: Ulcers in the stomach body.
+   Erythema and friability in the stomach body and fundus compatible with
+   significant gastritis.
+   Otherwise normal EGD to second part of the duodenum.
+   .
+   [**2135-2-9**] Echo
+   No thrombus is seen in the left atrial appendage. No atrial septal
+   defect or patent foramen ovale is seen by 2D, color Doppler or saline
+   contrast at rest (although the agitated saline contrast study was
+   suboptimal due to limited IV access with slow flow). The left
+   ventricular cavity is unusually small likely related to intravascular
+   volume depletion. Overall left ventricular systolic function is normal
+   (LVEF>55%). Right ventricular chamber size and free wall motion are
+   normal. There are complex (>4mm) nonmobile atheroma in the aortic arch.
+   There are complex (>4mm) nonmobile atheroma in the descending thoracic
+   aorta to 32 cm. The aortic valve leaflets are mildly to moderately
+   thickened with focal calcifications. No masses or vegetations are seen
+   on the aortic valve. No aortic regurgitation is seen. The mitral valve
+   leaflets are mildly thickened. No masses or vegetations are seen on the
+   mitral valve. Trivial mitral regurgitation is seen.
+   .
+   IMPRESSION: No vegetation or abscess seen. No intracardiac source of
+   embolus identified; however, complex atheroma were noted in the aortic
+   arch and descending aorta. Small left ventricular cavity suggestive of
+   low preload/intravascular volume depletion.
+   .
+   * Has hx of hepatic cysts and cholelithiasis on other scans.
+   Microbiology: none
+   ECG: sinus tach with LBBB, unchanged from previous ekgs
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ IMPAIRED SKIN INTEGRITY
+   84 y/o F with complicated past medical history including perforated
+   sigmoid diverticulitis with prolonged hospital course complicated by
+   pulmonary abscesses, trach and peg who presents today with bright red
+   blood per her ostomy.
+   .
+   # GI Bleed: patient with complicated history of recent perforated
+   diverticulitis s/p sigmoid colectomy who now presents with heme
+   positive red-maroon stools per colostomy.  Has pink heme positive
+   mucous in [**Doctor Last Name **] pouch.  Has hx of ulcerations around 
+PEG tube site
+   on previous endoscopy without obvious bleeding.  H.pylori was negative
+   at that time.  Likely is from lower GI source as PEG lavage was
+   negative.  Possibly has another diverticular bleed in remaining colon.
+   She did have a sigmoidoscopy was performed during her last admission of
+   her [**Doctor Last Name **] pouch that was normal.
+   - IV PPI [**Hospital1 **]
+   - NPO
+   - 2 peripheral IVs
+   - active type and cross; transfuse for hct <25
+   - GI consult; no plan for endoscopy or colonoscopy today
+   - surgery consult; recommends serial hcts and transfusions as needed
+   - IR contact[**Name (NI) **] about possibility for RBC scan and angio 
+if hemodynamics
+   change or begins having high output of blood
+   - INR 1.8, likely related to poor nutritional status; IV vit K today
+   .
+   # C.diff: is mid-course from rehab; not having copious amounts of stool
+   now.
+   - will add flagyl to above antibiotics
+   - check c.diff
+   .
+   # R arm erythema: has erythema at old PICC site, no fevers, chills,
+   sweats reported.  No swelling of the extremity.
+   - outline erythema
+   - follow up blood cultures
+   - treat with vanco/cefepime today; had pancytopenia to zosyn her last
+   admission.  Will talk with ID when getting approval if there is
+   possibility of similar reaction with cefepime
+   - consider RUE ultrasound
+   .
+   # Chronic Ventilator Dependence: had recent pneumonia, was discharged
+   from here on trach mask.  Is tolerating PS 5/5 right now and
+   comfortable.  Had improved CXR today without signs of infection.
+   - continue PS tonight
+   - consider TM trial tomorrow
+   .
+   # Fluid Overload: edematous from fluid resuccitation in previous
+   admission; on diuretics IV at rehab.
+   - hold now in setting of GI bleed
+   - monitor respiratory status, CXR clear this evening
+   - be cautious with IVFs
+   .
+   # Hx of elevated Alk Phos and benign liver cysts and cholelithasis: she
+   is not having abdominal pain, and exam is benign, but patient is not a
+   great historian about pain.
+   - check LFTs
+   - consider US if abnormal in AM
+   .
+   # Decubitus ulcer, stage 3: no surrounding erythema or signs of
+   infection on exam around ulcer.
+   - wound care consult
+   - check albumin
+   .
+   # Hypothyroidism: had her levothyroxine titrated upward during her
+   admission last time.  Not symptomatic, although is tachycardic at
+   baseline per family.
+   - check TSH
+   - continue dose of levothyroxine via conversion
+   .
+   # Hx of ARF: stable creatinine today at her baseline, continue to trend
+   creatinine daily
+   .
+   # Hx of neutropenia: BM biopsy last admission was concerning for
+   infectious/inflammatory vs. T-cell lymphoproliferative disorder.  Now,
+   her counts have recovered.
+   - trend CBC
+   - outpatient heme follow up as planned in previous admission
+   .
+   # Hx of possible HIT: will avoid heparin, pneumonboots here
+   .
+   # Diabetes: patient NPO, continue fingersticks and insulin sliding
+   scale as needed
+   .
+   # HTN: stable, off her old home meds; monitor BP
+   .
+   # Hyperlipidemia: stable, not on statin at rehab
+   .
+   # FEN: No IVF, replete electrolytes, holding TFs, hold reglan; at rehab
+   are Replete with Fiber, 65 ml/hr; NS flushes 200 ml qshift
+   .
+   # Prophylaxis: pneumoboots; start SQ heparin once source of bleed
+   stabalized, no SQ heparin for now
+   # Access: peripherals
+   # Communication: Patient, family; son and [**Name2 (NI) **] at bedside
+   # Code:  Full (discussed with patient and HCP), consent signed
+   # Disposition: ICU pending clinical improvement
+   .
+   .
+   [**First Name8 (NamePattern2) 4452**] [**Last Name (NamePattern1) 
+4399**], MD
+   PGY 2
+   pg [**Numeric Identifier 11908**]
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   RIC - [**2135-3-17**] 07:05 PM
+   18 Gauge - [**2135-3-17**] 07:06 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU

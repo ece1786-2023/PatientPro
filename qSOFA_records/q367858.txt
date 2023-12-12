@@ -1,0 +1,283 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2167-3-22**] 09:19 PM
+ PAN CULTURE - At [**2167-3-23**] 03:19 AM
+ ARTERIAL LINE - STOP [**2167-3-23**] 06:00 AM
+ FEVER - 101.2
+F - [**2167-3-23**] 03:00 AM+
+   [**3-22**] Events:
+   - off all pressors
+   - off all sedation, no improvement in MS
+   - made < 200cc urine in 24 hours
+   - vent at FiO2 50%, PS 10 PEEP 5
+   - multiple episodes of NSVT (4-5 beats, non-hypotensive), EKG
+   unchanged, lytes nml
+   - required small dose of Ativan for tachypnea
+   - started on lactulose
+   - sputum gram stain neg/C diff. neg
+   Allergies:
+   Cholestyramine
+   ?erectile dysfc
+   Niacin
+   Hepatic toxicit
+   Iodine; Iodine Containing
+   Rash;
+   Ciprofloxacin
+   muscle weakness
+   Last dose of Antibiotics:
+   Azithromycin - [**2167-3-21**] 06:22 PM
+   Vancomycin - [**2167-3-22**] 09:23 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2167-3-22**] 12:30 PM
+   Piperacillin - [**2167-3-22**] 11:24 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2167-3-22**] 07:31 AM
+   Heparin Sodium (Prophylaxis) - [**2167-3-22**] 11:25 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2167-3-23**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 38.4
+C (101.2
+   HR: 108 (75 - 109) bpm
+   BP: 130/59(76) {130/59(76) - 130/59(76)} mmHg
+   RR: 34 (26 - 40) insp/min
+   SpO2: 95%
+   Heart rhythm: AV Paced
+   Height: 64 Inch
+    CVP: 11 (5 - 25)mmHg
+   Total In:
+                                                                  1,940 mL
+                                                                    284 mL
+   PO:
+   TF:
+                                                                    418 mL
+                                                                    284 mL
+   IVF:
+                                                                  1,057 mL
+   Blood products:
+   Total out:
+                                                                    532 mL
+                                                                     55 mL
+   Urine:
+                                                                    132 mL
+                                                                     55 mL
+   NG:
+   Stool:
+                                                                    400 mL
+   Drains:
+   Balance:
+                                                                  1,408 mL
+                                                                    229 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 416 (413 - 435) mL
+   PS : 14 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: RR >35
+   PIP: 18 cmH2O
+   SpO2: 95%
+   ABG: 7.45/32/81.[**Numeric Identifier 253**]/20/0
+   Ve: 13.2 L/min
+   PaO2 / FiO2: 164
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: bilaterally)
+   Abdominal: Soft, Non-tender, hypoactive bowel sounds
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Not responding to commands, intermittently opens eyes, off
+   all sedation since [**3-21**] 1300
+   Labs / Radiology
+   164 K/uL
+   8.9 g/dL
+   107 mg/dL
+   2.9 mg/dL
+   20 mEq/L
+   4.7 mEq/L
+   42 mg/dL
+   104 mEq/L
+   133 mEq/L
+   25.3 %
+   29.3 K/uL
+        [image002.jpg]
+                             [**2167-3-21**]  04:35 PM
+                             [**2167-3-21**]  04:42 PM
+                             [**2167-3-21**]  06:27 PM
+                             [**2167-3-22**]  03:04 AM
+                             [**2167-3-22**]  03:10 AM
+                             [**2167-3-22**]  02:04 PM
+                             [**2167-3-22**]  08:49 PM
+                             [**2167-3-22**]  08:52 PM
+                             [**2167-3-23**]  03:20 AM
+                             [**2167-3-23**]  04:55 AM
+   WBC
+   37.2
+   33.6
+   29.3
+   Hct
+   27.2
+   27.7
+   25.3
+   Plt
+   139
+   151
+   164
+   Cr
+   1.5
+   1.6
+   2.7
+   2.9
+   TCO2
+   21
+   21
+   23
+   25
+   23
+   23
+   Glucose
+   154
+   79
+   99
+   107
+   Other labs: PT / PTT / INR:20.0/55.6/1.9, CK / CKMB /
+   Troponin-T:522/9/0.08, ALT / AST:274/237, Alk Phos / T Bili:205/11.2,
+   Amylase / Lipase:45/47, Differential-Neuts:94.0 %, Band:0.0 %,
+   Lymph:0.0 %, Mono:6.0 %, Eos:0.0 %, Fibrinogen:457 mg/dL, Lactic
+   Acid:1.5 mmol/L, Albumin:2.5 g/dL, LDH:321 IU/L, Ca++:7.6 mg/dL,
+   Mg++:2.5 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   81M with significant heart dz EF 30%, p/w septic shock, CAP PNA and
+   multiorgan failure.
+   .
+   PLAN:
+   ====
+   Septic Shock/Hypotension: Pneumonia as probable source with concurrent
+   hypovolemia due to poor PO intake.  Patient was addressed with River
+   Early Goal Directed Therapy. Admisison lactate was not obtained in ED.
+   APACHE IV score was  114 with a predicted mortality of 77%.  Legionella
+   urinary Ag negative. Sputum culture gram negative rods and gram
+   positive cocci in pairs.
+   This does not appear consistent with acute MI or PE. Rivers goals of
+   care are CVP 8-12, Hct 30, MAP >60, Mixed venous sat of > 70%. Patient
+   is positive 13L of fluid so far, continues to be oliguric.
+   - Patient on vanc/zosyn. Completed course of azytromycin.
+   - Follow culture data
+   - off of pressors
+   - in the setting of worsening leukocytosis [**3-21**] c. diff sent -> 
+neg
+   - f/u ID recs
+   Hypoxic respiratory failure: Likely due to pulmonary infiltrates.
+   Patient with elevated WBC counts and infiltrates on CXR. Consider ARDS
+   given CXR.  Last ABG 7.43/33/63/23/0.  Now on PSV.
+   - changed to PSV
+   - will try to decrease FiO2 as tolerated
+   Mental Status: Could possibly be [**3-16**] shock liver and decreased
+   metabolism of sedatives.  Also likely [**3-16**] cerebral hypoperfusion 
+on
+   initial presentation.
+   - continue to monitor
+   - lactulose for liver
+   Coagulopathy: due to shock liver, platlets stable, no evidence of DIC.
+   -checking coags Q8H -> PTT increasing, INR stable, Platelets overall
+   down
+   -consider peripheral smear, repeat fibrinogen for ?DIC
+   - stool guiaic negative
+   Transaminitis: Likely due to shock liver in setting of distributive
+   picture with decreased EF. RUQ u/s shows known CBD dialation, s/p
+   chole.
+   -trend LFTs, improving
+   - Trend [**Doctor First Name 429**]/Lip, improving
+   CV: this does not appear to be ACS, although CK markedly elevated.
+   Most likely due to strain in setting of hypovolemia.  Patient without
+   EKG changes and anticipate increased Tn.
+   CAD: CABG [**2146**] with multiple PCI.  Continue ASA, statin, hold BB 
+given
+   sepsis.
+   PUMP: EF 29%.  Off of pressors.
+   RHYTHM: CHB s/p DDD PCM,ICD in [**2160**]. Not on Warfarin.
+   -          Maintain on telemetry
+   Anuric, acute on chronic ARF/Uremia: Baseline Cr 2.3.  Current ARF
+   likely due to acute tubular necrosis in setting of hypotension.
+   Patient with high normal CVP and MAPs > 65. Given elevated CK,
+   possibility of myoglobinuria, but not consistent with UA findings.
+   Urine output started, 200 cc/ 24 hr, patient off CVVH through L femoral
+   line. Now getting dialysis thru that line. Renal recs to place tunneled
+   IJ electively through IR once 24 hours afebrile.
+   - now doing 20-30cc/hr urine output
+   - f/u renal recs
+   Resp Alkalosis
+ primary uncompensated, patient overbreathing vent
+   - will monitor ABG
+   Hypoalbuminemia: decreased in the setting of sepsis
+   -          Tube feeds at 70cc/hr, at goal
+   FEN
+ will give tube feeds through OG tube
+   PPx
+ Hep SQ, PPI PO
+   Family
+ , family understands prognosis, patient has documented
+   advanced directives
+   - will watch for mental status improvement over the next few days given
+   decreased sedation metabolism secondary to hepatic dysfx
+   - SW c/s completed
+   ICU Care
+   Nutrition:
+   Vivonex (Full) - [**2167-3-21**] 12:04 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2167-3-17**] 10:15 PM
+   Dialysis Catheter - [**2167-3-18**] 09:57 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   ATTENDING ADDENDUM:
+   I saw and examined the patient, and was physically present with the ICU
+   resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   Key Points:
+     * off pressors
+     * LFTs improving
+     * off CVVH, needs HD line, oliguric
+     * CDiff neg
+     * WBC improving, completed azithro, cont on vanc/zosyn
+     * mental status- unresponsive- still attributable to meds
+     * resp alkalosis but allowing higher pH while we are trying to avoid
+       sedation
+     * still spiking temps
+   81 yo man with septic shock and ARDS, [**Last Name (un) **] 
+cardiomyopathy. Likely CAP
+   source. Overall I am encouraged that hemodynamics have improved,
+   oxygenation has improved, volume status improved, LFTs improving
+   think we will see an improvement in mental status as meds metabolize.
+   Critically ill.
+   Time 45 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 2010**] 
+[**Last Name (NamePattern1) **], MD
+   on:[**2167-3-23**] 17:23 ------
