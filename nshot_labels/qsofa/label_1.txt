@@ -1,0 +1,5 @@
+{
+  "altered_mental": ,
+  "systolic_bp": ,
+  "respiratory_rate": 
+}
