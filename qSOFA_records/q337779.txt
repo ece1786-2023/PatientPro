@@ -1,0 +1,175 @@
+Chief Complaint:  Lethargy and Fever
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   61 year old Haitan-speaking male with history of CVA, neurogenic
+   bladder, suprpubic cath, partial bowel obstruction s/p colostomy
+   transferred from NH after EMS found him to have temperature of 104
+   degrees, hypoxia.  On arrival to the ED, temp 103.5.  Received 4 liters
+   of fluids, given vanc, cefepime.  CXR with bibasilar infiltrates and
+   urine consistent with UTI.  Transferred to ICU for persistent
+   tachycardia.  Oriented to person and place and unable to provide
+   extensive history.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from Patient, Family / Friend, [**Hospital 228**] 
+Medical
+   records
+   Patient unable to provide history: confusion
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2125-8-26**] 10:03 PM
+   Heparin Sodium (Prophylaxis) - [**2125-8-27**] 01:00 AM
+   Other medications:
+   Reviewed - see list
+   Past medical history:
+   Family history:
+   Social History:
+   1- CVA
+   2- Neurogenic Bladder - S/P suprapubic cath
+   3- S/P colostomy for bowel obstruction
+   4-Bells palsy with persistent droop
+   5-Recurrent UTIs
+   6-Lymphoma - treated with chemo in past
+   7-Hep C
+   8-Cryoglobinemia
+   9-Lupus
+   10-Transverse Myelitis
+   11-Fungas esophagitis
+   12-Insulin-dependent DM
+   Unable to obtain
+   Occupation: in Nursing Home
+   Drugs: None known
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea
+   Neurologic: chronic lower extremity neuropathic pain
+   Flowsheet Data as of [**2125-8-27**] 02:40 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 36.1
+C (96.9
+   HR: 98 (93 - 115) bpm
+   BP: 116/62(76) {115/56(71) - 160/106(112)} mmHg
+   RR: 18 (9 - 23) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    914 mL
+                                                                    418 mL
+   PO:
+                                                                    200 mL
+                                                                    100 mL
+   TF:
+   IVF:
+                                                                    714 mL
+                                                                    318 mL
+   Blood products:
+   Total out:
+                                                                  1,385 mL
+                                                                    525 mL
+   Urine:
+                                                                  1,385 mL
+                                                                    525 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -471 mL
+                                                                   -107 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, colostomy in place
+   Extremities: Right: 1+, Left: 1+
+   Skin:  slightly cool
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   138 K/uL
+   44.9 %
+   14.2 g/dL
+   160 mg/dL
+   1.6 mg/dL
+   9 mg/dL
+   23 mEq/L
+   107 mEq/L
+   4.4 mEq/L
+   141 mEq/L
+   14.4 K/uL
+        [image002.jpg]
+                             [**2125-8-26**]  06:15 PM
+   WBC
+                                    14.4
+   Hct
+                                    44.9
+   Plt
+                                     138
+   Cr
+                                     1.6
+   TropT
+                                    0.05
+   Glucose
+                                     160
+   Other labs: PT / PTT / INR:15.1/34.7/1.3, CK / CKMB /
+   Troponin-T:250/4/0.05, Differential-Neuts:78.9 %, Lymph:12.0 %,
+   Mono:7.0 %, Eos:1.5 %, Ca++:8.0 mg/dL, Mg++:1.6 mg/dL, PO4:2.7 mg/dL
+   Fluid analysis / Other labs: urinalysis: + WBCs, RBCs
+   Imaging: CXR: bibasilar infiltrates
+   Assessment and Plan
+   1)       Fever/sepsis: source likely urine or potentially pneumonic
+   component: Hemodynamically stable, urine output > 30 cc, and lactate
+   normal
+   - On vancomycin and Cefepime
+   - Urology to evaluate supra-pubic tube as drainage present
+   - IVFs as needed to maintain urine output and hemodynamics though
+   currently doing well
+   2)       Hypoxia: currently minimal oxygen requirement on nasal
+   cannula.  With bibasilar infiltrates and high fevers, likely some
+   pneumonic component of infection or acute lung injury secondary to
+   urine source.  While PE is in differential, this diagnosis would be
+   unlikely in the face of other explanations.  Will treat underlying
+   infection and follow.
+   3)       Mental status changes: likely secondary to underlying
+   infection and seems to be improving.  Will follow.
+   4)       Slightly increased troponin likely demand ischemia
+   5)       Acute renal failure: likely pre-renal.  Will hyrdate and
+   follow urine output and BUN/cr
+   6)       Acute on chronic lower extremity pain: US negative for DVTs
+   7)       DM
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   20 Gauge - [**2125-8-26**] 04:13 PM
+   Comments:
+   Prophylaxis:
+   DVT: Sub Q heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  ICU care : Can likely be called out to the floor in the
+   morning if he remains stable.
+   Total time spent: 35 minutes

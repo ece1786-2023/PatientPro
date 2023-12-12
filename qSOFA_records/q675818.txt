@@ -1,0 +1,192 @@
+CVICU
+   HPI:
+   HD12
+   [**5-11**] POD 3
+   68yoW s/p MVR(25/33 On-X)[**5-8**]
+   EF 55% Cr 1.1 Wt 66K HgA1c 6.1
+   [**Last Name (un) **]: ASA 81', Lisinopril 20', Omeprazole 20', Lasix 
+20"
+   PMHx:
+   PMH: rheumatic heart dz, sev MR, GERD, HTN, ^chol, Osteoarthritis
+   Current medications:
+    Acetaminophen 4. Aspirin EC 5. Calcium Gluconate 6. Dextrose 50% 7.
+   Docusate Sodium . Furosemide 9. Heparin 10. Insulin 11. Magnesium
+   Sulfate 12. Metoclopramide 13. Metoprolol Tartrate 14. Milk of Magnesia
+   15. Morphine Sulfate 16. Omeprazole 17. Oxycodone-Acetaminophen 18.
+   Potassium Chloride . Warfarin
+   24 Hour Events:
+ PA CATHETER - STOP [**2192-5-10**] 09:10 AM
+   [**5-8**] OR-extubated. Needs EP consult for AICD
+   [**5-9**]: started on milrinone for low SvO2, marginal HD. Tx 1 unit of
+   blood for Ht 24
+   [**5-10**] transfused, mil stopped neo off, in and out afib ^wbc
+   Post operative day:
+   [**5-11**] POD 3
+   68yoW s/p MVR(25/33 On-X)[**5-8**]
+   Allergies:
+   Motrin (Oral) (Ibuprofen)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**2192-5-10**] 07:53 AM
+   Other ICU medications:
+   Furosemide (Lasix) - [**2192-5-10**] 08:08 PM
+   Flowsheet Data as of  [**2192-5-11**] 12:29 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since 
+[**94**] a.m.
+   Tmax: 37.9
+C (100.2
+   T current: 36.8
+C (98.2
+   HR: 71 (71 - 149) bpm
+   BP: 108/52(70) {103/48(66) - 145/74(95)} mmHg
+   RR: 17 (17 - 27) insp/min
+   SPO2: 94%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 75.2 kg (admission): 66 kg
+   Height: 62 Inch
+                  Total In:
+                                                                  1,351 mL
+                  PO:
+                                                                    500 mL
+                  Tube feeding:
+   IV Fluid:
+                                                                    501 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  1,095 mL
+                                                                  1,655 mL
+   Urine:
+                                                                  1,095 mL
+                                                                  1,655 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    256 mL
+                                                                 -1,655 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   Ventilator mode: Standby
+   Vt (Spontaneous): 504 (424 - 556) mL
+   PS : 7 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 0 cmH2O
+   SPO2: 94%
+   ABG: 7.49/28/70/24/0
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 70
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), (Responds to: Verbal
+   stimuli), Moves all extremities
+   Labs / Radiology
+   104 K/uL
+   10.0 g/dL
+   93 mg/dL
+   1.0 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   25 mg/dL
+   101 mEq/L
+   135 mEq/L
+   29.0 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2192-5-9**]  03:52 PM
+                             [**2192-5-10**]  03:53 AM
+                             [**2192-5-10**]  04:22 AM
+                             [**2192-5-10**]  12:59 PM
+                             [**2192-5-10**]  07:07 PM
+                             [**2192-5-10**]  09:18 PM
+                             [**2192-5-10**]  11:03 PM
+                             [**2192-5-11**]  01:36 AM
+                             [**2192-5-11**]  01:44 AM
+                             [**2192-5-11**]  06:01 AM
+   WBC
+   19.0
+   15.1
+   10.0
+   Hct
+   26.7
+   29.7
+   29.0
+   Plt
+   141
+   104
+   Creatinine
+   1.3
+   1.0
+   1.0
+   TCO2
+   25
+   28
+   26
+   26
+   26
+   25
+   22
+   Glucose
+   135
+   159
+   119
+   94
+   93
+   Other labs: PT / PTT / INR:14.7/34.2/1.3, Lactic Acid:1.3 mmol/L,
+   Ca:8.8 mg/dL, Mg:2.3 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA), PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN), .H/O ATRIOVENTRICULAR (AV) BLOCK, ACUTE PAIN,
+   MITRAL REGURGITATION (MITRAL INSUFFICIENCY)
+   Assessment and Plan: 68yo woman s/p mech MVR, post-op course c/b
+   relative hypoxia slowly improving. Hemodynamically stable
+   Neurologic: Pain controlled, Percocet-prn
+   Cardiovascular: Aspirin, Beta-blocker, no indication for statins
+   start Heparin infusion to protect mech mvr. hold coumadin until Sunday,
+   scheduled for PPM on Mon AM
+   Pulmonary: IS, CXR this AM improved from previous-continues to have
+   bibasilar atelectasis/cardiomegaly
+   OOB-ambulate
+   CPT
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated , po intake poor
+   Renal: Foley, increase lasix to keep net negative 1500cc/day
+   Hematology: stable hct
+   Endocrine: RISS
+   Infectious Disease: no active issues
+   afebrile, normal WBC
+   Lines / Tubes / Drains: Foley, Pacing wires, rt IJ cordis
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: CT surgery, Cardiology, P.T.
+   ICU Care
+   Nutrition: regular/ADAT
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2192-5-8**] 12:38 PM
+   Cordis/Introducer - [**2192-5-8**] 01:12 PM
+   Arterial Line - [**2192-5-8**] 01:14 PM
+   18 Gauge - [**2192-5-8**] 01:14 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin (Systemic anticoagulation: Heparin drip, will start
+   heparin infusion today)
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU

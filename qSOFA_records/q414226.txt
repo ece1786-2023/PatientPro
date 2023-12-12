@@ -1,0 +1,230 @@
+Chief Complaint: Sepsis
+   HPI:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2120-8-10**] 02:00 PM
+   triple [**Last Name (un) 405**] hd cath placed at bedside by renal 
+fellow.
+   Tolerated 1st course of HD yesterday.
+   Remains somnulant, but arousable.  Up in Chair.
+   No further episodes of hypoglycemia.
+   Experiences right toe pain (has h/o gout)
+   More alert, answers more quickly.
+   History obtained from [**Hospital 15**] Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Pneumovax 23 (Injection) (Pneumococcal 23-[**Male First Name (un) **] 
+P-Sac Vac)
+   Rash;
+   Allopurinol
+   Rash;
+   Hydralazine
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2120-8-11**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2120-8-10**] 09:23 AM
+   Dextrose 50% - [**2120-8-10**] 09:24 AM
+   Heparin Sodium (Prophylaxis) - [**2120-8-11**] 08:14 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, No(t)
+   Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, Foley, Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, No(t) Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: [**2-27**] Mild
+   Pain location: RUQ abdominal
+   Flowsheet Data as of  [**2120-8-11**] 09:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36.2
+C (97.2
+   HR: 83 (63 - 86) bpm
+   BP: 159/63(87) {111/41(63) - 174/135(124)} mmHg
+   RR: 19 (9 - 19) insp/min
+   SpO2: 96%
+   Heart rhythm: RBBB (Right Bundle Branch Block)
+   Height: 70 Inch
+             Total In:
+                                                                    500 mL
+                                                                    103 mL
+   PO:
+                                                                     50 mL
+             TF:
+   IVF:
+                                                                    400 mL
+                                                                    103 mL
+   Blood products:
+   Total out:
+                                                                  1,645 mL
+                                                                    880 mL
+   Urine:
+                                                                  1,535 mL
+                                                                    820 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    110 mL
+                                                                     60 mL
+   Balance:
+                                                                 -1,145 mL
+                                                                   -777 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///22/
+   Physical Examination
+   General Appearance: No(t) Well nourished, No acute distress, Overweight
+   / Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)
+   Cervical adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)
+   Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: Clear : , No(t) Crackles : , No(t) Bronchial: , No(t)
+   Wheezes : , No(t) Diminished: , No(t) Absent : , No(t) Rhonchorous: )
+   Abdominal: Soft, No(t) Non-tender, Bowel sounds present, Distended,
+   Tender: RUQ, Obese, RUQ percutaneous drain
+   Extremities: Right: 1+, Left: 1+, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, Movement: Not assessed, No(t)
+   Sedated, No(t) Paralyzed, Tone: Normal, asterixis, reduced.
+   Encephalopathy improved.
+   Labs / Radiology
+   9.7 g/dL
+   360 K/uL
+   117 mg/dL
+   4.0 mg/dL
+   22 mEq/L
+   4.2 mEq/L
+   81 mg/dL
+   104 mEq/L
+   138 mEq/L
+   30.7 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**2120-8-6**]  11:40 PM
+                             [**2120-8-7**]  01:16 AM
+                             [**2120-8-7**]  03:59 AM
+                             [**2120-8-8**]  04:23 AM
+                             [**2120-8-8**]  11:49 AM
+                             [**2120-8-8**]  04:24 PM
+                             [**2120-8-9**]  04:57 AM
+                             [**2120-8-10**]  04:20 AM
+                             [**2120-8-11**]  05:00 AM
+   WBC
+   18.1
+   15.7
+   10.2
+   10.7
+   8.6
+   7.5
+   Hct
+   31.4
+   30.6
+   28.3
+   31.0
+   31.5
+   29.4
+   30.7
+   Plt
+   295
+   303
+   278
+   [**Telephone/Fax (3) 1141**]
+   Cr
+   5.2
+   5.3
+   5.4
+   6.0
+   6.2
+   6.1
+   5.7
+   4.0
+   TropT
+   1.57
+   1.53
+   1.57
+   1.78
+   2.01
+   2.09
+   2.10
+   TCO2
+   20
+   Glucose
+   146
+   132
+   100
+   53
+   78
+   63
+   129
+   75
+   117
+   Other labs: PT / PTT / INR:15.3/31.3/1.4, CK / CKMB /
+   Troponin-T:73/4/2.10, ALT / AST:33/23, Alk Phos / T Bili:272/2.0,
+   Amylase / Lipase:82/86, Lactic Acid:1.1 mmol/L, Albumin:2.6 g/dL,
+   LDH:191 IU/L, Ca++:8.1 mg/dL, Mg++:2.2 mg/dL, PO4:4.7 mg/dL
+   Assessment and Plan
+   Sepsis, cholangitis.
+   SEPSIS -- Resolved.  Monitor VS.  Continue supportive care.
+   CHOLANGITIS -- s/p ERCP, percutaneous drainage.
+   PANCREATITIS -- clinically improved.  Tolerating diet.
+   RENAL FAILURE -- initiated HD for uremia (encephalopathy).  Tolerated.
+   Work toward dry weight.
+   FLUIDS -- desire net negative.  Monitor weight.
+   NUTRITIONAL SUPPORT -- advance diet.
+   CAD -- demand ischemia.  Improved.
+   Right Toe pain -- h/o gout.  Right great toe tenderness.  Rx
+   symptomatically.  Avoid nephrotoxins.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2120-8-10**] 09:22 AM
+   Dialysis Catheter - [**2120-8-10**] 02:00 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer:
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill

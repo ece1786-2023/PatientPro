@@ -1,0 +1,137 @@
+TSICU
+   HPI:
+   42M s/p bicycle vs. auto. Tx from [**Hospital3 33**].
+   Chief complaint:
+   Injuries:
+   Liver laceration - grade II
+   R clavicle fracture
+   B/l small PTX
+   R arm degloving and undermining
+   C6/C7 spinous process fractures
+   R rib fx [**7-22**]
+   PMHx:
+   insignificant
+   Current medications:
+   24 Hour Events:
+ ARTERIAL LINE - START [**2111-10-9**] 03:03 AM
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2111-10-9**] 04:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since 
+[**14**] a.m.
+   Tmax: 36.4
+C (97.5
+   T current: 36.3
+C (97.4
+   HR: 58 (58 - 67) bpm
+   BP: 109/52(68) {109/52(68) - 112/52(68)} mmHg
+   RR: 11 (11 - 17) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             316 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+   316 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    345 mL
+   Urine:
+   345 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -29 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: 7.34/47/156/25/0
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft
+   Left Extremities: (Temperature: Warm)
+   Right Extremities: (Temperature: Warm)
+   Skin: R upper arm abrasion/avulsion
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   202 K/uL
+   12.2 g/dL
+   140 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   4.3 mEq/L
+   23 mg/dL
+   108 mEq/L
+   143 mEq/L
+   36.7 %
+   10.7 K/uL
+        [image002.jpg]
+                             [**2111-10-9**]  03:22 AM
+                             [**2111-10-9**]  03:43 AM
+   WBC
+   10.7
+   Hct
+   36.7
+   Plt
+   202
+   Creatinine
+   1.0
+   TCO2
+   26
+   Glucose
+   140
+   Other labs: PT / PTT / INR:13.0/21.7/1.1, ALT / AST:563/481, Lactic
+   Acid:1.9 mmol/L, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   TRAUMA, S/P, IMPAIRED SKIN INTEGRITY, FRACTURE, OTHER, PAIN CONTROL
+   (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 1 hr, GCS 15, MRI C-spine in AM.  Pain
+   fentanyl gtt, transfer to dilaudid pca today
+   Cardiovascular: HD stable, follow BP and HR
+   Pulmonary: IS, IS, pain control for rib fx
+   Gastrointestinal / Abdomen: Serial exams, NPO, follow ABG for base
+   excess and lactate, LFTs
+   Nutrition: TPN, NPO
+   Renal: Foley
+   Hematology: Check serial HCT
+   Endocrine: RISS
+   Infectious Disease: follow fever curve
+   Lines / Tubes / Drains: PIV x3, Foley, A-line
+   Fluids: NS at 100cc/hr
+   Consults: Trauma surgery, Ortho, Ortho-spine, PRS
+   Billing Diagnosis: Other: liver laceration, rib fractures, pulmonary
+   contusion, pneumothorax
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: PIV x3, Foley, A-line
+   18 Gauge - [**2111-10-9**] 01:48 AM
+   20 Gauge - [**2111-10-9**] 01:48 AM
+   Arterial Line - [**2111-10-9**] 03:03 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Total time spent:

@@ -1,0 +1,194 @@
+CVICU
+   HPI:
+   76M s/p CABGx3(LIMA to LAD,SVG to OM, SVG to PDA),AVR(25mm
+   pericardial),MV repair - [**9-12**]
+   EF:50%  Cr:1.0   Wt:103.8kg  HgA1c:
+   PMHX: appy as child
+   Chief complaint:
+   [**9-13**]: R MCA infarct, neuro consulted-paretic LT side
+   PMHx:
+   Current medications:
+   Acetaminophen, Albuterol, Amiodarone, Aspirin  Atorvastatin Calcium
+   Gluconate. Digoxin, Docusate Sodium (Liquid)
+   Furosemide . Haloperidol, Heparin, Insuli,n Ipratropium Bromide Neb
+   Magnesium, Sulfate,
+   Metoprolol Tartrate. Metoclopramide Milk of Magnesia
+   Oxycodone-Acetaminophen, Pantoprazole, Warfarin
+   24 Hour Events:
+ EKG - At [**2125-9-17**] 12:27 PM
+   12 lead and atrial pacing tracing done
+   Post operative day:
+   POD#6 - [**2125-9-12**] - s/p CABG x 3, AVR, MV repair
+   Allergies:
+   All drug allergies previously recorded have been deleted
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 1 mg/min
+   Heparin Sodium - 700 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2125-9-17**] 04:09 PM
+   Furosemide (Lasix) - [**2125-9-18**] 08:24 AM
+   Metoprolol - [**2125-9-18**] 08:30 AM
+   Other medications:
+   Flowsheet Data as of  [**2125-9-18**] 10:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since 
+[**28**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.5
+C (97.7
+   HR: 134 (134 - 154) bpm
+   BP: 119/65(77) {92/48(60) - 126/78(89)} mmHg
+   RR: 24 (12 - 28) insp/min
+   SPO2: 96%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Wgt (current): 104.6 kg (admission): 104 kg
+   Height: 74 Inch
+             Total In:
+                                                                  2,770 mL
+                                                                    810 mL
+   PO:
+             Tube feeding:
+                                                                  1,201 mL
+   IV Fluid:
+                                                                  1,209 mL
+                                                                    750 mL
+   Blood products:
+   Total out:
+                                                                  4,430 mL
+                                                                  1,590 mL
+   Urine:
+                                                                  4,430 mL
+                                                                  1,590 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,660 mL
+                                                                   -780 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///33/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Left Extremities: (Edema: Trace)
+   Right Extremities: (Edema: Trace)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   (Responds to: Verbal stimuli), does not move LUE. has started moving
+   LLE overnight.  right side moves to command
+   Labs / Radiology
+   170 K/uL
+   10.9 g/dL
+   68 mg/dL
+   1.2 mg/dL
+   33 mEq/L
+   4.6 mEq/L
+   29 mg/dL
+   98 mEq/L
+   140 mEq/L
+   33.0 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**2125-9-14**]  11:47 AM
+                             [**2125-9-15**]  03:51 AM
+                             [**2125-9-15**]  02:52 PM
+                             [**2125-9-16**]  01:24 AM
+                             [**2125-9-16**]  01:48 AM
+                             [**2125-9-16**]  12:14 PM
+                             [**2125-9-17**]  02:55 AM
+                             [**2125-9-17**]  03:57 PM
+                             [**2125-9-17**]  10:15 PM
+                             [**2125-9-18**]  05:05 AM
+   WBC
+   14.7
+   10.8
+   10.6
+   10.6
+   13.7
+   Hct
+   32.8
+   29.5
+   29.5
+   29.5
+   33.0
+   Plt
+   133
+   141
+   150
+    150
+   170
+   Creatinine
+   1.2
+   1.1
+   1.2
+   1.0
+   1.1
+   1.2
+   TCO2
+   22
+   26
+   Glucose
+   154
+   172
+   133
+   130
+   137
+   136
+   104
+   172
+   68
+   Other labs: PT / PTT / INR:15.8/64.1/1.4, Fibrinogen:322 mg/dL, Lactic
+   Acid:0.9 mmol/L, Ca:8.7 mg/dL, Mg:2.4 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   ATRIAL FLUTTER (AFLUTTER), ATRIAL FIBRILLATION (AFIB), PLEURAL
+   EFFUSION, ACUTE, CVA (STROKE, CEREBRAL INFARCTION), HEMORRHAGIC ,
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH), CORONARY ARTERY BYPASS GRAFT (CABG), VALVE REPAIR
+   (ALL VALVES), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: POD #6 s/p CABGx3 with post op R MCA infarct of
+   unknown origin. A-flutter. For cardioversion today.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, LLE more mobile
+   overnight, slowly improving. pain well controlled, continue oxycodone
+   Cardiovascular: Aspirin to 81mg 1. a-flutter: amiodarone gtt to PO
+   today, dilt gtt, heparin gtt until coumadin is therapeutic, digoxin to
+   PO 2. for TEE to evaluate for clot followed by cardioversion today 3.
+   continue coumadin 4. dispo pending outcome of cardioversion
+   Pulmonary: frequent suctioning, unable to clear back of throat
+   Gastrointestinal / Abdomen: NGT to dobhoff
+   Nutrition: Tube feeding, 1. NPO for procedure 2. advance to goal after
+   cardioversion
+   Renal: Foley, Adequate UO, continue while in unit
+   Hematology: stable
+   Endocrine: RISS, glucose <170
+   Infectious Disease: Check cultures, no current issues
+   Lines / Tubes / Drains: Foley, NGT, for dobhoff today
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: Neurology, P.T., O.T., Nutrition, EP dept
+   Billing Diagnosis: Acute MI / Ischemia, Arrhythmia, CVA
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Comments: glucose
+   well controlled
+   Lines:
+   Cordis/Introducer - [**2125-9-12**] 03:00 PM
+   22 Gauge - [**2125-9-16**] 02:00 AM
+   20 Gauge - [**2125-9-16**] 02:00 AM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: PPI
+   VAP bundle: Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: [**Hospital 663**] Transfer to floor
+   Total time spent: 31 minutes
+   Patient is critically ill

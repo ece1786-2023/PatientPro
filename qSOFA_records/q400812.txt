@@ -1,0 +1,211 @@
+Chief Complaint:
+   24 Hour Events:
+ CALLED OUT
+   [**3-8**]:
+   - CT Chest/Abd/Pelvis read: RML/RLL consolidation and R pleural
+   effusion; bilateral apical emphysema, aortic calcification and 3VD, no
+   acute intra-abdominal abnormalities, ventral hernia
+   - 1200 INR 2.1, started heparin gtt to bridge back to therapeutic range
+   (2.5-3.5, given valve)
+   - Restarted warfarin at 2 mg (may be low for him, but on antibiotics)
+   - Metoprolol tartrate changed to 25 [**Hospital1 **]
+   - transfused 1 unit pRBCs for Hct 21.1; only bumped to 22.3. VSS
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientNo Known Drug Allergies
+   Last dose of Antibiotics:
+   Azithromycin - [**2178-3-6**] 08:11 PM
+   Ceftriaxone - [**2178-3-8**] 02:30 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium - [**2178-3-8**] 04:16 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Respiratory: Cough
+   Flowsheet Data as of  [**2178-3-9**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 
+[**80**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 100 (72 - 115) bpm
+   BP: 101/44(55) {80/21(41) - 115/83(90)} mmHg
+   RR: 23 (17 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+           Total In:
+                                                                  2,040 mL
+                                                                    985 mL
+   PO:
+                                                                    730 mL
+                                                                    300 mL
+   TF:
+   IVF:
+                                                                  1,310 mL
+                                                                    310 mL
+   Blood products:
+   375 mL
+   Total out:
+                                                                  3,720 mL
+                                                                    735 mL
+   Urine:
+                                                                  3,120 mL
+                                                                    735 mL
+   NG:
+   Stool:
+                                                                    600 mL
+   Drains:
+   Balance:
+                                                                 -1,680 mL
+                                                                    250 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: /// 19/
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: Normocephalic, Dried blood on lower lip
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   , Rhonchorous: RLL)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+    242
+   7.4
+   119
+   1.8
+    19
+    6.0
+   93
+   115
+   143
+   22.3
+   20.5
+        [image002.jpg]
+                             [**2178-3-7**]  03:24 AM
+                             [**2178-3-7**]  01:58 PM
+                             [**2178-3-7**]  04:49 PM
+                             [**2178-3-7**]  09:01 PM
+                             [**2178-3-8**]  04:31 AM
+                             [**2178-3-8**]  12:20 PM
+                             [**2178-3-8**]  09:42 PM
+                             [**2178-3-9**]  03:43 AM
+   WBC
+   18.5
+   19.0
+   22.1
+   23.8
+   23.6
+   20.5
+   Hct
+   29.2
+   24.7
+   25.3
+   26.4
+   22.9
+   25.3
+   21.1
+   22.3
+   Plt
+   222
+   216
+   234
+   [**Telephone/Fax (3) 11620**]
+   Cr
+   2.0
+   2.0
+   2.0
+   2.2
+   1.8
+   Glucose
+   167
+   156
+   124
+   140
+   119
+   Other labs: PT / PTT / INR:19.9/144.1/1.8, Differential-Neuts:91.8 %,
+   Lymph:4.7 %, Mono:3.5 %, Eos:0.0 %, Ca++:8.2, Mg++:2.0 mg/dL, PO4:3.9
+   mg/dL
+   Imaging: [**3-8**] CXR: Right base effusion and collapse and/or
+   consolidation, similar to
+   [**2178-3-7**].
+   [**3-8**] CT PFI: -Right middle and right lower lobe air space 
+consolidation
+   with associated
+   small right pleural effusion, most likely in keeping with an infectious
+   etiology. However, given the history of chronicity of this findings,
+   although an acute-on-chronic presentation is most likely, an underlying
+   neoplasm such as lymphoma or BAC cannot be excluded. Follow-up
+   radiographs to
+   confirm resolution is suggested.
+   -bilateral apical emphysema
+   -mild/mod aortic vascular calcification and three-vessel coronary calc.
+   -no acute intra-abdominal abnormalities
+   -wide neck ventral hernia containing colon
+   Microbiology: [**3-6**] BCx: Pending
+   [**3-6**] UCx/Legionella: Negative
+   Assessment and Plan
+ .H/O VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   82 M with COPD, asplenic, w/ bioprosthetic aortic valve, who presents
+   with a community acquired pneumonia, elevated INR and dropping
+   hematocrit.
+   # CAP: Afebrile, but WBC continues to climb, CXR still shows RLL/RML
+   consolidation. Has had chronic consolidations here in past. Ctx and
+   Azithro day 3.
+   - f/u cx
+   - CT chest for chronic RLL changes in setting of h/o RCC and colon
+   cancers
+   - given remote splenectomy, check vaccinations are up to date
+   #Anemia & Elevated INR: Has had a 9-point crit drop since admission,
+   brown well-formed guiac + stools.
+   - CT abd/pelvis today to eval for retroperitoneal bleed
+   - No transfusion required yet
+   # Acute on chronic kidney injury- in setting of volume depletion
+   received IVF yesterday; Creatinine 2.3 fallen to 2.0. Baseline 1.6-1.8
+   - Will encourage PO fluids
+   # COPD- not on any nebs as outpatient
+   - ipra/alb nebs prn
+   - add steroids if persistent wheezing
+   # Atrial fibrillation
+   - restart coumadin given INR back to therapeutic range
+   - recheck INR to make sure we have not overshot with Vitamin K, if INR
+   subtherapeutic start Heparin
+   - continue Digoxin
+   - continue home Metoprolol but change dosing to 25 mg [**Hospital1 **]
+   .
+   # FEN: No IVF, replete electrolytes, regular diet
+   # Prophylaxis: Supratherapeutic INR has now been brought down to
+   therapeutic, may need Heparin if drops subtherapeutic
+   # Access: peripherals
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending stable hematocrit
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2178-3-6**] 05:05 PM
+   20 Gauge - [**2178-3-9**] 12:21 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

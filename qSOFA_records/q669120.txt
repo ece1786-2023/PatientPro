@@ -1,0 +1,168 @@
+I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note, including assessment and plan as detailed in my note below.
+   Chief Complaint:  afib with RVR, hypoxia
+   HPI:
+   86 year-old woman with schizophrenia, recurrent aspiration, poorly
+   controlled AF c RVR initially admitted with LLL PNA subsequent large
+   left effusion and ? trapped lung s/p pleurex cathter that is
+   coninuously producing 400cc/day.  She is s/p a an open J tube placed.
+   She had a prolonged ICU stay for afib RVR, hypotension and desats that
+   improved with the pleuxex.
+   While on the floor, she has been doing well. Open Gtube was placed by
+   surgery on [**2191-5-16**], and she was started on TF on [**5-18**]. 
+Her chest tube
+   remained in place as there continued to be 300-400 cc clear drainage
+   daily. The team was screening her for rehab. However, today, she went
+   into afib with RVR with HR in 140's, developed a worsening oxygen
+   requirement (from 2-3L NC to 70% HiFlow mask) to keep sats in mid to
+   high 90's. She had reportedly received IVF boluses the previous night
+   for low UOP. On the floor, she received lopressor 2.5 mg IV X 2 with
+   improvement of HR to 100's. She recived 20 IV lasix with 800 cc UOP.
+   She also received 2 mg IV morphine.
+   Upon arrival to the ICU, she was not talking and appears uncomfortable.
+   She cannot relate any further history.
+   24 Hour Events:
+   Allergies:
+   Sulfonamides
+   Unknown;
+   Olanzapine
+   Unknown;
+   Risperidone
+   Unknown;
+   Propranolol
+   Unknown;
+   Haloperidol
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2191-5-21**] 09:00 AM
+   Piperacillin - [**2191-5-21**] 04:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2191-5-22**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**2191-5-21**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2191-5-22**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.2
+C (97.1
+   HR: 118 (90 - 122) bpm
+   BP: 94/54(61) {71/34(0) - 108/54(61)} mmHg
+   RR: 31 (19 - 31) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  2,385 mL
+                                                                    559 mL
+   PO:
+             TF:
+                                                                  1,130 mL
+                                                                    329 mL
+   IVF:
+                                                                    895 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                    902 mL
+                                                                    350 mL
+   Urine:
+                                                                    762 mL
+                                                                    180 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,483 mL
+                                                                    209 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 98%
+   ABG: ///38/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   7.4 g/dL
+   287 K/uL
+   105 mg/dL
+   0.6 mg/dL
+   38 mEq/L
+   4.3 mEq/L
+   37 mg/dL
+   94 mEq/L
+   135 mEq/L
+   23.2 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**2191-5-19**]  04:43 PM
+                             [**2191-5-20**]  12:10 AM
+                             [**2191-5-20**]  04:02 AM
+                             [**2191-5-20**]  02:12 PM
+                             [**2191-5-20**]  05:02 PM
+                             [**2191-5-21**]  01:30 AM
+                             [**2191-5-22**]  03:26 AM
+   WBC
+   13.0
+   18.3
+   11.5
+   Hct
+   25.7
+   26.8
+   23.2
+   Plt
+   288
+   299
+   287
+   Cr
+   0.5
+   0.6
+   0.6
+   0.6
+   0.6
+   TCO2
+   36
+   38
+   Glucose
+   148
+   128
+   138
+   108
+   105
+   Other labs: PT / PTT / INR:13.0/43.0/1.1, ALT / AST:[**8-27**], Alk 
+Phos / T
+   Bili:61/0.3, Differential-Neuts:67.0 %, Band:8.0 %, Lymph:6.0 %,
+   Mono:18.0 %, Eos:0.0 %, Lactic Acid:1.7 mmol/L, Albumin:2.6 g/dL,
+   LDH:213 IU/L, Ca++:8.1 mg/dL, Mg++:2.1 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+ HIGH RISK FOR FALL
+ HYPOXEMIA
+ ATRIAL FIBRILLATION (AFIB)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2191-5-19**] 03:33 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition :
+   Total time spent:
+

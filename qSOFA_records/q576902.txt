@@ -1,0 +1,198 @@
+SICU
+   HPI:
+   52F w/o PMH, found unresponsive by family & transported to OSH -
+   intubated w/head CT showed diffuse SAH w/transfer to [**Hospital1 1**] 
+for further
+   evaluation - found to have MCA aneurysm junction M1/M2 segment s/p EVD
+   placement (ED)
+   Chief complaint:
+   PMHx:
+   Current medications:
+   24 Hour Events:
+ FEVER - 101.7
+F - [**2165-6-16**] 07:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2165-6-17**] 04:20 AM
+   Infusions:
+   Dobutamine - 2.5 mcg/Kg/min
+   Phenylephrine - 4.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2165-6-17**] 08:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since 
+[**67**] a.m.
+   Tmax: 38.7
+C (101.7
+   T current: 38
+C (100.4
+   HR: 98 (85 - 117) bpm
+   BP: 153/82(111) {124/69(91) - 162/90(120)} mmHg
+   RR: 24 (17 - 25) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 57.4 kg (admission): 56.2 kg
+   Height: 62 Inch
+   CVP: 3 (2 - 15) mmHg
+   ICP: 12 (6 - 13) mmHg
+   Total In:
+                                                                  7,325 mL
+                                                                  1,056 mL
+   PO:
+   Tube feeding:
+                                                                  1,325 mL
+                                                                      9 mL
+   IV Fluid:
+                                                                  5,500 mL
+                                                                    996 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  6,730 mL
+                                                                    956 mL
+   Urine:
+                                                                  6,545 mL
+                                                                    890 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    185 mL
+                                                                     66 mL
+   Balance:
+                                                                    595 mL
+                                                                    100 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 98%
+   ABG: ///20/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Abdominal: Soft, Tender:
+   Neurologic: not following commands
+   Labs / Radiology
+   833 K/uL
+   9.2 g/dL
+   98 mg/dL
+   0.4 mg/dL
+   20 mEq/L
+   4.3 mEq/L
+   12 mg/dL
+   101 mEq/L
+   132 mEq/L
+   28.1 %
+   10.3 K/uL
+        [image002.jpg]
+                             [**2165-6-13**]  03:41 AM
+                             [**2165-6-13**]  03:54 AM
+                             [**2165-6-14**]  02:24 AM
+                             [**2165-6-14**]  10:15 AM
+                             [**2165-6-14**]  02:16 PM
+                             [**2165-6-15**]  02:17 AM
+                             [**2165-6-15**]  09:00 PM
+                             [**2165-6-16**]  02:02 AM
+                             [**2165-6-16**]  11:51 AM
+                             [**2165-6-17**]  01:34 AM
+   WBC
+   8.0
+   9.8
+   10.8
+   8.5
+   10.3
+   Hct
+   25.7
+   27.3
+   27.3
+   25.7
+   28.1
+   Plt
+   378
+   573
+   677
+   673
+   833
+   Creatinine
+   0.4
+   0.4
+   0.5
+   0.5
+   0.4
+   0.4
+   0.4
+   0.3
+   0.4
+   TCO2
+   29
+   Glucose
+   129
+   133
+   115
+   117
+   115
+   113
+   115
+   98
+   Other labs: PT / PTT / INR:13.1/27.3/1.1, CK / CK-MB / Troponin
+   T:2516/12/0.03, Lactic Acid:1.3 mmol/L, Albumin:4.0 g/dL, Ca:8.4 mg/dL,
+   Mg:2.1 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   SHOCK, CARDIOGENIC, FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA),
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**]), [**Last 
+Name **] PROBLEM - ENTER
+   DESCRIPTION IN COMMENTS, .H/O HYPOTENSION (NOT SHOCK), SUBARACHNOID
+   HEMORRHAGE (SAH)
+   Assessment and Plan: 53yF with SAH [**1-21**] aneurysm s/p coiling c/b
+   vasospasm and cardiogenic shock d/t sympathetic surge, now w/ ext
+   strokes
+   Neurologic: Continuing vasospasm- hypertensive treatment. New stroke in
+   the posterior left MCA distribution CTA shows diffuse, severe vasospasm
+   involving the bilateral MCAs (left worse than right). Stable bifrontal
+   strokes. Neurocheck q1h, EVD @15 , phenytoin 200', starting Keppra.
+   checking dilantin level daily. Nimodipine 30q2. Dilantin/albumin levels
+   (7.6/4.2-corrected 8.1 Mannitol 50 q4 if ICP>20.
+   Cardiovascular: Global hypokinesis d/t SAH. Dobutamine/phenylephrine-
+   keep MAP >100 per NS. Per cards, needs outpatient follow up. Started
+   statin.
+   Pulmonary: Stable on NC. New R and small L pleural effusion
+   Gastrointestinal / Abdomen: Replete w/fiber Full strength; TF @goal,
+   held for procedure. Plan PEG [**6-17**]- deferred d/t two pressor
+   requirement. Bowel regimen for constipation.
+   Nutrition: NPO for procedure. cc:cc replacements. Hyponatremia 132,
+   Receiving DDAVP. Some decrease in u/o.
+   Renal: Foley, u/o decreased w/DDAVP, Cr stable 0.4.
+   Hematology: Stable anemia 27.3, on SQH [**Hospital1 **].
+   Endocrine: RISS, BS q6h, goal <150.
+   Infectious Disease: Replace CVL d/t time. Fever w/u [**6-7**] 
+[**6-10**](Blood cx
+   6/19+22-P, URINEneg; CSF [**6-13**] NGTD.  Continue cefazolin for EVD
+   prophylaxis. WBC normalized. Cont fevers.
+   Lines / Tubes / Drains: PIV, Foley, LIJ CVL, EVD, Ax Aline, PICC 
+[**6-17**]
+   Wounds: R EVD
+   Imaging: CXR L pleural effusion
+   Consults: NeuroSurgery, Cardiology
+   Billing Diagnosis:  SAH
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   ICP Catheter - [**2165-6-4**] 02:15 AM
+   Multi Lumen - [**2165-6-4**] 04:29 AM
+   Arterial Line - [**2165-6-4**] 10:17 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held  Comments: spoke to family at length [**6-16**]
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35minutes

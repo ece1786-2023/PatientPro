@@ -1,0 +1,211 @@
+Chief Complaint:  abd pain, n/v, melenic stool
+   HPI:
+   85 yo F russian speaking with mild dementia, PUD, depression, dysphagia
+   presents from NH ([**Hospital3 1254**]) with shortness of breath and
+   coughing.  History is obtained from her daughter [**Name (NI) 796**].  
+She states
+   that since yesterday her mother had not been herself.  She was more
+   tired appearing than usual and not eating well.  Prior to this she was
+   at her baseline.  According to the nursing home, she was found to have
+   a mild cause and hypoxia to the 80s.  Given her condition they were
+   concerned for pneumonia and sent to the ED.
+   .
+   In the ED, VS T 98.6, HR 108, BP 104/66, RR 24, 96%NRB.  EKG and CXR
+   performed, showing bilat pneumonia.  She intermittently took off her
+   facemask desatting down to the 80s.  She was given vanco 1g, 2g
+   cefepime, and levoflox 750mg, though the levoflox was stopped [**1-2**] 
+way
+   through due to reddness at PIV site.  She was also found to have poor
+   UOP of 10ml -> given 500ml NS.  Given her low UOP and hypoxia, she was
+   admitted to the MICU.
+   .
+   On arrival, she is awake and giving me the "thubs up."  She is russian
+   speaking and did not speak coherently to the russian interpreter.
+   .
+   ROS: As per above, otherwise negative for fevers/chills, HA, sore
+   throat, CP, SOB, palpitations, abd pain, n/v/d, dysuria, rash.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Family / [**Hospital 216**] Medical records
+   Allergies:
+   Penicillins
+   Unknown;
+   Demerol (Oral) (Meperidine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2150-4-8**] 10:22 PM
+   Other medications:
+   Lidoderm patch 5% daily to L hip
+   Lexapro 10mg daily
+   ASA 81mg daily
+   CACO3 1g daily
+   Prilosec 20mg daily
+   MVI daily
+   Percocet 5/325 1 tab [**Hospital1 **]
+   Mirtazapine 7.5 mg PO HS
+   Olanzapine 1.25 mg PO HS
+   Saline nasal spray [**Hospital1 **]
+   Bisacodyl supp prn
+   Milk of Magnesia prn
+   Tylenol 325-650 q6 prn
+   Simethicone 30ml q6 prn
+   Robitussin 100/5 q4 prn
+   Past medical history:
+   Family history:
+   Social History:
+   # Iron deficiency anemia
+   # osteoporosis
+   # depression/bipolar d/o
+   # h/o GI bleed
+   # PUD
+   # Anal fissure.
+   # Dyslipidemia
+   # DJD
+   # Glaucoma
+   # Cataract s/p extraction
+   # dysphagia (mechanical soft diet)
+   # h/o R prox humerus fx (tx non-op)
+   # bilat DHS for hip Fxs (approx [**5-6**] yrs ago),
+   # removal of hardware and ORIF left femur [**2149-3-31**],
+   # s/p perianal abscess I and D [**8-8**]
+   Non-contributory
+   Russian speaking, lives in nursing home, non-smoker, no alcohol, no
+   drug use.  Has 2 sons and daughter that live in the area.  Husband not
+   alive
+   Review of systems: see above
+   Flowsheet Data as of [**2150-4-9**] 12:29 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.1
+C (96.9
+   HR: 95 (95 - 111) bpm
+   BP: 98/79(95) {91/49(59) - 131/83(95)} mmHg
+   RR: 27 (24 - 35) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    353 mL
+                                                                     58 mL
+   PO:
+                                                                     20 mL
+             TF:
+   IVF:
+                                                                    333 mL
+                                                                     58 mL
+   Blood products:
+   Total out:
+                                                                    260 mL
+                                                                     80 mL
+   Urine:
+                                                                    260 mL
+                                                                     80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     93 mL
+                                                                    -22 mL
+   Respiratory
+   O2 Delivery Device: High flow neb
+   SpO2: 95%
+   Physical Examination
+   VS: T 99.5, BP 104/83, HR 89, RR 24, 91% 15L face tent
+   Gen: sitting up in bed, eyes open, awake and alert, looks comfortable
+   HEENT: EOMI, PERRL, anicteric sclera, MM dry, OP clear
+   Neck: supple, no LAD or JVD
+   Heart: Tachy, regular, no obvious m/r/g
+   Lung: poor inspiratory effort, diffuse coarse crackles, decreased BS
+   Abd: distended, soft NT + BS no rebound or guarding
+   Ext: warm and well perfused no pitting edema, no c/c
+   Skin: no rashes
+   Neuro: awake and alert, pleasantly delirious moving all extremities
+   Labs / Radiology
+   Trop-T: <0.01
+   .
+   144 / 105 / 24 / 177   AGap=20
+   3.9 / 23 / 1.1
+   CK: 129  MB: 2
+   Ca: 9.2 Mg: 2.2 P: 2.8.
+   .
+   proBNP: 1720
+   14.0 \ 9.7 / 613
+        / 31.1 \
+   N:92.8 L:4.9 M:2.1 E:0 Bas:0.2
+   .
+   Imaging:
+   IMPRESSION:
+   1. Bilat lower lobe pneumonia. Prominent right hilum. CT scan
+   recommended after antibiotic therapy.
+   2. Degenerative change thoracic spine and prior non-healed proximal
+   right humerus fracture redemonstrated
+   .
+   EKG: Sinus tachy at 108 bpm, nl axis and intervals, inferior Q waves,
+   non specific STT changes.  Small Q waves in II, aVL new since 
+[**2149-3-30**].
+   Assessment and Plan
+ PNEUMONIA, OTHER
+   A/P: 85 yo F with dementia, depression, PUD, dysphagia presents with
+   hypoxia, cough, and bilateral pneumonia from nursing home.
+   .
+   .
+   Healthcare Associated Pneumonia: Confirmed based on clinical picture
+   with cough, hypoxia, and also with bilateral infiltrates on CXR.  Since
+   patient comes from [**Location **], must be concerned for HAP and 
+therefore
+   resistant pathogens.  Patient clinically stable currently.  No obvious
+   pleural effusion on CXR.  No other obvious sources of infection.  BNP
+   elevated though no priors to compare
+   - Cont Vancomycin, Cefepime, Levoflox
+   - ? injection site rxn to levoflox, though likely infiltrated.  Will
+   cont to follow
+   - Blood and urine cx sent
+   - Send sputum cs, urine legionella
+   - IS, resp toilet
+   - Albuterol prn
+   - Trend WBC and fever curve
+   .
+   Anemia:  At baseline.  Likely related to chronic disease.  Also has h/o
+   iron deficiency.  No signs of bleeding currently.
+   - Cont to trend
+   - Guaiac all stool
+   .
+   Dementia: Cont Zyprexa, mirtazapine
+   .
+   Depression: Cont mirtazapine, lexapro.
+   .
+   s/p humeral fx: Cont percocet and tylenol for pain control
+   - Aggressive bowel regimen
+   .
+   PUD: Cont PPI, milk of magnesia
+   .
+   FEN: ? dysphagia.  Regular diet per daughter and watch carefully
+   .
+   Ppx: heparin SQ, bowel regimen, PPI
+   .
+   Access: PIV
+   .
+   Code: Full
+   .
+   Comm: Daughter [**First Name4 (NamePattern1) 796**] [**Name (NI) 
+5640**]
+   .
+   Dipos: ICU tonight, call out in AM if stable
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2150-4-8**] 06:44 PM
+   Prophylaxis:
+   DVT: heparin, boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: FULL
+   Disposition: ICU tonight
+

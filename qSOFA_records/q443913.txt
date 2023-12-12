@@ -1,0 +1,179 @@
+Chief Complaint: Coffee ground emesis
+   24 Hour Events:
+ EKG - At [**2186-3-4**] 09:00 PM
+   -Initial Hct down to 31.9, received 2L NS for persistent tachycardia
+   and apparent dehydration, tachycardia (rates>100) improved after
+   fluids/blood
+   -Repeat Hct of 25 so got 1 unit pRBC's
+   -GI said to continue pantoprazole drip, they may scope today
+   -Surgery affirmed need to scope
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ampicillin - [**2186-3-5**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue
+   Ear, Nose, Throat: Dry mouth
+   Flowsheet Data as of  [**2186-3-5**] 08:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.6
+C (97.9
+   HR: 96 (90 - 111) bpm
+   BP: 142/66(85) {111/44(60) - 158/118(123)} mmHg
+   RR: 24 (12 - 36) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+                                                                  1,293 mL
+                                                                    532 mL
+   PO:
+           TF:
+   IVF:
+                                                                  1,293 mL
+                                                                    182 mL
+   Blood products:
+   350 mL
+   Total out:
+                                                                    395 mL
+                                                                    570 mL
+   Urine:
+                                                                    395 mL
+                                                                    570 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    898 mL
+                                                                    -38 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, coffee ground material in
+   mouth, MM dry
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, time, and situation, Movement:
+   Purposeful, Tone: Normal
+   Labs / Radiology
+   461 K/uL
+   9.1 g/dL
+   97 mg/dL
+   0.9 mg/dL
+   26 mEq/L
+   4.1 mEq/L
+   43 mg/dL
+   115 mEq/L
+   149 mEq/L
+   27.7 %
+   27.7 K/uL
+         [image002.jpg]
+                             [**2186-3-4**]  03:19 PM
+                             [**2186-3-4**]  06:40 PM
+                             [**2186-3-4**]  11:50 PM
+                             [**2186-3-5**]  04:30 AM
+   WBC
+   27.7
+   Hct
+   31.8
+   29.1
+   25.0
+   27.7
+   Plt
+   461
+   Cr
+   0.9
+   0.9
+   Glucose
+   97
+   Other labs: PT / PTT / INR:13.9/24.0/1.2, CK / CKMB / Troponin-T:53/4/
+   Assessment and Plan
+   86 year old female with history of HTN, depression, and GIB presenting
+   with one day of hemetemesis in the context of extensive ASA use
+   admitted to icu for upper GIB assessment.
+   1.) Gastrointestinal Bleed:  Patient with likely upper GIB probably
+   from ASA use +/- stopping PPI causing ulceration or
+   gastritis/duodenitis.  Given intrathoracic stomach volvulus is on
+   differential though extremely unlikely given patient is overall
+   non-toxic.
+   - Speak to GI re: timing of endoscopy
+   - Continue IV PPI drip
+   -Two peripheral IV
+s, active type and cross
+   -Ondansetron and metoclopramide PRN for nausea
+   -Transfuse for Hct <22 or Hct drop of > 3 in six hours
+   2)  Leukocytosis:  The patient has a history of elevated WBC counts and
+   has had partial evals for myeloid process in the past.  Potentially due
+   to cat bite/infection as well as UTI with vomiting and other reasons
+   for elevated WBC count though this still seems quite high.  No abnormal
+   or left shifted forms suggesting failure of myeloid differentiation.
+   -treat cat bite per below
+   -trend leukocytosis and fever curve, repeat diff in AM
+   3.) EKG changes:  These are improved on repeat ECG, which seems
+   consistent with resolution of demand ischemia as tachycardia and anemia
+   were treated.  Patient now with two sets of negative cardiac enzymes.
+   -Repeat ECG
+    4. Cat Bite: Patient denied fever, chills to me but reported in ED.
+   Given high rate of infection of cat bites will initiate empiric
+   treatment with ampicillin-sublactam.
+   -Amp sublactam 3gm IV Q6hr
+    5.)  [**Last Name (un) **]: Most likely Cr elevation due to 
+dehydration/prerenal.  Cr
+   falling after hydration.
+   -Continue to follow.
+   6) Probable UTI: Probable UTI given pyuria, nitrites, and leukocyte
+   esterase.
+   -UTI most likely E coli given nitrites which should be covered by
+   amp-sublactam, no further abx at this time but will f/u cx
+   -Patient with known temporary stent that has not been removed, will d/w
+   urology
+   7)  Goiter on R side of neck: This is a chronic problem.
+   -TSH WNL and T4 pending
+   -arrange o/p endocrine f/u
+   8) Social: Pt lives alone and reports trouble getting to MD [**Last 
+Name (Titles) 5915**]
+   (though cat sees vet 2*/yr) Will get SW involved to find resources for
+   this very pleasant lady.
+   8)  FEN: NPO for now  with ice chips pending decision on EGD
+   # PPX: PPI, pneumoboots
+   # CODE: DNR but not opposed to temporary intubation
+   # ACCESS: 18g, 20g, holding off on EJ for now
+   # COMM: [**Name (NI) **] and neighbor [**First Name8 (NamePattern2) 
+129**] [**Name (NI) 3383**] [**Telephone/Fax (1) 5891**] (H), 
+[**Telephone/Fax (1) 5892**]
+   (cell)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2186-3-4**] 02:55 PM
+   20 Gauge - [**2186-3-4**] 06:05 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:ICU
