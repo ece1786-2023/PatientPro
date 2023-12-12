@@ -1,0 +1,208 @@
+SICU
+   HPI:
+   62yM w/BOOP and significant TBM s/p R thoracotomy &
+   tracheobronchoplasty ([**6-22**]) in SICU until [**6-27**], then found on flr to
+   have temp, increasing SpO2 requirements, phlebitis from R PICC
+   w/partial right basilic vein thrombus) & BAL resistant Pseudomonas tx
+   SICU bc rapid hypotensive afib and resp distress (SaO2 90)
+   Chief complaint:
+   PMHx:
+   Chronic asthma/chronic bronchitis, BOOP, steroids: prednisone 20mg
+   daily (recent taper from 30mg), Severe tracheobronchomalacia,  -
+   Y-stent placement [**Date range (1) 7182**], repeat Y-stent placement [**2129-3-7**],
+   Pneumonia: pseudomonas infection recently, CAD, CABG, [**2120**]; complicated
+   by unknown infection, myocardial infarction, [**2126**], Herpes zoster, Left
+   shoulder surgery, Depression
+   Current medications:
+   24 Hour Events:
+ EKG - At [**2129-7-10**] 02:00 PM
+   pt became diaphoretic and there was a question of changes on his
+   telemetry  - cardiology fellow (Dr. [**Last Name (STitle) 4167**] up to evaluate ekg and
+   reported no changes from prior ekg
+   Allergies:
+   Bactrim Ds (Oral) (Sulfamethoxazole/Trimethoprim)
+   Nausea/Vomiting
+   Latex
+   Anaphylaxis;
+   Iodides (Topical) (Iodine/Sodium Iodide)
+   Unknown;
+   Shellfish Derived
+   Anaphylaxis; "r
+   Last dose of Antibiotics:
+   Meropenem - [**2129-7-10**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2129-7-10**] 03:00 PM
+   Other medications:
+   Aspirin 81', Lipitor 10',Avodart 0.5',Lisinopril 2.5',Isosorbide "DN"
+   20''',nitrolingual spray 0.4 prn,Prednisone 5'
+   Singulair 10',Spiriva,Albuterol'',[**Doctor First Name 877**] 180',Astelin nasal spray''
+   Flonase 2sprays'',mucinex 600'',mucamyst [**Hospital1 **],Calcium + vitamin D daily
+   Fosamax 70mg qFru,Hycosamine 125',Protonix 40mg'',Flomax ,Docusate
+   Clonazepam 1mg qAM, qPM,Fluoxetine 40mg po qAM,Trazadone 100mg, 2tabs
+   qhs,Wellbutrin SR 450mg daily,Ambien 10mg po qhs,Lyrica 75mg 2tabs
+   daily,Hydrocodone/APAP 500/5mg 1-2 tabs 4x/day IC 10 phen - CNR liquid
+   qua" 1 tsp q4hrs PRN, protosol-HC 2% PRN, Carmol 40% lotion for feet
+   Ciclapirox 8% to toes, Floradil [**Hospital1 **]
+   Flowsheet Data as of  [**2129-7-11**] 08:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**32**] a.m.
+   Tmax: 36.5
+C (97.7
+   T current: 36.5
+C (97.7
+   HR: 87 (70 - 95) bpm
+   BP: 92/60(67) {83/45(56) - 116/75(85)} mmHg
+   RR: 20 (14 - 24) insp/min
+   SPO2: 95%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Wgt (current): 84.3 kg (admission): 87.3 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,997 mL
+                                                                    581 mL
+   PO:
+                                                                  1,440 mL
+                                                                    500 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,557 mL
+                                                                     81 mL
+   Blood products:
+   Total out:
+                                                                  1,764 mL
+                                                                    685 mL
+   Urine:
+                                                                  1,764 mL
+                                                                    685 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,233 mL
+                                                                   -104 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: 7.46/46/99.[**Numeric Identifier **]/33/7
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Abdominal: Soft
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   438 K/uL
+   8.1 g/dL
+   78 mg/dL
+   0.7 mg/dL
+   33 mEq/L
+   5.2 mEq/L
+   14 mg/dL
+   95 mEq/L
+   135 mEq/L
+   24.2 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**2129-7-4**]  04:00 AM
+                             [**2129-7-5**]  03:33 AM
+                             [**2129-7-6**]  04:28 AM
+                             [**2129-7-9**]  09:58 AM
+                             [**2129-7-9**]  09:44 PM
+                             [**2129-7-10**]  02:55 AM
+                             [**2129-7-10**]  08:42 AM
+                             [**2129-7-10**]  02:12 PM
+                             [**2129-7-10**]  02:26 PM
+                             [**2129-7-11**]  04:10 AM
+   WBC
+   18.0
+   16.2
+   16.5
+   13.7
+   Hct
+   30.3
+   27.0
+   25.3
+   24.2
+   Plt
+   397
+   353
+   417
+   438
+   Creatinine
+   0.7
+   0.9
+   0.7
+   0.7
+   0.8
+   0.7
+   Troponin T
+   0.06
+   0.06
+   0.07
+   0.06
+   TCO2
+   34
+   Glucose
+   98
+   87
+   94
+   91
+   93
+   85
+   97
+   78
+   Other labs: PT / PTT / INR:15.8/72.4/1.4, CK / CK-MB / Troponin
+   T:47/6/0.06, Differential-Neuts:80.2 %, Lymph:13.3 %, Mono:4.8 %,
+   Eos:1.6 %, Lactic Acid:1.7 mmol/L, Albumin:2.9 g/dL, LDH:246 IU/L,
+   Ca:6.6 mg/dL, Mg:1.6 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   ALTERATION IN NUTRITION, ATRIAL FIBRILLATION (AFIB), BOOP,
+   Assessment and Plan: 62yM with TBM s/p tracheobronchoplasty readmitted
+   to SICU w/ respiratory distress (SaO2 90) w/ hemothorax on heparin gtt
+   s/p evacuation, repeated hypotensive rapid afib
+   Neurologic: Dilaudid prn pain. Minimize sedatives. Klonopin for
+   anxiety. On bupropion
+   Cardiovascular:  Hypotension: hypovolemia vs. medication (metoprolol,
+   detrol) vs. adrenal insufficiency. Cont AFib w/ episodic RVR despite
+   cardioversion [**7-5**]. ?Afib from resp distress. Amio gtt, dig,
+   metoprolol. Attempting digoxin PO to d/c amio. Per cards cs -
+   cardioversion in 4 weeks if unstable, start coumadin as soon as stable
+   per surgery. Episodic RVR and diaphoresis- CE and 12lead EKG nL.  Check
+   digoxin level.  Aspirin.
+   Pulmonary: Tolerating nasal cannula. Aggressive pulmonary toilet.
+   Pseudomonas positive cultures from BAL ([**6-22**]) - on [**Last Name (un) **]/tobra/vanc. F/U
+   recent BAL [**7-5**]. s/p thoracentesis to R (blood, non-infected)
+   Gastrointestinal / Abdomen: Regular. Reglan + lidocaine nebs for
+   hiccups. No thorazine d/t long QTc.
+   Nutrition: KVO. Metabolic alkalosis, hyperkalemia.
+   Renal: Monitor u/o. Cr 0.7. Check FENa.
+   Hematology: Hct 30.3>27>23.2>24.
+   Endocrine: RISS, goal BS< 150. On a prednisone taper (5mg) for BOOP.
+   R/o adrenal insufficiency.
+   Infectious Disease: WBC 13.8>20.2>17>13. On Meropenem/tobramycin for
+   pseudomonas in BAL.
+   Lines / Tubes / Drains: PIV, L PICC, Foley.
+   Wounds: Right thoracotomy
+   Imaging: CXR [**7-11**]
+   Fluids: KVO
+   Consults: Thoracic, IP, Cardiology, EP
+   Billing Diagnosis:  Atrial Fibrillation, BOOP, Hypotension, Hemothorax
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2129-7-5**] 11:43 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes

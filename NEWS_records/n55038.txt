@@ -1,0 +1,170 @@
+Chief Complaint: GI Bleed
+   24 Hour Events:
+   - prepped for scope in am
+   - HCT 27--35--29: Received 1 U PRBCs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2171-9-8**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 35.9
+C (96.6
+   HR: 59 (59 - 99) bpm
+   BP: 132/57(74) {109/39(59) - 159/66(86)} mmHg
+   RR: 17 (8 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+           Total In:
+                                                                  5,135 mL
+                                                                    262 mL
+   PO:
+                                                                  4,460 mL
+           TF:
+   IVF:
+                                                                    325 mL
+                                                                     78 mL
+   Blood products:
+                                                                    350 mL
+                                                                    184 mL
+   Total out:
+                                                                  4,400 mL
+                                                                    430 mL
+   Urine:
+                                                                    600 mL
+                                                                    430 mL
+   NG:
+   Stool:
+                                                                  3,800 mL
+   Drains:
+   Balance:
+                                                                    735 mL
+                                                                   -168 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   161 K/uL
+   9.3 g/dL
+   90 mg/dL
+   0.7 mg/dL
+   30 mEq/L
+   3.8 mEq/L
+   18 mg/dL
+   103 mEq/L
+   139 mEq/L
+   26.5 %
+   4.4 K/uL
+        [image002.jpg]
+                             [**2171-9-6**]  03:44 PM
+                             [**2171-9-6**]  07:37 PM
+                             [**2171-9-6**]  09:20 PM
+                             [**2171-9-6**]  11:50 PM
+                             [**2171-9-7**]  04:09 AM
+                             [**2171-9-7**]  11:11 AM
+                             [**2171-9-7**]  02:52 PM
+                             [**2171-9-7**]  05:52 PM
+                             [**2171-9-7**]  09:31 PM
+                             [**2171-9-8**]  03:50 AM
+   WBC
+   5.9
+   5.9
+   4.4
+   Hct
+   29.9
+   28.8
+   27.6
+   30.6
+   26.2
+   29.0
+   35.1
+   27.9
+   29.0
+   26.5
+   Plt
+   196
+   177
+   161
+   Cr
+   0.7
+   0.7
+   Glucose
+   94
+   90
+   Other labs: PT / PTT / INR:13.7/27.5/1.2, Differential-Neuts:82.5 %,
+   Lymph:10.2 %, Mono:5.9 %, Eos:1.2 %, Albumin:3.0 g/dL, Ca++:8.0 mg/dL,
+   Mg++:1.8 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   Mr. [**Known lastname **] is an 85 year-old man with a history of CAD s/p MI, NSCLC, and
+   diverticulosis who was admitted to [**Hospital1 1896**] for LGIB and chest pain and is
+   transferred to the MICU for management of worsened LGIB.
+   # GI bleed:  Likely lower GI diverticular bleed, as patient has BRBPR
+   and history of severe diverticulosis.  Also on differential are colonic
+   mass, AVM, and colitis, though these are less likely.  Currently
+   hemodynamically stable but history of CAD places him at higher risk of
+   demand ischemia in the setting of anemia.  S/p 1U prbc yesterday.
+   - Colonoscopy without evident source b ut multiple diver/la.
+   - Maintatin 3 PIVs (18G) for access
+   - Maintain active type and screen
+   - hct checks q6hr (10 am, 4 PM)
+   - transfuse to maintain hct of 30
+   - F/U surgery
+   # CAD: Has history of prior NSTEMIs and is s/p PCI.  Positive troponin
+   and neg CK/CK-MB during this admission suggests prior ACS vs demand
+   ischemia in the setting of anemia, though lowest hct only 28.  Given
+   risk of life threatening bleed, will hold aspirin for now; plavix and
+   heparin were not started after admission b/c of bleeding.  CP free at
+   this time.  Discussed with cards fellow.
+   - not on beta blocker at home and would not start at this time
+   - hold aspirin, restart low dose aspirin once HCT stabilizes. d/c
+   plavix.
+   - continue statin
+   # NSCLC: Has stage IIb lesion in RUL diagnosed in [**2-25**], s/p
+   chemotherapy and radiation.  Patient of Dr. [**Last Name (STitle) 4197**].
+   - will f/u with Dr. [**Last Name (STitle) 4197**] as an outpatient
+   # BPH: Stable.
+   - Continue finasteride
+   # Dyslipidemia:
+   - Continue simvastatin.
+   ICU Care
+   Nutrition: NPO, IVFs as needed
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2171-9-6**] 05:57 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Pending colonoscopy today

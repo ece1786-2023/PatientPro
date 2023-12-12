@@ -1,0 +1,152 @@
+Chief Complaint: chest pain; hematemesis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   84M with DM, afib not on a/c, presented with cp and had bloody emesis
+   in the ED; admitted to icu for monitoring prior to EGD:
+   24 Hour Events:
+   *stable overnight
+   *no more hematemesis; no transfusion of fluids
+   *mild chest pain this am
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2109-7-12**] 10:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   glargine, protonix, lipitor, imipramine, calcitrol, zofran prn
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Cardiovascular: Chest pain, No(t) Palpitations, No(t) Edema, No(t)
+   Tachycardia, No(t) Orthopnea
+   Gastrointestinal: Abdominal pain, Nausea, No(t) Emesis, epigastric pain
+   Signs or concerns for abuse
+   Pain: [**12-12**] Minimal
+   Pain location: epigastric / chest
+   Flowsheet Data as of  [**2109-7-13**] 09:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 73 (64 - 81) bpm
+   BP: 112/63(76) {102/56(70) - 129/64(80)} mmHg
+   RR: 16 (11 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+             Total In:
+                                                                    170 mL
+                                                                    104 mL
+   PO:
+             TF:
+   IVF:
+                                                                    170 mL
+                                                                    104 mL
+   Blood products:
+   Total out:
+                                                                    540 mL
+                                                                    980 mL
+   Urine:
+                                                                    340 mL
+                                                                    730 mL
+   NG:
+                                                                    200 mL
+                                                                    250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -370 mL
+                                                                   -876 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///33/
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: No(t) Endotracheal tube, No(t) NG tube, No(t)
+   OG tube, ngt removed this am
+   Lymphatic: No(t) Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   Systolic), [**12-16**] at apex
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Crackles : bases, clear with cough)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to): ,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   9.2 g/dL
+   140 K/uL
+   141 mg/dL
+   2.7 mg/dL
+   33 mEq/L
+   3.5 mEq/L
+   53 mg/dL
+   95 mEq/L
+   139 mEq/L
+   29.7 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**2109-7-13**]  02:45 AM
+   WBC
+   7.5
+   Hct
+   29.7
+   Plt
+   140
+   Cr
+   2.7
+   TropT
+   0.07
+   Glucose
+   141
+   Other labs: PT / PTT / INR:16.3/34.3/1.5, CK / CKMB /
+   Troponin-T:68/3/0.07, Ca++:9.0 mg/dL, Mg++:2.1 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   1. chest pain
+   2. hematemesis
+   3. ?elevated amylase / lipase
+   4. pulmonary nodules / ?infiltrate
+   5. afib
+   85M with DM, afib not on anticoagulation,CKD, h/o gastritis, presents
+   with chest pain without ekg changes and without troponin elevation from
+   baseline, and one episode of hematemesis in the ED. pt is seen by GI
+   last night and this am and GI team is considering EGD. For now, the
+   patient is stable without any more episodes.
+   Patient has a question of a lung infiltrate at the right base. he has
+   no fever, wbc elevation or cough. At this point will hold off on
+   continuting antibiotics and obtain a pa/lateral.
+   Will obtain RUQ ultrasound given mildly elevated amylase and lipase and
+   intermittent epigastric pain.
+   If hct remains unchanged this early PM, patient is stable for the floor
+   today.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2109-7-12**] 10:11 PM
+   18 Gauge - [**2109-7-12**] 10:15 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments: sw consulted for support given recent
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35 minutes

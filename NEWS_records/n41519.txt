@@ -1,0 +1,207 @@
+Chief Complaint:
+   24 Hour Events:
+ FEVER - 102.9
+F - [**2161-1-17**] 12:00 AM
+   Cultured o/n
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Tobramycin - [**2161-1-15**] 11:34 PM
+   Meropenem - [**2161-1-16**] 01:52 PM
+   Metronidazole - [**2161-1-16**] 10:02 PM
+   Vancomycin - [**2161-1-17**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2161-1-16**] 08:12 AM
+   Heparin Sodium (Prophylaxis) - [**2161-1-16**] 12:19 PM
+   Fentanyl - [**2161-1-16**] 02:00 PM
+   Midazolam (Versed) - [**2161-1-16**] 02:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2161-1-17**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.4
+C (102.9
+   Tcurrent: 38.1
+C (100.5
+   HR: 95 (90 - 121) bpm
+   BP: 108/43(57) {91/29(45) - 144/66(75)} mmHg
+   RR: 17 (16 - 30) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+             Total In:
+                                                                  3,109 mL
+                                                                    591 mL
+   PO:
+             TF:
+                                                                  1,414 mL
+   IVF:
+                                                                  1,595 mL
+                                                                    591 mL
+   Blood products:
+   Total out:
+                                                                  1,122 mL
+                                                                    250 mL
+   Urine:
+                                                                  1,122 mL
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,987 mL
+                                                                    341 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 621 (420 - 621) mL
+   PS : 16 cmH2O
+   RR (Spontaneous): 19
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 27 cmH2O
+   SpO2: 96%
+   ABG: ///28/
+   Ve: 8.3 L/min
+   Physical Examination
+   Gen: intubated, awake able to communicate with nodding
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal). No m/r/g. Distant
+   Respiratory / Chest: (Breath Sounds: Diminished: ) Clear
+   Skin:  Warm
+   Neurologic: awakes to sternal rub, seems agitated upon awakening,
+   writhing in bed
+   Labs / Radiology
+   268 K/uL
+   6.4 g/dL
+   140 mg/dL
+   1.0 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   16 mg/dL
+   109 mEq/L
+   142 mEq/L
+   21.0 %
+   6.3 K/uL
+        [image002.jpg]
+BCx: [**2160-1-15**] GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS. (2/2 bottles)
+CXR: No sig change from prior
+                            [**2161-1-13**]  05:04 PM
+                            [**2161-1-14**]  12:15 AM
+                            [**2161-1-14**]  04:17 PM
+                            [**2161-1-14**]  10:30 PM
+                             [**2161-1-15**]  02:53 AM
+                             [**2161-1-15**]  05:10 PM
+                             [**2161-1-15**]  07:50 PM
+                             [**2161-1-16**]  03:08 AM
+                             [**2161-1-16**]  04:45 PM
+                             [**2161-1-17**]  03:23 AM
+   WBC
+   6.9
+   6.4
+   6.9
+   6.7
+   7.0
+   6.3
+   Hct
+   23.0
+   23.2
+   22.8
+   21.6
+   23.2
+   21.0
+   Plt
+   [**Telephone/Fax (3) 4761**]
+   Cr
+   1.1
+   1.0
+   1.0
+   1.0
+   1.0
+   0.9
+   1.0
+   1.1
+   1.1
+   1.0
+   Glucose
+   103
+   97
+   86
+   86
+   99
+   427
+   127
+   126
+   115
+   140
+   Other labs: PT / PTT / INR:16.2/27.8/1.4, CK / CKMB /
+   Troponin-T:600/9/0.02, ALT / AST:40/41, Alk Phos / T Bili:68/0.4,
+   Amylase / Lipase:37/87, Differential-Neuts:73.0 %, Band:0.0 %,
+   Lymph:14.8 %, Mono:4.4 %, Eos:7.2 %, Fibrinogen:683 mg/dL, Lactic
+   Acid:1.2 mmol/L, Albumin:2.5 g/dL, LDH:688 IU/L, Ca++:7.5 mg/dL,
+   Mg++:1.9 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   49M with PMH of morbid obesity, type 2 DM, and hypertension admitted
+   with shock, respiratory failure, and acute renal failure.
+   # Hypercarbic Respiratory failure: Pt is s/p trach placement. Patient
+   is tolerating PSV today.  CXR shows question of L sided infiltrate.
+   Sputum positive for GNRs
+   - will continue current resp support
+   - f/u cx data
+   - reposition in bed PRN
+   .
+# Hypotension/Fever:  Pt spiked a temp overnight.  Pan cultured.  UA shows evide
+nce of UTI, will follow urine cultures.  Urology contact[**Name (NI) **] regarding replacement
+ of foley catheter, and they declined.  Other cultures remains without growth to
+ date.  Per plastics wounds described as multiple stage 2-3 ulcers with fibrinou
+s bases and granulating edges. No evidence of superinfection. IV tip culture (Ac
+inetobacter, Coag Neg Staph)  thought to be contaminants per ID.  BCx positive f
+or Gram + cocci in clusters, chains.  L sided infilitrate on CXR.  GNRs in sputu
+m.  C-diff positive.
+-  started on Vanc, Zosyn, Flagyl and added Tobramycin
+   -  F/U cx data
+   .
+   # ARF: Cr remains stable at 1.0. Good UOP.  Free water flushes
+   currently 250cc Q6hr.  Monitor I&Os.
+   -  monitor UOP, maintain >30cc/hour, maintain MAP>65
+   .
+   # Anemia: Hct remains stable.  As per conversation with family, wife
+   consented to blood products if absolutely necessary (i.e. during PEG
+   and/or Trach surgery).  Fe studies suggest anemia of chronic disease.
+   - continue PPI
+   - trend hct
+   .
+   # Skin Breakdown: Multiple areas of stage 2-3 decubs. Some unstageable.
+   Questionable source of prior fever.
+   - Remains off antibiotics.
+   - Extensive wound care recs
+   - miconazole cream/ powder to affected areas
+   .
+   # Type 2 DM: FS under control
+   - Cont Insulin SS
+   .
+   # FEN: TFs via NGT, getting free water, Na stable
+   - PM lytes
+   - Replete lytes PRN
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2161-1-9**] 03:42 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

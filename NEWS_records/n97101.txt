@@ -1,0 +1,183 @@
+Chief Complaint: DOE/SOB
+   24 Hour Events:
+ NASAL SWAB - At [**2192-12-24**] 01:51 AM
+   adm mrsa
+   - swift relief of symptoms on lasix
+   History obtained from [**Hospital 31**] Medical records
+   Allergies:
+   History obtained from [**Hospital 31**] Medical recordsCozaar (Oral) (Losartan
+   Potassium)
+   Cough;
+   Spironolactone
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2192-12-24**] 06:39 AM
+   Furosemide (Lasix) - [**2192-12-24**] 06:39 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2192-12-24**] 07:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**94**] AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 36.3
+C (97.3
+   HR: 105 (105 - 114) bpm
+   BP: 127/71(85) {122/61(66) - 136/76(98)} mmHg
+   RR: 25 (18 - 33) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 206.8 kg (admission): 206.8 kg
+   Height: 69 Inch
+                  Total In:
+                  100 mL
+   PO:
+                  100 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                   2250 mL
+   Urine:
+   700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                -2, 250 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///28/
+   Physical Examination
+   GENERAL: Obese African-American man in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple without appreciable JVP, although cannot currently assess
+   due to body habitus.  Dark Acanthosis nigricans bilaterally
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, crackles at Right base, no
+   wheezes or rhonchi.
+   ABDOMEN: Obese with diffuse anasarca and tense skin.  No pain on
+   palpation. Positive bowel sounds.
+   EXTREMITIES: 3+ pitting edema to mid-abodmen.  Dry skin of lower
+   extremities with changes of venous stasis.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Skin: dry, cool. Acanthosis as above.
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   330 K/uL
+   12.9 g/dL
+   102 mg/dL
+   1.1 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   15 mg/dL
+   101 mEq/L
+   137 mEq/L
+   39.7 %
+   11.7 K/uL
+        [image002.jpg]
+                             [**2192-12-24**]  03:52 AM
+   WBC
+   11.7
+   Hct
+   39.7
+   Plt
+   330
+   Cr
+   1.1
+   TropT
+   0.01
+   Glucose
+   102
+   Other labs: CK / CKMB / Troponin-T:84//0.01, Ca++:8.9 mg/dL, Mg++:1.9
+   mg/dL, PO4:4.7 mg/dL
+   Assessment and Plan
+   Mr. [**Known lastname 10185**] is a 24 year old man with a history of non-ischemic
+   cardiomyopathy, NYH Class II CHF, EF 15-20% who presents with acute on
+   chronic CHF exacerbation.
+   .
+   1. Acute on Chronic CHF Exacerbation: Underlying etiology was presumed
+   to be viral in origin, could also be related to cocaine use in year
+   prior to diagnosis or alcohol abuse.  All lab testing negative except
+   RSV, including HIV, EBV, CMV, Lyme, RPR.  Current exacerbation likely
+   due to poor compliance as patient does not weigh himself.  Appears to
+   be taking medications as prescribed and does not report missing any
+   doses.  No current evidence (enzyme, ekg) of ischemic event.
+   PLAN FOR [**2191-12-25**]
+   - will continue diuresis with Lasix, additional 40mg IV now (80 mg
+   total)
+   - monitor Is/Os; goal negative 1-2 liters/day
+   - checking iron studies, consider IV iron replacement
+   - electrolyte repletion
+   - fluid restrict 2000ml
+   - continue b-blockade with Toprol XL 75mg PO BID per Dr.[**Name (NI) 10186**] note
+   - continue rule out with cardiac enzymes (negative x 2)
+   - full dose aspirin for LV thrombus prevention
+   - continue Digoxin, will re-load due to low Digoxin level with 0.5mg X
+   1, then 0.25mg. [**Month (only) 11**] need higher dose if subtherapeutic
+   - ECG in AM
+   - tell EP that patient is in house, they may implant AICD
+   .
+   2. Tachycardia: Sinus rhythm.  Per prior records, this is likely
+   chronic.  CHF exacerbation may be contributing. SO
+   - continue home dose of Metoprolol for sinus tachycardia
+   .
+   3. SOB: resolving. certainly related to CHF exacerbation. Given swift
+   response to lasix, chronic tachycardia (below baseline) lack of risk
+   factors (no immobility, plane trips, hx) for VTE, we did not check
+   d-dimer.
+   - tx with diuresis
+   .
+   4. Leukocytosis: No evidence of infection based on exam.  Appears
+   chronic compared to prior levels.  Likely stress response.
+   - continue to monitor
+   .
+   5. Microcytic, Mild Anemia: has had rectal bleeding with negative CT
+   colon in past. Has very low EF, may be chronically hemolyzing. Is HbAC,
+   this is just the C-trait carrier phenotype and likely does not explain
+   his microcytosis.
+   -
+   - iron studies
+   - IV iron can improve symptoms.
+   .
+   FEN:  cardiac, low sodium diet; fluid restrict 2000ml
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with SC Heparin
+   -Bowel regimen with colace, senna
+   .
+   CODE: Full, confirmed on admission
+   .
+   COMM: patient
+   .
+   DISPO: Call out to floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2192-12-24**] 01:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

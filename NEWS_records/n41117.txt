@@ -1,0 +1,188 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Has remained off pressors and thus far has been able to be run negative
+   over the last 24 hours.
+   Started on steroids over the weekend for presumed auto-immune
+   thrombocytopenia.  Continued small amount of bleeding, no vigorous
+   bleeding.  Received 1 unit PRBC yesterday.
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2123-12-19**] 12:00 PM
+   Metronidazole - [**2123-12-19**] 08:00 PM
+   Infusions:
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2123-12-21**] 12:00 AM
+   Other medications:
+   RISS, midodrine, epogen, lactulose, albuterol/atrovent, ciprofloxacin,
+   pantoprazole, solumedrol 70mg Q24hr, rifaximin
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2123-12-21**] 10:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 98 (80 - 101) bpm
+   BP: 78/40(56) {76/40(56) - 102/50(69)} mmHg
+   RR: 20 (15 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 89 kg (admission): 92 kg
+   Height: 62 Inch
+   CVP: 8 (7 - 12)mmHg
+   Total In:
+                                                                  8,783 mL
+                                                                  3,708 mL
+   PO:
+   TF:
+                                                                  1,318 mL
+                                                                    532 mL
+   IVF:
+                                                                  6,924 mL
+                                                                  3,086 mL
+   Blood products:
+                                                                    271 mL
+   Total out:
+                                                                 10,276 mL
+                                                                  3,915 mL
+   Urine:
+   NG:
+   Stool:
+                                                                  1,720 mL
+                                                                    250 mL
+   Drains:
+   Balance:
+                                                                 -1,493 mL
+                                                                   -202 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: 7.41/34/77/20/-1
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: Icteric sclera
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Diminished: at bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed, No(t) Rash: , Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   7.7 g/dL
+   13 K/uL
+   131 mg/dL
+   0.6 mg/dL
+   20 mEq/L
+   4.2 mEq/L
+   16 mg/dL
+   108 mEq/L
+   139 mEq/L
+   21.7 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**2123-12-20**]  03:44 AM
+                             [**2123-12-20**]  03:57 AM
+                             [**2123-12-20**]  10:17 AM
+                             [**2123-12-20**]  10:21 AM
+                             [**2123-12-20**]  04:06 PM
+                             [**2123-12-20**]  04:14 PM
+                             [**2123-12-20**]  10:08 PM
+                             [**2123-12-20**]  10:13 PM
+                             [**2123-12-21**]  04:02 AM
+                             [**2123-12-21**]  04:14 AM
+   WBC
+   8.3
+   9.6
+   Hct
+   19.5
+   21.1
+   21.7
+   Plt
+   13
+   13
+   Cr
+   0.6
+   0.9
+   0.9
+   0.6
+   TCO2
+   20
+   23
+   23
+   23
+   22
+   Glucose
+   133
+   126
+   114
+   124
+   131
+   Other labs: PT / PTT / INR:26.0/47.9/2.6, CK / CKMB / Troponin-T:28//,
+   ALT / AST:86/146, Alk Phos / T Bili:82/24.9, Amylase / Lipase:/41,
+   Differential-Neuts:80.0 %, Band:2.0 %, Lymph:9.0 %, Mono:8.0 %, Eos:1.0
+   %, Fibrinogen:156 mg/dL, Lactic Acid:2.1 mmol/L, Albumin:2.0 g/dL,
+   LDH:240 IU/L, Ca++:10.7 mg/dL, Mg++:2.2 mg/dL, PO4:2.6 mg/dL
+   Imaging: No new imaging
+   Microbiology: No new micro data
+   Assessment and Plan
+   45yo with ESLD initally admitted with acute alcholic hepatits.  Course
+   has been complicated by ARF requiring CVVH, respiratory failure
+   requiring intubation, and now thrombocytopenia
+   Thrombocytopenia:   As previously described, likely multifactorial.
+   Currently on steroids for concern for autoimmune thrombocytopenia.
+     -Continue methylprednisolone for 3-4 days per heme.  Reserving
+   platelet transfusion for vigorous bleeding.
+     -Transfuse PRBC for crit<21
+   Renal Failure:  Remains anuric.  BP's marginal today after negative
+   fluid balance yesterday.
+     -Will discuss with renal about possibility of a CVVH holiday and
+   attempt at HD in near future
+   Hypotension: BP's marginal but tolerating fluid removal over the last
+   36 hours.  No signs of infection at present
+     -Continue midodrine
+   Cirrhosis:  Continue lactulose/rifaximin for encephalopathy.  On cipro
+   for SBP prophylaxis.
+    Pulm:  Status much improved from Friday but still at overall increased
+   risk of aspiration.
+     -Continue Pulmonary toilet
+   GOC:  Will continue ongoing discussions with family.
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2123-12-21**] 07:01 AM 55 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2123-12-3**] 05:45 PM
+   Arterial Line - [**2123-12-9**] 05:31 AM
+   Dialysis Catheter - [**2123-12-10**] 07:44 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes

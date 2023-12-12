@@ -87,6 +87,85 @@ class qSOFA(Metric):
         if data['systolic_bp'] <= 100:      score += 1
         return score
 
+class NEWS(Metric):
+    name = "NEWS Score"
+    id = "news"
+    schema = (
+        "{\n"
+        "  \"respiratory_rate\": int,\n"
+        "  \"o2_saturation\": int,\n"
+        "  \"supplemental_o2\": boolean,\n"
+        "  \"temperature\": float,\n"
+        "  \"systolic_bp\": int,\n"
+        "  \"heart_rate\": int,\n"
+        "  \"AVPU\": string,\n"
+        "}"
+    )
+    prompt = (
+        "Given a medical record of a patient, extract the following pieces of information:\n\n"
+        "1. Respiratory rate RR (integer).\n"
+        "2. Oxygen saturation percentage SpO2 (integer).\n"
+        "3. If the patient is receiving supplemental oxygen (boolean).\n"
+        "4. Temperature in Celsius (float).\n"
+        "5. Systolic blood pressure (integer).\n"
+        "6. Heart Rate bpm (integer)\n"
+        "7. AVPU Score: (single character). One of {A, V, P, U} based on if the patient is fully Awake, " 
+                        "responds to Verbal stimulation, responds to Painful stimulation, "
+                        "or is Unresponsive, respectively.\n\n"
+        "Additional notes:\n"
+        "Do not report values from the HPI (History of Present Illness) section, only current readings.\n"
+        "For Respiratory rate, ignore RR (spontaneous) unless it's the only one present.\n"
+        "Use only the following schema for the output, and ensure that it is strictly followed:\n\n"
+        f"{schema}"
+    )
+    
+    def compute_score(self, data):
+        score = 0
+        
+        RR = data['respiratory_rate']
+        if      RR <= 8:            score += 3
+        elif    9  <= RR <= 11:     score += 1
+        elif    12 <= RR <= 20:     score += 0
+        elif    21 <= RR <= 24:     score += 2
+        elif    RR >= 25:           score += 3
+
+        O2 = data['o2_saturation']
+        if      O2 <= 91:           score += 3
+        elif    92 <= O2 <= 93:     score += 2 
+        elif    94 <= O2 <= 95:     score += 1 
+        elif    O2 >= 96:           score += 0
+
+        SO2 = data['supplemental_o2']
+        if      SO2 == True:        score += 2
+
+        T = data['temperature']
+        if      T <= 35.0:          score += 3
+        elif    35.1 <= T <= 36.0:  score += 1
+        elif    36.1 <= T <= 38.0:  score += 0
+        elif    38.1 <= T <= 39.0:  score += 1
+        elif    T >= 39.1:          score += 2
+
+        SBP = data['systolic_bp']
+        if      SBP <= 90:          score += 3
+        elif    91  <= SBP <= 100:  score += 2
+        elif    101 <= SBP <= 110:  score += 1
+        elif    111 <= SBP <= 219:  score += 0
+        elif    SBP >= 220:         score += 3
+
+        HR = data['heart_rate']
+        if      HR  <= 40:          score += 3
+        elif    41  <= HR <= 50:    score += 1
+        elif    51  <= HR <= 90:    score += 0
+        elif    91  <= HR <= 110:   score += 1
+        elif    111 <= HR <= 130:   score += 2
+        elif    HR  >= 131:         score += 3
+
+        AVPU = data['AVPU']
+        VPU = {'V','P','U'}
+        if      AVPU == 'A':        score += 0
+        elif    AVPU in VPU:        score += 3
+
+        return score
 
 def get_metric(metric_str):
     metric_classes = {cls.id: cls for cls in Metric.__subclasses__()}
